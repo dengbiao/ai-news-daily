@@ -1,0 +1,16 @@
+{
+  "name": "ai-news-daily",
+  "version": "1.0.0",
+  "description": "AI Daily News - Curated AI news, 10 articles max, deployed to GitHub Pages",
+  "scripts": {
+    "crawl": "node scripts/crawl.js",
+    "build": "node scripts/build-site.js",
+    "dev": "npx serve site",
+    "test": "npm run crawl && npm run build"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "turndown": "^7.1.2"
+  },
+  "license": "MIT"
+}

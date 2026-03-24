@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "category": "company",
+      "priority": "high"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/rss",
+      "category": "company",
+      "priority": "high"
+    },
+    {
+      "name": "Google AI",
+      "url": "https://blog.google/technology/ai/rss",
+      "category": "company",
+      "priority": "high"
+    },
+    {
+      "name": "Meta AI",
+      "url": "https://ai.meta.com/feed/rss",
+      "category": "company",
+      "priority": "high"
+    },
+    {
+      "name": "Microsoft AI",
+      "url": "https://blogs.microsoft.com/ai/feed",
+      "category": "company",
+      "priority": "high"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/rss.xml",
+      "category": "research",
+      "priority": "high"
+    },
+    {
+      "name": "DeepMind",
+      "url": "https://deepmind.com/blog/feed/rss",
+      "category": "research",
+      "priority": "high"
+    },
+    {
+      "name": "ArXiv Sanity - AI",
+      "url": "http://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=20",
+      "category": "research",
+      "priority": "medium"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed",
+      "category": "industry",
+      "priority": "medium"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai/index.xml",
+      "category": "industry",
+      "priority": "medium"
+    }
+  ]
+}
