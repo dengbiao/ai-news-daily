@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-27",
+  "articles": [
+    {
+      "title": "EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents",
+      "description": "As the Web transitions from static retrieval to generative interaction, the escalating environmental footprint of Large Language Models (LLMs) presents a critical sustainability challenge. Current paradigms indiscriminately apply computation-intensive strategies like Chain-of-Thought (CoT) to bil...",
+      "link": "https://arxiv.org/abs/2603.25498v1",
+      "pubDate": "2026-03-26T14:37:46.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models",
+      "description": "Large language models (LLMs) increasingly rely on explicit chain-of-thought (CoT) reasoning to solve complex tasks, yet the safety of the reasoning process itself remains largely unaddressed. Existing work on LLM safety focuses on content safety--detecting harmful, biased, or factually incorrect ...",
+      "link": "https://arxiv.org/abs/2603.25412v1",
+      "pubDate": "2026-03-26T13:08:56.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "description": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "pubDate": "Tue, 06 Dec 2022 17:29:09 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+      "description": "The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+      "pubDate": "Wed, 12 Oct 2022 16:00:02 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [
+        "Microsoft"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Microsoft open sources its ‘farm of the future’ toolkit",
+      "description": "The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "pubDate": "Thu, 06 Oct 2022 14:58:15 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [
+        "Microsoft"
+      ],
+      "score": 10
+    },
+    {
+      "title": "How data and AI will transform contact centres for financial services",
+      "description": "The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.",
+      "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+      "pubDate": "Mon, 25 Jul 2022 14:49:33 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "AI-equipped drones study dolphins on the edge of extinction",
+      "description": "The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.",
+      "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+      "pubDate": "Thu, 21 Jul 2022 14:50:33 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+      "description": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "pubDate": "Wed, 13 Jul 2022 12:59:50 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+      "description": "The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+      "pubDate": "Wed, 06 Jul 2022 14:51:23 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Microsoft’s framework for building AI systems responsibly",
+      "description": "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.",
+      "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+      "pubDate": "Tue, 21 Jun 2022 17:50:03 +0000",
+      "source": "Microsoft AI",
+      "sourceCategory": "company",
+      "entities": [
+        "Microsoft"
+      ],
+      "score": 10
+    }
+  ]
+}

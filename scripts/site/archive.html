@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive — AI Daily News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    .archive-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1rem;
+      padding: 2rem 0;
+    }
+    .archive-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 1.25rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      text-decoration: none;
+      color: var(--text);
+      transition: all 0.2s ease;
+    }
+    .archive-item:hover {
+      background: var(--card-hover);
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+    .archive-item time {
+      font-weight: 500;
+    }
+    .archive-item .count {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+  <header class="hero hero-sm">
+    <div class="container">
+      <h1 class="title">
+        <a href="/" class="gradient-text" style="text-decoration: none;">AI Daily</a>
+        <span class="subtitle">Archive</span>
+      </h1>
+      <nav class="archive-nav">
+        <a href="/">Today</a>
+        <a href="/archive.html" class="current">Archive</a>
+        <a href="https://github.com/dengbiao" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <div class="archive-grid">
+      <a href="/daily/2026-03-27" class="archive-item">
+      <time datetime="2026-03-27">Mar 27, 2026</time>
+      <span class="count">10 articles</span>
+    </a>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p>Curated with <span class="heart">♥</span> by AI | <a href="https://github.com/dengbiao/ai-news-daily" target="_blank" rel="noopener">Source</a></p>
+    </div>
+  </footer>
+</body>
+</html>
