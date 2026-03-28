@@ -6,21 +6,37 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 02:28:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 02:14:19 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents]]></title>
-      <link>https://arxiv.org/abs/2603.25498v1</link>
-      <description><![CDATA[As the Web transitions from static retrieval to generative interaction, the escalating environmental footprint of Large Language Models (LLMs) presents a critical sustainability challenge. Current paradigms indiscriminately apply computation-intensive strategies like Chain-of-Thought (CoT) to bil...]]></description>
-      <pubDate>Thu, 26 Mar 2026 14:37:46 GMT</pubDate>
+      <title><![CDATA[Back to Basics: Revisiting ASR in the Age of Voice Agents]]></title>
+      <link>https://arxiv.org/abs/2603.25727v1</link>
+      <description><![CDATA[Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systematically cover. Without diagnostic tools that isolate specific failure factors, practitioners cannot...]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:59:03 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models]]></title>
-      <link>https://arxiv.org/abs/2603.25412v1</link>
-      <description><![CDATA[Large language models (LLMs) increasingly rely on explicit chain-of-thought (CoT) reasoning to solve complex tasks, yet the safety of the reasoning process itself remains largely unaddressed. Existing work on LLM safety focuses on content safety--detecting harmful, biased, or factually incorrect ...]]></description>
-      <pubDate>Thu, 26 Mar 2026 13:08:56 GMT</pubDate>
+      <title><![CDATA[Natural-Language Agent Harnesses]]></title>
+      <link>https://arxiv.org/abs/2603.25723v1</link>
+      <description><![CDATA[Agent performance increasingly depends on \emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study as a scientific object. We ask whether the high-level control logic of an agent harness ca...]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:58:15 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning]]></title>
+      <link>https://arxiv.org/abs/2603.25720v1</link>
+      <description><![CDATA[Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual representations of the same concept. Rather than masking these failures with standard voting mechani...]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:58:04 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?]]></title>
+      <link>https://arxiv.org/abs/2603.25719v1</link>
+      <description><![CDATA[We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimiz...]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:57:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
       <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
       <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
