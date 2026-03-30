@@ -6,37 +6,53 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 02:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:34:19 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Back to Basics: Revisiting ASR in the Age of Voice Agents]]></title>
-      <link>https://arxiv.org/abs/2603.25727v1</link>
-      <description><![CDATA[Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systematically cover. Without diagnostic tools that isolate specific failure factors, practitioners cannot...]]></description>
-      <pubDate>Thu, 26 Mar 2026 17:59:03 GMT</pubDate>
+      <title><![CDATA[Sora’s shutdown could be a reality check moment for AI video]]></title>
+      <link>https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/</link>
+      <description><![CDATA[Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?]]></description>
+      <pubDate>Sun, 29 Mar 2026 16:30:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?]]></title>
+      <link>https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/</link>
+      <description><![CDATA[When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is startin...]]></description>
+      <pubDate>Fri, 27 Mar 2026 15:40:19 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI shuts down Sora while Meta gets shut out in court]]></title>
+      <link>https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/</link>
+      <description><![CDATA[When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is startin...]]></description>
+      <pubDate>Fri, 27 Mar 2026 13:30:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification]]></title>
+      <link>https://arxiv.org/abs/2603.26648v1</link>
+      <description><![CDATA[Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we introduce Vision2Web, a hierarchical benchmark for visual website development, spanning from stat...]]></description>
+      <pubDate>Fri, 27 Mar 2026 17:50:45 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Natural-Language Agent Harnesses]]></title>
-      <link>https://arxiv.org/abs/2603.25723v1</link>
-      <description><![CDATA[Agent performance increasingly depends on \emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study as a scientific object. We ask whether the high-level control logic of an agent harness ca...]]></description>
-      <pubDate>Thu, 26 Mar 2026 17:58:15 GMT</pubDate>
+      <title><![CDATA[Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling]]></title>
+      <link>https://arxiv.org/abs/2603.26610v1</link>
+      <description><![CDATA[Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records offer only coarse location cues (e.g., serving-cell identifiers) and therefore limit their direct u...]]></description>
+      <pubDate>Fri, 27 Mar 2026 17:07:13 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning]]></title>
-      <link>https://arxiv.org/abs/2603.25720v1</link>
-      <description><![CDATA[Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual representations of the same concept. Rather than masking these failures with standard voting mechani...]]></description>
-      <pubDate>Thu, 26 Mar 2026 17:58:04 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?]]></title>
-      <link>https://arxiv.org/abs/2603.25719v1</link>
-      <description><![CDATA[We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce an agent factory, a two-stage pipeline that constructs and coordinates multiple autonomous optimiz...]]></description>
-      <pubDate>Thu, 26 Mar 2026 17:57:50 GMT</pubDate>
+      <title><![CDATA[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering]]></title>
+      <link>https://arxiv.org/abs/2603.26567v1</link>
+      <description><![CDATA[Large Language Models (LLMs) have shown impressive capabilities across software engineering tasks, including question answering (QA). However, most studies and benchmarks focus on isolated functions or single-file snippets, overlooking the challenges of real-world program comprehension, which oft...]]></description>
+      <pubDate>Fri, 27 Mar 2026 16:30:54 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
       <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
       <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
