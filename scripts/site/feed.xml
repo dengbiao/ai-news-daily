@@ -6,53 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:29:10 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Sora’s shutdown could be a reality check moment for AI video]]></title>
-      <link>https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/</link>
-      <description><![CDATA[Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?]]></description>
-      <pubDate>Sun, 29 Mar 2026 16:30:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?]]></title>
-      <link>https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/</link>
-      <description><![CDATA[When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is startin...]]></description>
-      <pubDate>Fri, 27 Mar 2026 15:40:19 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI shuts down Sora while Meta gets shut out in court]]></title>
-      <link>https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/</link>
-      <description><![CDATA[When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is startin...]]></description>
-      <pubDate>Fri, 27 Mar 2026 13:30:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification]]></title>
-      <link>https://arxiv.org/abs/2603.26648v1</link>
-      <description><![CDATA[Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we introduce Vision2Web, a hierarchical benchmark for visual website development, spanning from stat...]]></description>
-      <pubDate>Fri, 27 Mar 2026 17:50:45 GMT</pubDate>
+      <title><![CDATA[Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents]]></title>
+      <link>https://arxiv.org/abs/2603.27626v1</link>
+      <description><![CDATA[I propose Umwelt engineering -- the deliberate design of the linguistic cognitive environment -- as a third layer in the agent design stack, upstream of both prompt and context engineering. Two experiments test the thesis that altering the medium of reasoning alters cognition itself. In Experimen...]]></description>
+      <pubDate>Sun, 29 Mar 2026 10:49:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling]]></title>
-      <link>https://arxiv.org/abs/2603.26610v1</link>
-      <description><![CDATA[Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records offer only coarse location cues (e.g., serving-cell identifiers) and therefore limit their direct u...]]></description>
-      <pubDate>Fri, 27 Mar 2026 17:07:13 GMT</pubDate>
+      <title><![CDATA[InnerPond: Fostering Inter-Self Dialogue with a Multi-Agent Approach for Introspection]]></title>
+      <link>https://arxiv.org/abs/2603.27563v1</link>
+      <description><![CDATA[Introspection is central to identity construction and future planning, yet most digital tools approach the self as a unified entity. In contrast, Dialogical Self Theory (DST) views the self as composed of multiple internal perspectives, such as values, concerns, and aspirations, that can come int...]]></description>
+      <pubDate>Sun, 29 Mar 2026 07:52:39 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering]]></title>
-      <link>https://arxiv.org/abs/2603.26567v1</link>
-      <description><![CDATA[Large Language Models (LLMs) have shown impressive capabilities across software engineering tasks, including question answering (QA). However, most studies and benchmarks focus on isolated functions or single-file snippets, overlooking the challenges of real-world program comprehension, which oft...]]></description>
-      <pubDate>Fri, 27 Mar 2026 16:30:54 GMT</pubDate>
+      <title><![CDATA[Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems: Taxonomy, Coordination Primacy, and Cost Awareness]]></title>
+      <link>https://arxiv.org/abs/2603.27539v1</link>
+      <description><![CDATA[Multi-agent systems based on large language models (LLMs) for financial trading have grown rapidly since 2023, yet the field lacks a shared framework for understanding what drives performance or for evaluating claims credibly. This survey makes three contributions. First, we introduce a four-dime...]]></description>
+      <pubDate>Sun, 29 Mar 2026 06:35:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -85,6 +61,30 @@
       <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
       <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
       <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
+      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
+      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
+      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
+      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
