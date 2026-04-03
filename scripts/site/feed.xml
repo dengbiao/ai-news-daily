@@ -6,29 +6,21 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:27:30 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents]]></title>
-      <link>https://arxiv.org/abs/2603.27626v1</link>
-      <description><![CDATA[I propose Umwelt engineering -- the deliberate design of the linguistic cognitive environment -- as a third layer in the agent design stack, upstream of both prompt and context engineering. Two experiments test the thesis that altering the medium of reasoning alters cognition itself. In Experimen...]]></description>
-      <pubDate>Sun, 29 Mar 2026 10:49:50 GMT</pubDate>
+      <title><![CDATA[Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges]]></title>
+      <link>https://arxiv.org/abs/2604.02211v1</link>
+      <description><![CDATA[Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic req...]]></description>
+      <pubDate>Thu, 02 Apr 2026 16:04:52 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[InnerPond: Fostering Inter-Self Dialogue with a Multi-Agent Approach for Introspection]]></title>
-      <link>https://arxiv.org/abs/2603.27563v1</link>
-      <description><![CDATA[Introspection is central to identity construction and future planning, yet most digital tools approach the self as a unified entity. In contrast, Dialogical Self Theory (DST) views the self as composed of multiple internal perspectives, such as values, concerns, and aspirations, that can come int...]]></description>
-      <pubDate>Sun, 29 Mar 2026 07:52:39 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems: Taxonomy, Coordination Primacy, and Cost Awareness]]></title>
-      <link>https://arxiv.org/abs/2603.27539v1</link>
-      <description><![CDATA[Multi-agent systems based on large language models (LLMs) for financial trading have grown rapidly since 2023, yet the field lacks a shared framework for understanding what drives performance or for evaluating claims credibly. This survey makes three contributions. First, we introduce a four-dime...]]></description>
-      <pubDate>Sun, 29 Mar 2026 06:35:07 GMT</pubDate>
+      <title><![CDATA[MTI: A Behavior-Based Temperament Profiling System for AI Agents]]></title>
+      <link>https://arxiv.org/abs/2604.02145v1</link>
+      <description><![CDATA[AI models of equivalent capability can exhibit fundamentally different behavioral patterns, yet no standardized instrument exists to measure these dispositional differences. Existing approaches either borrow human personality dimensions and rely on self-report (which diverges from actual behavior...]]></description>
+      <pubDate>Thu, 02 Apr 2026 15:15:57 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -85,6 +77,14 @@
       <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
       <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
       <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
+      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
+      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
