@@ -6,21 +6,21 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 02:27:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:12:24 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges]]></title>
-      <link>https://arxiv.org/abs/2604.02211v1</link>
-      <description><![CDATA[Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are increasingly limited in addressing the dynamic req...]]></description>
-      <pubDate>Thu, 02 Apr 2026 16:04:52 GMT</pubDate>
+      <title><![CDATA[Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency]]></title>
+      <link>https://arxiv.org/abs/2604.02280v1</link>
+      <description><![CDATA[Long-horizon conversational agents require persistent memory for coherent reasoning, yet uncontrolled accumulation causes temporal decay and false memory propagation. Benchmarks such as LOCOMO and LOCCO report performance degradation from 0.455 to 0.05 across stages, while MultiWOZ shows 78.2% ac...]]></description>
+      <pubDate>Thu, 02 Apr 2026 17:14:53 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MTI: A Behavior-Based Temperament Profiling System for AI Agents]]></title>
-      <link>https://arxiv.org/abs/2604.02145v1</link>
-      <description><![CDATA[AI models of equivalent capability can exhibit fundamentally different behavioral patterns, yet no standardized instrument exists to measure these dispositional differences. Existing approaches either borrow human personality dimensions and rely on self-report (which diverges from actual behavior...]]></description>
-      <pubDate>Thu, 02 Apr 2026 15:15:57 GMT</pubDate>
+      <title><![CDATA[The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management]]></title>
+      <link>https://arxiv.org/abs/2604.02279v1</link>
+      <description><![CDATA[Agentic AI shifts the investor's role from analytical execution to oversight. We present an agentic strategic asset allocation pipeline in which approximately 50 specialized agents produce capital market assumptions, construct portfolios using over 20 competing methods, and critique and vote on e...]]></description>
+      <pubDate>Thu, 02 Apr 2026 17:13:04 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
