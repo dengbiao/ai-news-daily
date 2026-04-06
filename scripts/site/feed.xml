@@ -6,21 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 02:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 02:35:14 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency]]></title>
-      <link>https://arxiv.org/abs/2604.02280v1</link>
-      <description><![CDATA[Long-horizon conversational agents require persistent memory for coherent reasoning, yet uncontrolled accumulation causes temporal decay and false memory propagation. Benchmarks such as LOCOMO and LOCCO report performance degradation from 0.455 to 0.05 across stages, while MultiWOZ shows 78.2% ac...]]></description>
-      <pubDate>Thu, 02 Apr 2026 17:14:53 GMT</pubDate>
+      <title><![CDATA[Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding]]></title>
+      <link>https://arxiv.org/abs/2604.03201v1</link>
+      <description><![CDATA[Agentic AI is increasingly judged not by fluent output alone but by whether it can act, remember, and verify under partial observability, delay, and strategic observation. Existing research often studies these demands separately: robotics emphasizes control, retrieval systems emphasize memory, an...]]></description>
+      <pubDate>Fri, 03 Apr 2026 17:25:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management]]></title>
-      <link>https://arxiv.org/abs/2604.02279v1</link>
-      <description><![CDATA[Agentic AI shifts the investor's role from analytical execution to oversight. We present an agentic strategic asset allocation pipeline in which approximately 50 specialized agents produce capital market assumptions, construct portfolios using over 20 competing methods, and critique and vote on e...]]></description>
-      <pubDate>Thu, 02 Apr 2026 17:13:04 GMT</pubDate>
+      <title><![CDATA[Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models]]></title>
+      <link>https://arxiv.org/abs/2604.03179v1</link>
+      <description><![CDATA[The recent success of reinforcement learning (RL) in large reasoning models has inspired the growing adoption of RL for post-training Multimodal Large Language Models (MLLMs) to enhance their visual reasoning capabilities. Although many studies have reported improved performance, it remains uncle...]]></description>
+      <pubDate>Fri, 03 Apr 2026 16:56:34 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models]]></title>
+      <link>https://arxiv.org/abs/2604.03157v1</link>
+      <description><![CDATA[The recent advancements in Vision Language Models (VLMs) have demonstrated progress toward true intelligence requiring robust reasoning capabilities. Beyond pattern recognition, linguistic reasoning must integrate with visual comprehension, particularly for Chart Question Answering (CQA) tasks in...]]></description>
+      <pubDate>Fri, 03 Apr 2026 16:28:03 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -77,14 +85,6 @@
       <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
       <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
       <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
