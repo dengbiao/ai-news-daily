@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 02:30:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:30:44 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
-      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
-      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Deep Researcher Agent: An Autonomous Framework for 24/7 Deep Learning Experimentation with Zero-Cost Monitoring]]></title>
+      <link>https://arxiv.org/abs/2604.05854v1</link>
+      <description><![CDATA[We present \textbf{Deep Researcher Agent}, an open-source framework that enables large language model (LLM) agents to autonomously conduct deep learning experiments around the clock. Unlike existing AI research assistants that focus on paper writing or code generation, our system addresses the fu...]]></description>
+      <pubDate>Tue, 07 Apr 2026 13:16:31 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
-      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
-      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2604.05808v1</link>
+      <description><![CDATA[Large language model (LLM) agents have demonstrated strong capabilities in complex interactive decision-making tasks. However, existing LLM agents typically rely on increasingly long interaction histories, resulting in high computational cost and limited scalability. In this paper, we propose STE...]]></description>
+      <pubDate>Tue, 07 Apr 2026 12:44:33 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
-      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
-      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[New ways to balance cost and reliability in the Gemini API]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/</link>
+      <description><![CDATA[Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.]]></description>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
-      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
-      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
-      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Create, edit and share videos at no cost in Google Vids]]></title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</link>
+      <description><![CDATA[New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.]]></description>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[The latest AI news we announced in March 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from March 2026]]></description>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Build with Veo 3.1 Lite, our most cost-effective video generation model]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/</link>
+      <description><![CDATA[Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio.]]></description>
+      <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Watch James Manyika talk AI and creativity with LL COOL J.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/</link>
+      <description><![CDATA[In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.]]></description>
+      <pubDate>Thu, 26 Mar 2026 17:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Gemini 3.1 Flash Live: Making audio AI more natural and reliable]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/</link>
+      <description><![CDATA[Gemini 3.1 Flash Live is now available across Google products.]]></description>
+      <pubDate>Thu, 26 Mar 2026 15:21:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
-      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
-      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Search Live is expanding globally]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/search-live-global-expansion/</link>
+      <description><![CDATA[We’re expanding Search Live globally, to all languages and locations where AI Mode is available.]]></description>
+      <pubDate>Thu, 26 Mar 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
-      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
-      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Build with Lyria 3, our newest music generation model]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/</link>
+      <description><![CDATA[Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.]]></description>
+      <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
