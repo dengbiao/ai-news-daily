@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2026 02:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:38:37 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models]]></title>
@@ -65,27 +65,27 @@
     </item>
   
     <item>
-      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
-      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
-      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[New ways to balance cost and reliability in the Gemini API]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/</link>
+      <description><![CDATA[Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.]]></description>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
-      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
-      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Create, edit and share videos at no cost in Google Vids]]></title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</link>
+      <description><![CDATA[New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.]]></description>
+      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
-      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
-      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[The latest AI news we announced in March 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from March 2026]]></description>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
