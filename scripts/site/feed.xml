@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 02:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 02:43:18 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models]]></title>
-      <link>https://arxiv.org/abs/2604.08545v1</link>
-      <description><![CDATA[The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to arbitrate between leveraging internal knowledge and querying external utilities. Consequently, the...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:59:57 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
+      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
+      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation]]></title>
-      <link>https://arxiv.org/abs/2604.08540v1</link>
-      <description><![CDATA[Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or rely on coarse embedding similarity, failing to capture the fine-grained joint correctness requi...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:59:39 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
+      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
+      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks]]></title>
-      <link>https://arxiv.org/abs/2604.08539v1</link>
-      <description><![CDATA[Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this success to open-source multimodal generalist models remains heavily constrained by two primary chall...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:59:39 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
+      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
+      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents]]></title>
-      <link>https://arxiv.org/abs/2604.08529v1</link>
-      <description><![CDATA[Personal AI tools can now be generated from natural-language requests, but they often remain isolated after creation. We present PSI, a shared-state architecture that turns independently generated modules into coherent instruments: persistent, connected, and chat-complementary artifacts accessibl...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:58:36 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
+      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
+      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
+      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[ClawBench: Can AI Agents Complete Everyday Online Tasks?]]></title>
-      <link>https://arxiv.org/abs/2604.08523v1</link>
-      <description><![CDATA[AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation of AI agents. To this end, we introduce ClawBench, an evaluation framework of 153 simple tasks th...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:57:13 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions]]></title>
-      <link>https://arxiv.org/abs/2604.08477v1</link>
-      <description><![CDATA[Reinforcement Learning with Verifiable Rewards (RLVR) has significantly improved large language model (LLM) reasoning in formal domains such as mathematics and code. Despite these advancements, LLMs still struggle with general reasoning tasks requiring capabilities such as causal inference and te...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:16:07 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
+      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
+      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization]]></title>
-      <link>https://arxiv.org/abs/2604.08476v1</link>
-      <description><![CDATA[Multimodal reasoning models (MRMs) trained with reinforcement learning with verifiable rewards (RLVR) show improved accuracy on visual reasoning benchmarks. However, we observe that accuracy gains often come at the cost of reasoning quality: generated Chain-of-Thought (CoT) traces are frequently ...]]></description>
-      <pubDate>Thu, 09 Apr 2026 17:15:47 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
+      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
+      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[New ways to balance cost and reliability in the Gemini API]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/</link>
-      <description><![CDATA[Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.]]></description>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
+      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
+      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Create, edit and share videos at no cost in Google Vids]]></title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</link>
-      <description><![CDATA[New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.]]></description>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
+      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
+      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The latest AI news we announced in March 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/</link>
-      <description><![CDATA[Here are Google’s latest AI updates from March 2026]]></description>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
+      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
+      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
   </channel>
