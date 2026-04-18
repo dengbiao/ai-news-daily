@@ -6,22 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 02:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 02:28:54 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning]]></title>
-      <link>https://arxiv.org/abs/2604.14140v1</link>
-      <description><![CDATA[As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning and managing a long, complex chain-of-thought (CoT). We introduce LongCoT, a scalable benchmark o...]]></description>
-      <pubDate>Wed, 15 Apr 2026 17:58:05 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’]]></title>
+      <link>https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/</link>
+      <description><![CDATA[Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.]]></description>
+      <pubDate>Fri, 17 Apr 2026 20:38:17 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration]]></title>
-      <link>https://arxiv.org/abs/2604.14116v1</link>
-      <description><![CDATA[While Large Language Models (LLMs) have empowered AI research agents to perform isolated scientific tasks, automating complex, real-world workflows, such as LLM training, remains a significant challenge. In this paper, we introduce TREX, a multi-agent system that automates the entire LLM training...]]></description>
-      <pubDate>Wed, 15 Apr 2026 17:38:06 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop]]></title>
+      <link>https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/</link>
+      <description><![CDATA[OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.]]></description>
+      <pubDate>Thu, 16 Apr 2026 19:18:41 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[InsightFinder raises $15M to help companies figure out where AI agents go wrong]]></title>
+      <link>https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</link>
+      <description><![CDATA[According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.]]></description>
+      <pubDate>Thu, 16 Apr 2026 16:15:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[A new way to explore the web with AI Mode in Chrome]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</link>
+      <description><![CDATA[Today’s upgrades for AI Mode in Chrome transform how you interact with the web]]></description>
+      <pubDate>Thu, 16 Apr 2026 17:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[New ways to create personalized images in the Gemini app]]></title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/</link>
+      <description><![CDATA[Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.]]></description>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</link>
       <description><![CDATA[New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.]]></description>
       <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The latest AI news we announced in March 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/</link>
-      <description><![CDATA[Here are Google’s latest AI updates from March 2026]]></description>
-      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Build with Veo 3.1 Lite, our most cost-effective video generation model]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/</link>
-      <description><![CDATA[Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio.]]></description>
-      <pubDate>Tue, 31 Mar 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Watch James Manyika talk AI and creativity with LL COOL J.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/</link>
-      <description><![CDATA[In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.]]></description>
-      <pubDate>Thu, 26 Mar 2026 17:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
