@@ -6,30 +6,30 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 02:28:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:46:15 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’]]></title>
-      <link>https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/</link>
-      <description><![CDATA[Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.]]></description>
-      <pubDate>Fri, 17 Apr 2026 20:38:17 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis]]></title>
+      <link>https://arxiv.org/abs/2604.16205v1</link>
+      <description><![CDATA[Computational X-ray absorption near-edge structure (XANES) is widely used to probe local coordination environments, oxidation states, and electronic structure in chemically complex systems. However, the use of computational XANES at scale is constrained more by workflow complexity than by the und...]]></description>
+      <pubDate>Fri, 17 Apr 2026 16:15:19 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop]]></title>
-      <link>https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/</link>
-      <description><![CDATA[OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.]]></description>
-      <pubDate>Thu, 16 Apr 2026 19:18:41 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation]]></title>
+      <link>https://arxiv.org/abs/2604.16175v1</link>
+      <description><![CDATA[Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have advanced the field, they typically operate as monolithic "black-box" systems without the collaborat...]]></description>
+      <pubDate>Fri, 17 Apr 2026 15:42:03 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[InsightFinder raises $15M to help companies figure out where AI agents go wrong]]></title>
-      <link>https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/</link>
-      <description><![CDATA[According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong — it's also diagnosing how the entire tech stack operates now that AI is part of it.]]></description>
-      <pubDate>Thu, 16 Apr 2026 16:15:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[AtManRL: Towards Faithful Reasoning via Differentiable Attention Saliency]]></title>
+      <link>https://arxiv.org/abs/2604.16158v1</link>
+      <description><![CDATA[Large language models (LLMs) increasingly rely on chain-of-thought (CoT) reasoning to solve complex tasks. Yet ensuring that the reasoning trace both contributes to and faithfully reflects the processes underlying the model's final answer, rather than merely accompanying it, remains challenging. ...]]></description>
+      <pubDate>Fri, 17 Apr 2026 15:27:35 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
