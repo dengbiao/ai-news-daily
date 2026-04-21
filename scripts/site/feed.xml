@@ -6,29 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:39:21 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis]]></title>
-      <link>https://arxiv.org/abs/2604.16205v1</link>
-      <description><![CDATA[Computational X-ray absorption near-edge structure (XANES) is widely used to probe local coordination environments, oxidation states, and electronic structure in chemically complex systems. However, the use of computational XANES at scale is constrained more by workflow complexity than by the und...]]></description>
-      <pubDate>Fri, 17 Apr 2026 16:15:19 GMT</pubDate>
+      <title><![CDATA[Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI]]></title>
+      <link>https://arxiv.org/abs/2604.17240v1</link>
+      <description><![CDATA[Enterprise AI systems increasingly deploy multiple intelligent agents across mission-critical workflows that must satisfy hard policy constraints, bounded risk exposure, and comprehensive auditability (SOX, HIPAA, GDPR). Existing coordination methods - cooperative MARL, consensus protocols, and c...]]></description>
+      <pubDate>Sun, 19 Apr 2026 04:02:17 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation]]></title>
-      <link>https://arxiv.org/abs/2604.16175v1</link>
-      <description><![CDATA[Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have advanced the field, they typically operate as monolithic "black-box" systems without the collaborat...]]></description>
-      <pubDate>Fri, 17 Apr 2026 15:42:03 GMT</pubDate>
+      <title><![CDATA[Beyond Overlap Metrics: Rewarding Reasoning and Preferences for Faithful Multi-Role Dialogue Summarization]]></title>
+      <link>https://arxiv.org/abs/2604.17188v1</link>
+      <description><![CDATA[Multi-role dialogue summarization requires modeling complex interactions among multiple speakers while preserving role-specific information and factual consistency. However, most existing methods optimize for automatic metrics such as ROUGE and BERTScore, which favor surface-level imitation of re...]]></description>
+      <pubDate>Sun, 19 Apr 2026 01:27:41 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AtManRL: Towards Faithful Reasoning via Differentiable Attention Saliency]]></title>
-      <link>https://arxiv.org/abs/2604.16158v1</link>
-      <description><![CDATA[Large language models (LLMs) increasingly rely on chain-of-thought (CoT) reasoning to solve complex tasks. Yet ensuring that the reasoning trace both contributes to and faithfully reflects the processes underlying the model's final answer, rather than merely accompanying it, remains challenging. ...]]></description>
-      <pubDate>Fri, 17 Apr 2026 15:27:35 GMT</pubDate>
+      <title><![CDATA[Persona-Based Requirements Engineering for Explainable Multi-Agent Educational Systems: A Scenario Simulator for Clinical Reasoning Training]]></title>
+      <link>https://arxiv.org/abs/2604.17186v1</link>
+      <description><![CDATA[As Artificial Intelligence (AI) and Agentic AI become increasingly integrated across sectors such as education and healthcare, it is critical to ensure that Multi-Agent Education System (MAES) is explainable from the early stages of requirements engineering (RE) within the AI software development...]]></description>
+      <pubDate>Sun, 19 Apr 2026 01:18:44 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
