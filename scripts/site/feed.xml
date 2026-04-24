@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 02:42:24 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Safe and Policy-Compliant Multi-Agent Orchestration for Enterprise AI]]></title>
-      <link>https://arxiv.org/abs/2604.17240v1</link>
-      <description><![CDATA[Enterprise AI systems increasingly deploy multiple intelligent agents across mission-critical workflows that must satisfy hard policy constraints, bounded risk exposure, and comprehensive auditability (SOX, HIPAA, GDPR). Existing coordination methods - cooperative MARL, consensus protocols, and c...]]></description>
-      <pubDate>Sun, 19 Apr 2026 04:02:17 GMT</pubDate>
+      <title><![CDATA[Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows]]></title>
+      <link>https://arxiv.org/abs/2604.21816v1</link>
+      <description><![CDATA[The Model Context Protocol (MCP) has become a common interface for connecting large language model (LLM) agents to external tools, but its reliance on stateless, eager schema injection imposes a hidden per-turn overhead the MCP Tax or Tools Tax that practitioner reports place between roughly 10k ...]]></description>
+      <pubDate>Thu, 23 Apr 2026 16:10:00 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Beyond Overlap Metrics: Rewarding Reasoning and Preferences for Faithful Multi-Role Dialogue Summarization]]></title>
-      <link>https://arxiv.org/abs/2604.17188v1</link>
-      <description><![CDATA[Multi-role dialogue summarization requires modeling complex interactions among multiple speakers while preserving role-specific information and factual consistency. However, most existing methods optimize for automatic metrics such as ROUGE and BERTScore, which favor surface-level imitation of re...]]></description>
-      <pubDate>Sun, 19 Apr 2026 01:27:41 GMT</pubDate>
+      <title><![CDATA[SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery]]></title>
+      <link>https://arxiv.org/abs/2604.21801v1</link>
+      <description><![CDATA[Recent advances in deep learning for remote sensing rely heavily on large annotated datasets, yet acquiring high-quality ground truth for geometric, radiometric, and multi-domain tasks remains costly and often infeasible. In particular, the lack of accurate depth annotations, controlled illuminat...]]></description>
+      <pubDate>Thu, 23 Apr 2026 15:59:12 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Persona-Based Requirements Engineering for Explainable Multi-Agent Educational Systems: A Scenario Simulator for Clinical Reasoning Training]]></title>
-      <link>https://arxiv.org/abs/2604.17186v1</link>
-      <description><![CDATA[As Artificial Intelligence (AI) and Agentic AI become increasingly integrated across sectors such as education and healthcare, it is critical to ensure that Multi-Agent Education System (MAES) is explainable from the early stages of requirements engineering (RE) within the AI software development...]]></description>
-      <pubDate>Sun, 19 Apr 2026 01:18:44 GMT</pubDate>
+      <title><![CDATA[Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems]]></title>
+      <link>https://arxiv.org/abs/2604.21794v1</link>
+      <description><![CDATA[Multi-agent systems built on large language models have shown strong performance on complex reasoning tasks, yet most work focuses on agent roles and orchestration while treating inter-agent communication as a fixed interface. Latent communication through internal representations such as key-valu...]]></description>
+      <pubDate>Thu, 23 Apr 2026 15:53:25 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[A new way to explore the web with AI Mode in Chrome]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</link>
-      <description><![CDATA[Today’s upgrades for AI Mode in Chrome transform how you interact with the web]]></description>
-      <pubDate>Thu, 16 Apr 2026 17:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Thinking with Reasoning Skills: Fewer Tokens, More Accuracy]]></title>
+      <link>https://arxiv.org/abs/2604.21764v1</link>
+      <description><![CDATA[Reasoning LLMs often spend substantial tokens on long intermediate reasoning traces (e.g., chain-of-thought) when solving new problems. We propose to summarize and store reusable reasoning skills distilled from extensive deliberation and trial-and-error exploration, and to retrieve these skills a...]]></description>
+      <pubDate>Thu, 23 Apr 2026 15:12:58 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[New ways to create personalized images in the Gemini app]]></title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/</link>
-      <description><![CDATA[Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.]]></description>
-      <pubDate>Thu, 16 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development]]></title>
+      <link>https://arxiv.org/abs/2604.21744v1</link>
+      <description><![CDATA[The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing docu...]]></description>
+      <pubDate>Thu, 23 Apr 2026 14:50:35 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Gemini 3.1 Flash TTS: the next generation of expressive AI speech]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/</link>
-      <description><![CDATA[Gemini 3.1 Flash TTS is now available across Google products.]]></description>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
+      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
+      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Turn your best AI prompts into one-click tools in Chrome]]></title>
-      <link>https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</link>
-      <description><![CDATA[Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.]]></description>
-      <pubDate>Tue, 14 Apr 2026 17:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
+      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
+      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Bringing people together at AI for the Economy Forum]]></title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/</link>
-      <description><![CDATA[Google is bringing people together in Washington D.C. at our AI for the Economy Forum.]]></description>
-      <pubDate>Tue, 14 Apr 2026 09:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
+      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
+      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[New ways to balance cost and reliability in the Gemini API]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/</link>
-      <description><![CDATA[Google is introducing two new inference tiers to the Gemini API, Flex and Priority, to balance cost and latency.]]></description>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
+      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
+      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
+      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Create, edit and share videos at no cost in Google Vids]]></title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</link>
-      <description><![CDATA[New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.]]></description>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
   </channel>
