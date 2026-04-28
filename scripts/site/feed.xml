@@ -6,45 +6,45 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 02:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 02:56:38 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows]]></title>
-      <link>https://arxiv.org/abs/2604.21816v1</link>
-      <description><![CDATA[The Model Context Protocol (MCP) has become a common interface for connecting large language model (LLM) agents to external tools, but its reliance on stateless, eager schema injection imposes a hidden per-turn overhead the MCP Tax or Tools Tax that practitioner reports place between roughly 10k ...]]></description>
-      <pubDate>Thu, 23 Apr 2026 16:10:00 GMT</pubDate>
+      <title><![CDATA[AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents]]></title>
+      <link>https://arxiv.org/abs/2604.24657v1</link>
+      <description><![CDATA[Autonomous AI agents extend large language models into full runtime systems that load skills, ingest external content, maintain memory, plan multi-step actions, and invoke privileged tools. In such systems, security failures rarely remain confined to a single interface; instead, they can propagat...]]></description>
+      <pubDate>Mon, 27 Apr 2026 16:22:27 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery]]></title>
-      <link>https://arxiv.org/abs/2604.21801v1</link>
-      <description><![CDATA[Recent advances in deep learning for remote sensing rely heavily on large annotated datasets, yet acquiring high-quality ground truth for geometric, radiometric, and multi-domain tasks remains costly and often infeasible. In particular, the lack of accurate depth annotations, controlled illuminat...]]></description>
-      <pubDate>Thu, 23 Apr 2026 15:59:12 GMT</pubDate>
+      <title><![CDATA[K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology]]></title>
+      <link>https://arxiv.org/abs/2604.24645v1</link>
+      <description><![CDATA[The development of practical (multimodal) large language model assistants for Korean weather forecasters is hindered by the absence of a multidimensional, expert-level evaluation framework grounded in authoritative sources. To address this, we introduce K-MetBench, a diagnostic benchmark grounded...]]></description>
+      <pubDate>Mon, 27 Apr 2026 16:13:14 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems]]></title>
-      <link>https://arxiv.org/abs/2604.21794v1</link>
-      <description><![CDATA[Multi-agent systems built on large language models have shown strong performance on complex reasoning tasks, yet most work focuses on agent roles and orchestration while treating inter-agent communication as a fixed interface. Latent communication through internal representations such as key-valu...]]></description>
-      <pubDate>Thu, 23 Apr 2026 15:53:25 GMT</pubDate>
+      <title><![CDATA[Skill Retrieval Augmentation for Agentic AI]]></title>
+      <link>https://arxiv.org/abs/2604.24594v1</link>
+      <description><![CDATA[As large language models (LLMs) evolve into agentic problem solvers, they increasingly rely on external, reusable skills to handle tasks beyond their native parametric capabilities. In existing agent systems, the dominant strategy for incorporating skills is to explicitly enumerate available skil...]]></description>
+      <pubDate>Mon, 27 Apr 2026 15:19:59 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Thinking with Reasoning Skills: Fewer Tokens, More Accuracy]]></title>
-      <link>https://arxiv.org/abs/2604.21764v1</link>
-      <description><![CDATA[Reasoning LLMs often spend substantial tokens on long intermediate reasoning traces (e.g., chain-of-thought) when solving new problems. We propose to summarize and store reusable reasoning skills distilled from extensive deliberation and trial-and-error exploration, and to retrieve these skills a...]]></description>
-      <pubDate>Thu, 23 Apr 2026 15:12:58 GMT</pubDate>
+      <title><![CDATA[A systematic evaluation of vision-language models for observational astronomical reasoning tasks]]></title>
+      <link>https://arxiv.org/abs/2604.24589v1</link>
+      <description><![CDATA[Vision-language models (VLMs) are increasingly proposed as general-purpose tools for scientific data interpretation, yet their reliability on real astronomical observations across diverse modalities remains untested. We present AstroVLBench, a comprehensive benchmark comprising over 4,100 expert-...]]></description>
+      <pubDate>Mon, 27 Apr 2026 15:11:31 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development]]></title>
-      <link>https://arxiv.org/abs/2604.21744v1</link>
-      <description><![CDATA[The capabilities of AI-assisted coding are progressing at breakneck speed. Chat-based vibe coding has evolved into fully fledged AI-assisted, agentic software development using agent scaffolds where the human developer creates a plan that agentic AIs implement. One current trend is utilizing docu...]]></description>
-      <pubDate>Thu, 23 Apr 2026 14:50:35 GMT</pubDate>
+      <title><![CDATA[FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM data]]></title>
+      <link>https://arxiv.org/abs/2604.24572v1</link>
+      <description><![CDATA[The Observational Medical Outcomes Partnership Common Data Model (OMOP CDM), maintained by the Observational Health Data Sciences and Informatics (OHDSI) collaboration, enabled the harmonisation of electronic health records data of nearly one billion patients in 83 countries. Yet generating real-...]]></description>
+      <pubDate>Mon, 27 Apr 2026 15:02:02 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
