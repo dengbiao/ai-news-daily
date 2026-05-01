@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 02:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 03:26:30 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents]]></title>
-      <link>https://arxiv.org/abs/2604.24657v1</link>
-      <description><![CDATA[Autonomous AI agents extend large language models into full runtime systems that load skills, ingest external content, maintain memory, plan multi-step actions, and invoke privileged tools. In such systems, security failures rarely remain confined to a single interface; instead, they can propagat...]]></description>
-      <pubDate>Mon, 27 Apr 2026 16:22:27 GMT</pubDate>
+      <title><![CDATA[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows]]></title>
+      <link>https://arxiv.org/abs/2604.28139v1</link>
+      <description><![CDATA[LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and grade mainly the final response, making it difficult to evaluate agents against evolving workflow de...]]></description>
+      <pubDate>Thu, 30 Apr 2026 17:23:19 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology]]></title>
-      <link>https://arxiv.org/abs/2604.24645v1</link>
-      <description><![CDATA[The development of practical (multimodal) large language model assistants for Korean weather forecasters is hindered by the absence of a multidimensional, expert-level evaluation framework grounded in authoritative sources. To address this, we introduce K-MetBench, a diagnostic benchmark grounded...]]></description>
-      <pubDate>Mon, 27 Apr 2026 16:13:14 GMT</pubDate>
+      <title><![CDATA[Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes]]></title>
+      <link>https://arxiv.org/abs/2604.28138v1</link>
+      <description><![CDATA[Autonomous agents act through sandboxed containers and microVMs whose state spans filesystems, processes, and runtime artifacts. Checkpoint and restore (C/R) of this state is needed for fault tolerance, spot execution, RL rollout branching, and safe rollback-yet existing approaches fall into two ...]]></description>
+      <pubDate>Thu, 30 Apr 2026 17:20:19 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Skill Retrieval Augmentation for Agentic AI]]></title>
-      <link>https://arxiv.org/abs/2604.24594v1</link>
-      <description><![CDATA[As large language models (LLMs) evolve into agentic problem solvers, they increasingly rely on external, reusable skills to handle tasks beyond their native parametric capabilities. In existing agent systems, the dominant strategy for incorporating skills is to explicitly enumerate available skil...]]></description>
-      <pubDate>Mon, 27 Apr 2026 15:19:59 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Celebrating 20 years of Google Translate: Fun facts, tips and new features to try]]></title>
+      <link>https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/</link>
+      <description><![CDATA[Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.]]></description>
+      <pubDate>Tue, 28 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[A systematic evaluation of vision-language models for observational astronomical reasoning tasks]]></title>
-      <link>https://arxiv.org/abs/2604.24589v1</link>
-      <description><![CDATA[Vision-language models (VLMs) are increasingly proposed as general-purpose tools for scientific data interpretation, yet their reliability on real astronomical observations across diverse modalities remains untested. We present AstroVLBench, a comprehensive benchmark comprising over 4,100 expert-...]]></description>
-      <pubDate>Mon, 27 Apr 2026 15:11:31 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Join the new AI Agents Vibe Coding Course from Google and Kaggle]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/</link>
+      <description><![CDATA[Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.]]></description>
+      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM data]]></title>
-      <link>https://arxiv.org/abs/2604.24572v1</link>
-      <description><![CDATA[The Observational Medical Outcomes Partnership Common Data Model (OMOP CDM), maintained by the Observational Health Data Sciences and Informatics (OHDSI) collaboration, enabled the harmonisation of electronic health records data of nearly one billion patients in 83 countries. Yet generating real-...]]></description>
-      <pubDate>Mon, 27 Apr 2026 15:02:02 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[8 Gemini tips for organizing your space (and life)]]></title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/</link>
+      <description><![CDATA[Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.]]></description>
+      <pubDate>Fri, 24 Apr 2026 19:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
-      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
-      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Here’s how our TPUs power increasingly demanding AI workloads.]]></title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/</link>
+      <description><![CDATA[Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.]]></description>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
-      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
-      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[We're launching two specialized TPUs for the agentic era.]]></title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/</link>
+      <description><![CDATA[The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.]]></description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
-      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
-      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[3 new ways Ads Advisor is making Google Ads safer and faster]]></title>
+      <link>https://blog.google/products/ads-commerce/ads-advisor-google-ads/</link>
+      <description><![CDATA[Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.]]></description>
+      <pubDate>Tue, 21 Apr 2026 14:30:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
-      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
-      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
-      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[A new way to explore the web with AI Mode in Chrome]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</link>
+      <description><![CDATA[Today’s upgrades for AI Mode in Chrome transform how you interact with the web]]></description>
+      <pubDate>Thu, 16 Apr 2026 17:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[New ways to create personalized images in the Gemini app]]></title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/</link>
+      <description><![CDATA[Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.]]></description>
+      <pubDate>Thu, 16 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
