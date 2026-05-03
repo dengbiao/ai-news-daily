@@ -6,24 +6,8 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 02:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 02:56:42 GMT</lastBuildDate>
     
-    <item>
-      <title><![CDATA[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows]]></title>
-      <link>https://arxiv.org/abs/2604.28139v1</link>
-      <description><![CDATA[LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and grade mainly the final response, making it difficult to evaluate agents against evolving workflow de...]]></description>
-      <pubDate>Thu, 30 Apr 2026 17:23:19 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes]]></title>
-      <link>https://arxiv.org/abs/2604.28138v1</link>
-      <description><![CDATA[Autonomous agents act through sandboxed containers and microVMs whose state spans filesystems, processes, and runtime artifacts. Checkpoint and restore (C/R) of this state is needed for fault tolerance, spot execution, RL rollout branching, and safe rollback-yet existing approaches fall into two ...]]></description>
-      <pubDate>Thu, 30 Apr 2026 17:20:19 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
     <item>
       <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
       <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
@@ -85,6 +69,22 @@
       <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
       <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
       <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
+      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
+      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
+      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
+      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
