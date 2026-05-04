@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 02:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:54:21 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
-      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
-      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Can Coding Agents Reproduce Findings in Computational Materials Science?]]></title>
+      <link>https://arxiv.org/abs/2605.00803v1</link>
+      <description><![CDATA[Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such success transfers to computational scientific workflows, where tasks require not only strong coding a...]]></description>
+      <pubDate>Fri, 01 May 2026 17:42:12 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
-      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
-      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Position: agentic AI orchestration should be Bayes-consistent]]></title>
+      <link>https://arxiv.org/abs/2605.00742v1</link>
+      <description><![CDATA[LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibility of Bayesian approaches remain unclear fo...]]></description>
+      <pubDate>Fri, 01 May 2026 15:43:43 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
-      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
-      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too]]></title>
+      <link>https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/</link>
+      <description><![CDATA[OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only "to critical cyber defenders" at first.]]></description>
+      <pubDate>Thu, 30 Apr 2026 19:27:41 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
-      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
-      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
-      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Celebrating 20 years of Google Translate: Fun facts, tips and new features to try]]></title>
+      <link>https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/</link>
+      <description><![CDATA[Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.]]></description>
+      <pubDate>Tue, 28 Apr 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Join the new AI Agents Vibe Coding Course from Google and Kaggle]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/</link>
+      <description><![CDATA[Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.]]></description>
+      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[8 Gemini tips for organizing your space (and life)]]></title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/</link>
+      <description><![CDATA[Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.]]></description>
+      <pubDate>Fri, 24 Apr 2026 19:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Here’s how our TPUs power increasingly demanding AI workloads.]]></title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/</link>
+      <description><![CDATA[Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.]]></description>
+      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[We're launching two specialized TPUs for the agentic era.]]></title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/</link>
+      <description><![CDATA[The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.]]></description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
-      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
-      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[3 new ways Ads Advisor is making Google Ads safer and faster]]></title>
+      <link>https://blog.google/products/ads-commerce/ads-advisor-google-ads/</link>
+      <description><![CDATA[Three new agentic safety and policy features integrated into Ads Advisor will help protect and streamline your Google Ads account.]]></description>
+      <pubDate>Tue, 21 Apr 2026 14:30:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
-      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
-      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[A new way to explore the web with AI Mode in Chrome]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-chrome/</link>
+      <description><![CDATA[Today’s upgrades for AI Mode in Chrome transform how you interact with the web]]></description>
+      <pubDate>Thu, 16 Apr 2026 17:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
