@@ -6,8 +6,56 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 02:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:52:03 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents]]></title>
+      <link>https://arxiv.org/abs/2605.03952v1</link>
+      <description><![CDATA[Coding agents often pass per-prompt safety review yet ship exploitable code when their tasks are decomposed into routine engineering tickets. The challenge is structural: existing safety alignment evaluates overt requests in isolation, leaving models blind to malicious end-states that emerge from...]]></description>
+      <pubDate>Tue, 05 May 2026 16:38:23 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[A Benchmark for Interactive World Models with a Unified Action Generation Framework]]></title>
+      <link>https://arxiv.org/abs/2605.03941v1</link>
+      <description><![CDATA[Achieving Artificial General Intelligence (AGI) requires agents that learn and interact adaptively, with interactive world models providing scalable environments for perception, reasoning, and action. Yet current research still lacks large-scale datasets and unified benchmarks to evaluate their p...]]></description>
+      <pubDate>Tue, 05 May 2026 16:30:03 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs]]></title>
+      <link>https://arxiv.org/abs/2605.03884v1</link>
+      <description><![CDATA[Multi-agent LLM systems on edge devices need to hand off latent context efficiently, but the practical choices today are expensive re-prefill or full-precision KV transfer. We study QKVShare, a framework for quantized KV-cache handoff between agents that combines token-level mixed-precision alloc...]]></description>
+      <pubDate>Tue, 05 May 2026 15:44:29 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw]]></title>
+      <link>https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/</link>
+      <description><![CDATA[SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.]]></description>
+      <pubDate>Tue, 05 May 2026 23:50:10 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT]]></title>
+      <link>https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/</link>
+      <description><![CDATA[The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.]]></description>
+      <pubDate>Tue, 05 May 2026 17:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[CopilotKit raises $27M to help devs deploy app-native AI agents]]></title>
+      <link>https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/</link>
+      <description><![CDATA[The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.]]></description>
+      <pubDate>Tue, 05 May 2026 14:07:47 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
       <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
@@ -37,54 +85,6 @@
       <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
       <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
       <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
-      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
-      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
-      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
-      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
