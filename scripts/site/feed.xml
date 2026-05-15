@@ -6,30 +6,14 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 03:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:32:47 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Counterfactual Trace Auditing of LLM Agent Skills]]></title>
-      <link>https://arxiv.org/abs/2605.11946v1</link>
-      <description><![CDATA[Large Language Model agents are increasingly augmented with agent skills. Current evaluation methods for skills remain limited. Most deployed benchmarks report only pass rate before and after a skill is attached, treating the skill as a black box change to agent behavior. We introduce Counterfact...]]></description>
-      <pubDate>Tue, 12 May 2026 10:56:18 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[From Noise to Diversity: Random Embedding Injection in LLM Reasoning]]></title>
-      <link>https://arxiv.org/abs/2605.11936v1</link>
-      <description><![CDATA[Recent soft prompt research has tried to improve reasoning by inserting trained vectors into LLM inputs, yet whether the gain comes from the learned content or from the act of injection itself has not been carefully separated. We study Random Soft Prompts (RSPs), which drop the training step enti...]]></description>
-      <pubDate>Tue, 12 May 2026 10:47:20 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents]]></title>
-      <link>https://arxiv.org/abs/2605.11928v1</link>
-      <description><![CDATA[Tool-use language agents are evaluated on benchmarks that assume clean inputs, unambiguous tool registries, and reliable APIs. Real deployments violate all these assumptions: user typos propagate into hallucinated tool names, a misconfigured request timeout can stall an agent indefinitely, and du...]]></description>
-      <pubDate>Tue, 12 May 2026 10:40:28 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Notion just turned its workspace into a hub for AI agents]]></title>
+      <link>https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/</link>
+      <description><![CDATA[Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.]]></description>
+      <pubDate>Wed, 13 May 2026 21:45:09 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +69,22 @@
       <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
       <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
       <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
+      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
+      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
+      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
+      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
