@@ -6,8 +6,16 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2026 02:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:29:04 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Runway started by helping filmmakers — now it wants to beat Google at AI]]></title>
+      <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
+      <description><![CDATA[AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.]]></description>
+      <pubDate>Fri, 15 May 2026 14:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation]]></title>
       <link>https://arxiv.org/abs/2605.15199v1</link>
@@ -77,14 +85,6 @@
       <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
       <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
       <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
-      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
-      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
-      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
