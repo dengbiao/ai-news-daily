@@ -6,64 +6,8 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 03:29:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:43:01 GMT</lastBuildDate>
     
-    <item>
-      <title><![CDATA[Runway started by helping filmmakers — now it wants to beat Google at AI]]></title>
-      <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
-      <description><![CDATA[AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.]]></description>
-      <pubDate>Fri, 15 May 2026 14:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation]]></title>
-      <link>https://arxiv.org/abs/2605.15199v1</link>
-      <description><![CDATA[Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity ...]]></description>
-      <pubDate>Thu, 14 May 2026 17:59:55 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both]]></title>
-      <link>https://arxiv.org/abs/2605.15198v1</link>
-      <description><![CDATA[Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models during reasoning, but this is computationally expensive and architecturally non-trivial. Recent alte...]]></description>
-      <pubDate>Thu, 14 May 2026 17:59:55 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[FutureSim: Replaying World Events to Evaluate Adaptive Agents]]></title>
-      <link>https://arxiv.org/abs/2605.15188v1</link>
-      <description><![CDATA[AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we propose building grounded simulations that replay real-world events in the order they occurred. ...]]></description>
-      <pubDate>Thu, 14 May 2026 17:59:28 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Self-Distilled Agentic Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2605.15155v1</link>
-      <description><![CDATA[Reinforcement learning (RL) has emerged as a central paradigm for post-training LLM agents, yet its trajectory-level reward signal provides only coarse supervision for long-horizon interaction. On-Policy Self-Distillation (OPSD) complements RL by introducing dense token-level guidance from a teac...]]></description>
-      <pubDate>Thu, 14 May 2026 17:51:26 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Pelican-Unified 1.0: A Unified Embodied Intelligence Model for Understanding, Reasoning, Imagination and Action]]></title>
-      <link>https://arxiv.org/abs/2605.15153v1</link>
-      <description><![CDATA[We present Pelican-Unified 1.0, the first embodied foundation model trained according to the principle of unification. Pelican-Unified 1.0 uses a single VLM as a unified understanding module, mapping scenes, instructions, visual contexts, and action histories into a shared semantic space. The sam...]]></description>
-      <pubDate>Thu, 14 May 2026 17:50:42 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[APWA: A Distributed Architecture for Parallelizable Agentic Workflows]]></title>
-      <link>https://arxiv.org/abs/2605.15132v1</link>
-      <description><![CDATA[Autonomous multi-agent systems based on large language models (LLMs) have demonstrated remarkable abilities in independently solving complex tasks in a wide breadth of application domains. However, these systems hit critical reasoning, coordination, and computational scaling bottlenecks as the si...]]></description>
-      <pubDate>Thu, 14 May 2026 17:40:20 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
     <item>
       <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
       <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
@@ -85,6 +29,62 @@
       <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
       <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
       <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
+      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
+      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
+      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
+      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
+      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
+      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
+      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
+      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
+      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
+      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
+      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
+      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
+      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
