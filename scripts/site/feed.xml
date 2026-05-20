@@ -6,8 +6,56 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 03:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:36:59 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[How to use Google’s new AI agents to go beyond your standard searches]]></title>
+      <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/</link>
+      <description><![CDATA[Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.]]></description>
+      <pubDate>Tue, 19 May 2026 21:16:25 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing]]></title>
+      <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
+      <description><![CDATA[Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.]]></description>
+      <pubDate>Tue, 19 May 2026 21:08:51 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots]]></title>
+      <link>https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/</link>
+      <description><![CDATA[Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.]]></description>
+      <pubDate>Tue, 19 May 2026 17:51:30 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Google Search as you know it is over]]></title>
+      <link>https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/</link>
+      <description><![CDATA[Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.]]></description>
+      <pubDate>Tue, 19 May 2026 17:46:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Agentic app coding gets an upgrade with Google’s release of Android CLI]]></title>
+      <link>https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/</link>
+      <description><![CDATA[Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.]]></description>
+      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026]]></title>
+      <link>https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/</link>
+      <description><![CDATA[At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.]]></description>
+      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
       <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
@@ -37,54 +85,6 @@
       <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
       <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
       <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
-      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
-      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
-      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
-      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
