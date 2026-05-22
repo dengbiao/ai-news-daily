@@ -6,21 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 03:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:41:42 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling]]></title>
-      <link>https://arxiv.org/abs/2605.21470v1</link>
-      <description><![CDATA[Computer-use agents (CUA) automate tasks specified with natural language such as "order the cheapest item from Taco Bell" by generating sequences of calls to tools such as click, type, and scroll on a browser. Current implementations follow a sequential fetch-screenshot-execute loop where each it...]]></description>
-      <pubDate>Wed, 20 May 2026 17:54:27 GMT</pubDate>
+      <title><![CDATA[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems]]></title>
+      <link>https://arxiv.org/abs/2605.22794v1</link>
+      <description><![CDATA[Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving agents have emerged in response, but all confine evolution to text-mutable artifacts -- skill file...]]></description>
+      <pubDate>Thu, 21 May 2026 17:48:33 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs]]></title>
-      <link>https://arxiv.org/abs/2605.21446v1</link>
-      <description><![CDATA[Interpretable autonomous driving planners depend not only on generating explanations, but also on those explanations remaining reliable under real-world sensor degradation. In this paper we present a controlled perturbation study of Vision-Language-Action (VLA) robustness in autonomous driving, e...]]></description>
-      <pubDate>Wed, 20 May 2026 17:34:02 GMT</pubDate>
+      <title><![CDATA[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems]]></title>
+      <link>https://arxiv.org/abs/2605.22786v1</link>
+      <description><![CDATA[Large language model (LLM)-based multi-agent systems increasingly rely on intermediate communication to coordinate complex tasks. While most existing systems communicate through natural language, recent work shows that latent communication, particularly through transformer key-value (KV) caches, ...]]></description>
+      <pubDate>Thu, 21 May 2026 17:42:12 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback]]></title>
+      <link>https://arxiv.org/abs/2605.22781v1</link>
+      <description><![CDATA[LLM-powered AI agents require high-frequency state exploration (e.g., test-time tree search and reinforcement learning), relying on rapid checkpoint and rollback (C/R) of the complete sandbox state, including files and process state (e.g., memory, contexts, etc.). Existing mechanisms duplicate th...]]></description>
+      <pubDate>Thu, 21 May 2026 17:36:17 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -77,14 +85,6 @@
       <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
       <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
       <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
-      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
-      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
