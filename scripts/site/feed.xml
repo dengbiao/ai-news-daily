@@ -6,29 +6,45 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 03:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:50:26 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems]]></title>
-      <link>https://arxiv.org/abs/2605.22794v1</link>
-      <description><![CDATA[Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving agents have emerged in response, but all confine evolution to text-mutable artifacts -- skill file...]]></description>
-      <pubDate>Thu, 21 May 2026 17:48:33 GMT</pubDate>
+      <title><![CDATA[SkillOpt: Executive Strategy for Self-Evolving Agent Skills]]></title>
+      <link>https://arxiv.org/abs/2605.23904v1</link>
+      <description><![CDATA[Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be traine...]]></description>
+      <pubDate>Fri, 22 May 2026 17:59:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems]]></title>
-      <link>https://arxiv.org/abs/2605.22786v1</link>
-      <description><![CDATA[Large language model (LLM)-based multi-agent systems increasingly rely on intermediate communication to coordinate complex tasks. While most existing systems communicate through natural language, recent work shows that latent communication, particularly through transformer key-value (KV) caches, ...]]></description>
-      <pubDate>Thu, 21 May 2026 17:42:12 GMT</pubDate>
+      <title><![CDATA[From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills]]></title>
+      <link>https://arxiv.org/abs/2605.23899v1</link>
+      <description><![CDATA[Language agents increasingly improve by reusing \emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \emph{domain-level} and \emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific re...]]></description>
+      <pubDate>Fri, 22 May 2026 17:59:12 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback]]></title>
-      <link>https://arxiv.org/abs/2605.22781v1</link>
-      <description><![CDATA[LLM-powered AI agents require high-frequency state exploration (e.g., test-time tree search and reinforcement learning), relying on rapid checkpoint and rollback (C/R) of the complete sandbox state, including files and process state (e.g., memory, contexts, etc.). Existing mechanisms duplicate th...]]></description>
-      <pubDate>Thu, 21 May 2026 17:36:17 GMT</pubDate>
+      <title><![CDATA[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces]]></title>
+      <link>https://arxiv.org/abs/2605.23887v1</link>
+      <description><![CDATA[Temporal knowledge-graph data marketplaces face three coupled failures in static designs: stale hybrid index shortcuts reduce recall as edges evolve, stationary Shapley pricing misattributes value after distribution shifts, and uncoordinated agents over-consume a shared differential-privacy budge...]]></description>
+      <pubDate>Fri, 22 May 2026 17:47:45 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Agentic Proving for Program Verification]]></title>
+      <link>https://arxiv.org/abs/2605.23772v1</link>
+      <description><![CDATA[Agentic systems have recently emerged as state-of-the-art approaches for automated theorem proving in formal mathematics. To assess how far these capabilities extend to program verification, we evaluate Claude Code in an agentic proving framework on CLEVER, a Lean 4 benchmark for verifiable code ...]]></description>
+      <pubDate>Fri, 22 May 2026 15:41:27 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[PhotoFlow: Agentic 3D Virtual Photography Missions]]></title>
+      <link>https://arxiv.org/abs/2605.23771v1</link>
+      <description><![CDATA[Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image, infer a suitable shot from scene information and a language intent, choose executable camera parameters, and render the final photograph. Recent progress in vision-language models ma...]]></description>
+      <pubDate>Fri, 22 May 2026 15:40:52 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
       <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
       <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
