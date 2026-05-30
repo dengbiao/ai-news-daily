@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 03:38:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 03:27:00 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Skill-Conditioned Gated Self-Distillation for LLM Reasoning]]></title>
-      <link>https://arxiv.org/abs/2605.28791v1</link>
-      <description><![CDATA[On-policy self-distillation (SD) improves LLM reasoning by using teacher-side privileged information (PI) to turn sparse verifier outcomes into dense token-level supervision. Existing methods usually assume trusted PI, such as reference answers or successful traces. We ask whether PI can instead ...]]></description>
-      <pubDate>Wed, 27 May 2026 17:49:52 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
+      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
+      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval]]></title>
-      <link>https://arxiv.org/abs/2605.28787v1</link>
-      <description><![CDATA[In the era of autonomous agents, machine-actionable data is critical for data-driven workflows. For more than a decade, semantic metadata like schema.org has anchored the FAIR principles (Findable, Accessible, Interoperable, and Reusable) for machine-actionable data and enabled discovery tools li...]]></description>
-      <pubDate>Wed, 27 May 2026 17:46:43 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
+      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
+      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents]]></title>
-      <link>https://arxiv.org/abs/2605.28775v1</link>
-      <description><![CDATA[Computer-use agents (CUAs) have recently made substantial progress, but deploying a separate large expert for each software domain remains expensive. Small open computer-use agents are more practical specialization targets, but they remain substantially weaker and exhibit uneven domain-specific f...]]></description>
-      <pubDate>Wed, 27 May 2026 17:37:00 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
+      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
+      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks]]></title>
-      <link>https://arxiv.org/abs/2605.28764v1</link>
-      <description><![CDATA[Vast quantities of compute (GPU cycles on personal workstations, idle inference servers, and edge devices between jobs) go unused because no incentive-aligned protocol exists for their owners to share them safely and profitably. Existing approaches either require a trusted central coordinator (cl...]]></description>
-      <pubDate>Wed, 27 May 2026 17:23:00 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
+      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
+      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
+      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Catch up on the Dialogues stage at Google I/O 2026.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
-      <description><![CDATA[A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.]]></description>
-      <pubDate>Fri, 22 May 2026 18:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[I/O 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/</link>
-      <description><![CDATA[At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
+      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
+      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How AI Mode is changing the way people search in the U.S.]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
-      <description><![CDATA[One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
+      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
+      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[New ways to create and get things done in Google Workspace]]></title>
-      <link>https://blog.google/products-and-platforms/products/workspace/workspace-updates/</link>
-      <description><![CDATA[Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Microsoft’s framework for building AI systems responsibly]]></title>
+      <link>https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/</link>
+      <description><![CDATA[The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 21 Jun 2022 17:50:03 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[I/O 2026: Welcome to the agentic Gemini era]]></title>
-      <link>https://blog.google/innovation-and-ai/sundar-pichai-io-2026/</link>
-      <description><![CDATA[The latest from Google I/O: See how we’re helping you get more done with Gemini.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade]]></title>
+      <link>https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/</link>
+      <description><![CDATA[The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 08 Jun 2022 21:04:42 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Gemini 3.5: frontier intelligence with action]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description><![CDATA[At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[The opportunity at home – can AI drive innovation in personal assistant devices and sign language?]]></title>
+      <link>https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/</link>
+      <description><![CDATA[The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.]]></description>
+      <pubDate>Tue, 31 May 2022 21:06:06 GMT</pubDate>
+      <source>Microsoft AI</source>
     </item>
   
   </channel>
