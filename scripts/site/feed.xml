@@ -6,62 +6,38 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 04:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 03:32:26 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Streaming Communication in Multi-Agent Reasoning]]></title>
-      <link>https://arxiv.org/abs/2606.05158v1</link>
-      <description><![CDATA[Multi-agent reasoning systems adopt a "generate-then-transfer" paradigm that forces end-to-end latency to scale linearly with pipeline depth. We introduce StreamMA, a multi-agent reasoning system that streams each reasoning step to downstream agents as soon as it is generated, pipelining adjacent...]]></description>
-      <pubDate>Wed, 03 Jun 2026 17:57:04 GMT</pubDate>
+      <title><![CDATA[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers]]></title>
+      <link>https://arxiv.org/abs/2606.06493v1</link>
+      <description><![CDATA[For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task s...]]></description>
+      <pubDate>Thu, 04 Jun 2026 17:59:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)]]></title>
-      <link>https://arxiv.org/abs/2606.05145v1</link>
-      <description><![CDATA[When post-trained language models fail on reasoning problems, the common test-time-scaling response is to spend more compute on additional attempts, and the failed traces play no further role. We argue this discards a crucial signal; some failures come from unlucky sampling, where more rollouts h...]]></description>
-      <pubDate>Wed, 03 Jun 2026 17:50:26 GMT</pubDate>
+      <title><![CDATA[Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection]]></title>
+      <link>https://arxiv.org/abs/2606.06481v1</link>
+      <description><![CDATA[As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from progressive human-AI co-editing. However, existing AI-text detection benchmarks largely focus on fina...]]></description>
+      <pubDate>Thu, 04 Jun 2026 17:58:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agent]]></title>
-      <link>https://arxiv.org/abs/2606.05130v1</link>
-      <description><![CDATA[Individual-level mobility prediction is central to urban simulation, transportation planning, and policy analysis. Supervised sequence models achieve strong accuracy but require task-specific training and offer limited decision-level transparency. Recent LLM-based methods improve interpretability...]]></description>
-      <pubDate>Wed, 03 Jun 2026 17:34:01 GMT</pubDate>
+      <title><![CDATA[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models]]></title>
+      <link>https://arxiv.org/abs/2606.06475v1</link>
+      <description><![CDATA[Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modifications thereof to steer the models to produce Chain-of-Thought (CoT) traces. The final answer c...]]></description>
+      <pubDate>Thu, 04 Jun 2026 17:56:31 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[UniCAD: A Unified Benchmark and Universal Model for Multi-Modal Multi-Task CAD]]></title>
-      <link>https://arxiv.org/abs/2606.05058v1</link>
-      <description><![CDATA[Computer-Aided Design (CAD) underpins modern engineering and manufacturing by enabling the creation of precise, editable 3D models. However, CAD research typically studies tasks in isolation, and multi-modal, multi-task learning for CAD is hindered by the absence of a unified benchmark. To addres...]]></description>
-      <pubDate>Wed, 03 Jun 2026 16:20:57 GMT</pubDate>
+      <title><![CDATA[Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals]]></title>
+      <link>https://arxiv.org/abs/2606.06460v1</link>
+      <description><![CDATA[As autonomous LLM agents increasingly hold real credentials and operate infrastructure without a human in the loop, operators have no standard way to tell an agent that a resource is off-limits. Access controls either let the agent in (it has valid credentials) or hard-fail it (indistinguishable ...]]></description>
+      <pubDate>Thu, 04 Jun 2026 17:50:54 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Strabo: Declarative Specification and Implementation of Agentic Interaction Protocols]]></title>
-      <link>https://arxiv.org/abs/2606.05043v1</link>
-      <description><![CDATA[The last few years have witnessed major advances in the modeling and implementation of multiagent systems based on declarative interaction protocols. Our contribution, Strabo, establishes the relevance of these advances to ongoing industry efforts in Agentic AI. Specifically, we consider UCP, the...]]></description>
-      <pubDate>Wed, 03 Jun 2026 16:05:25 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Coralogix raises $200M on bet that someone needs to watch the AI agents]]></title>
-      <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
-      <description><![CDATA[Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.]]></description>
-      <pubDate>Wed, 03 Jun 2026 13:02:51 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Microsoft offers devs a better way to control AI agent behavior]]></title>
-      <link>https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/</link>
-      <description><![CDATA[The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.]]></description>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +61,30 @@
       <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
       <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
       <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
+      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
+      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
+      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
+      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
+      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
+      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
+      <source>Microsoft AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
+      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
+      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
+      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
