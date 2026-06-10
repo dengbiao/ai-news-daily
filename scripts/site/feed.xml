@@ -6,29 +6,45 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 04:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 03:44:16 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism]]></title>
-      <link>https://arxiv.org/abs/2606.07512v1</link>
-      <description><![CDATA[Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduce MemDreamer to decouple perception and reasoning, shifting long-video understanding into an agen...]]></description>
-      <pubDate>Fri, 05 Jun 2026 17:59:21 GMT</pubDate>
+      <title><![CDATA[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents]]></title>
+      <link>https://arxiv.org/abs/2606.11182v1</link>
+      <description><![CDATA[In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle ...]]></description>
+      <pubDate>Tue, 09 Jun 2026 17:57:16 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope]]></title>
-      <link>https://arxiv.org/abs/2606.07489v1</link>
-      <description><![CDATA[Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Perplexity's Search and Computer products, we study this transition by examining how AI agents accele...]]></description>
-      <pubDate>Fri, 05 Jun 2026 17:45:39 GMT</pubDate>
+      <title><![CDATA[ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models]]></title>
+      <link>https://arxiv.org/abs/2606.11164v1</link>
+      <description><![CDATA[Long chain-of-thought (CoT) trajectories in large language model (LLM) reasoning cause severe inference bottlenecks due to rapid key-value (KV) cache growth. Current decoding-time compression methods mitigate this issue via token eviction, but typically assume a uniform budget distribution across...]]></description>
+      <pubDate>Tue, 09 Jun 2026 17:44:23 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle]]></title>
-      <link>https://arxiv.org/abs/2606.07462v1</link>
-      <description><![CDATA[As foundation models advance and agent scaffolding becomes increasingly sophisticated, agents have demonstrated remarkable proficiency in complex, long-horizon coding tasks and even autonomous experiment execution. Despite their evolution from research assistants into autonomous research agents, ...]]></description>
-      <pubDate>Fri, 05 Jun 2026 17:13:36 GMT</pubDate>
+      <title><![CDATA[ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity]]></title>
+      <link>https://arxiv.org/abs/2606.11150v1</link>
+      <description><![CDATA[Large language models (LLMs) are rapidly acquiring capabilities relevant to biological research, from literature synthesis to interpretation of experimental data. Increasingly, LLM agents can also perform in silico biology tasks that previously required experienced human biologists. These emergin...]]></description>
+      <pubDate>Tue, 09 Jun 2026 17:35:37 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]></title>
+      <link>https://arxiv.org/abs/2606.11119v1</link>
+      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is often limited by insufficient reward contrast, arising when overly simple or complex prompts gener...]]></description>
+      <pubDate>Tue, 09 Jun 2026 17:16:03 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[PhantomBench: Benchmarking the Non-existential Threat of Language Models]]></title>
+      <link>https://arxiv.org/abs/2606.11105v1</link>
+      <description><![CDATA[Hallucinations, where language models (LMs) generate factually ungrounded responses, pose serious risks, as users tend to blindly rely on them. This is particularly concerning in high-stakes domains, where consequences of such model behavior can lead to significant harms. Despite notable progress...]]></description>
+      <pubDate>Tue, 09 Jun 2026 17:03:19 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
       <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
       <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Online math tutoring service uses AI to help boost students’ skills and confidence]]></title>
-      <link>https://blogs.microsoft.com/ai/eedi-online-math-quiz/</link>
-      <description><![CDATA[The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 13 Jul 2022 12:59:50 GMT</pubDate>
-      <source>Microsoft AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan]]></title>
-      <link>https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/</link>
-      <description><![CDATA[The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 06 Jul 2022 14:51:23 GMT</pubDate>
       <source>Microsoft AI</source>
     </item>
   
