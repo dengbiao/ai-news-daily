@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 03:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:00:55 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents]]></title>
-      <link>https://arxiv.org/abs/2606.11182v1</link>
-      <description><![CDATA[In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle ...]]></description>
-      <pubDate>Tue, 09 Jun 2026 17:57:16 GMT</pubDate>
+      <title><![CDATA[APPO: Agentic Procedural Policy Optimization]]></title>
+      <link>https://arxiv.org/abs/2606.12384v1</link>
+      <description><![CDATA[Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to...]]></description>
+      <pubDate>Wed, 10 Jun 2026 17:47:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models]]></title>
-      <link>https://arxiv.org/abs/2606.11164v1</link>
-      <description><![CDATA[Long chain-of-thought (CoT) trajectories in large language model (LLM) reasoning cause severe inference bottlenecks due to rapid key-value (KV) cache growth. Current decoding-time compression methods mitigate this issue via token eviction, but typically assume a uniform budget distribution across...]]></description>
-      <pubDate>Tue, 09 Jun 2026 17:44:23 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[The latest AI news we announced in May 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
+      <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity]]></title>
-      <link>https://arxiv.org/abs/2606.11150v1</link>
-      <description><![CDATA[Large language models (LLMs) are rapidly acquiring capabilities relevant to biological research, from literature synthesis to interpretation of experimental data. Increasingly, LLM agents can also perform in silico biology tasks that previously required experienced human biologists. These emergin...]]></description>
-      <pubDate>Tue, 09 Jun 2026 17:35:37 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
+      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
+      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2606.11119v1</link>
-      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) is a promising approach for enhancing reasoning and agentic behavior in large language models. However, rollout-intensive policy optimization is often limited by insufficient reward contrast, arising when overly simple or complex prompts gener...]]></description>
-      <pubDate>Tue, 09 Jun 2026 17:16:03 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How we used Gemini to build Google I/O 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
+      <description><![CDATA[Learn how Googlers used AI to produce Google I/O 2026.]]></description>
+      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[PhantomBench: Benchmarking the Non-existential Threat of Language Models]]></title>
-      <link>https://arxiv.org/abs/2606.11105v1</link>
-      <description><![CDATA[Hallucinations, where language models (LMs) generate factually ungrounded responses, pose serious risks, as users tend to blindly rely on them. This is particularly concerning in high-stakes domains, where consequences of such model behavior can lead to significant harms. Despite notable progress...]]></description>
-      <pubDate>Tue, 09 Jun 2026 17:03:19 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Take our I/O 2026 quiz, vibe coded in Google AI Studio.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
+      <description><![CDATA[We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.]]></description>
+      <pubDate>Fri, 29 May 2026 19:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[A conversation with Kevin Scott: What’s next in AI]]></title>
-      <link>https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/</link>
-      <description><![CDATA[The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.]]></description>
-      <pubDate>Tue, 06 Dec 2022 17:29:09 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[9 demos of Gemini Omni and Gemini 3.5 in action]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
+      <description><![CDATA[Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.]]></description>
+      <pubDate>Fri, 29 May 2026 17:30:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative]]></title>
-      <link>https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/</link>
-      <description><![CDATA[The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.]]></description>
-      <pubDate>Wed, 12 Oct 2022 16:00:02 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Check out real-life AI prototypes from the Futures Lab.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
+      <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Microsoft open sources its ‘farm of the future’ toolkit]]></title>
-      <link>https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/</link>
-      <description><![CDATA[The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 06 Oct 2022 14:58:15 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Catch up on 12 major I/O 2026 moments]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
+      <description><![CDATA[Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.]]></description>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How data and AI will transform contact centres for financial services]]></title>
-      <link>https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/</link>
-      <description><![CDATA[The post How data and AI will transform contact centres for financial services appeared first on The AI Blog.]]></description>
-      <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[Catch up on the Dialogues stage at Google I/O 2026.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
+      <description><![CDATA[A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.]]></description>
+      <pubDate>Fri, 22 May 2026 18:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-equipped drones study dolphins on the edge of extinction]]></title>
-      <link>https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/</link>
-      <description><![CDATA[The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog.]]></description>
-      <pubDate>Thu, 21 Jul 2022 14:50:33 GMT</pubDate>
-      <source>Microsoft AI</source>
+      <title><![CDATA[How AI Mode is changing the way people search in the U.S.]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
+      <description><![CDATA[One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.]]></description>
+      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
