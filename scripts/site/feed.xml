@@ -6,13 +6,69 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 03:44:32 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[APPO: Agentic Procedural Policy Optimization]]></title>
-      <link>https://arxiv.org/abs/2606.12384v1</link>
-      <description><![CDATA[Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to...]]></description>
-      <pubDate>Wed, 10 Jun 2026 17:47:07 GMT</pubDate>
+      <title><![CDATA[SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning]]></title>
+      <link>https://arxiv.org/abs/2606.13673v1</link>
+      <description><![CDATA[Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness ...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:59:36 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Agents-K1: Towards Agent-native Knowledge Orchestration]]></title>
+      <link>https://arxiv.org/abs/2606.13669v1</link>
+      <description><![CDATA[Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions, and flat \texttt{cites} edges, omitting key entities, claims, evidence, mechanisms, and method l...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:58:35 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery]]></title>
+      <link>https://arxiv.org/abs/2606.13662v1</link>
+      <description><![CDATA[LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific solutions, and have produced results that outperform human-designed approaches. As model capabilities c...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:56:35 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation]]></title>
+      <link>https://arxiv.org/abs/2606.13647v1</link>
+      <description><![CDATA[We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models ...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:50:06 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility]]></title>
+      <link>https://arxiv.org/abs/2606.13608v1</link>
+      <description><![CDATA[Agent systems are advancing quickly across domains, but their evaluation remains fragmented. Most benchmarks rely on fixed, LLM-centric harnesses that require heavy integration, create test-production mismatch, and limit fair comparison across diverse agent designs. The root problem is the lack o...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:23:54 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning]]></title>
+      <link>https://arxiv.org/abs/2606.13607v1</link>
+      <description><![CDATA[When large language models (LLMs) fail to generalize or make haphazard errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern matching. The implication is that people's behavior does not exhibit the same types of failures beca...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:23:10 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch]]></title>
+      <link>https://arxiv.org/abs/2606.13604v1</link>
+      <description><![CDATA[Dispatch in three-sided marketplaces provides a natural setting for reinforcement learning from world feedback: decisions are evaluated by delayed operational outcomes such as delivery speed, courier utilization, and merchant congestion. We present a deployed reinforcement learning system at Door...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:21:20 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Beyond the Commitment Boundary: Probing Epiphenomenal Chain-of-Thought in Large Reasoning Models]]></title>
+      <link>https://arxiv.org/abs/2606.13603v1</link>
+      <description><![CDATA[Chain-of-thought (CoT) reasoning is the dominant paradigm for inference-time scaling in language models, yet the causal influence of individual steps on the final answer poorly understood. We estimate each step's causal importance via early exit and use this measure to study how answers form acro...]]></description>
+      <pubDate>Thu, 11 Jun 2026 17:21:16 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -29,62 +85,6 @@
       <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
       <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
       <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How we used Gemini to build Google I/O 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
-      <description><![CDATA[Learn how Googlers used AI to produce Google I/O 2026.]]></description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Take our I/O 2026 quiz, vibe coded in Google AI Studio.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
-      <description><![CDATA[We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.]]></description>
-      <pubDate>Fri, 29 May 2026 19:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[9 demos of Gemini Omni and Gemini 3.5 in action]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
-      <description><![CDATA[Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.]]></description>
-      <pubDate>Fri, 29 May 2026 17:30:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Check out real-life AI prototypes from the Futures Lab.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
-      <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Catch up on 12 major I/O 2026 moments]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
-      <description><![CDATA[Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.]]></description>
-      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Catch up on the Dialogues stage at Google I/O 2026.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
-      <description><![CDATA[A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.]]></description>
-      <pubDate>Fri, 22 May 2026 18:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How AI Mode is changing the way people search in the U.S.]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
-      <description><![CDATA[One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
