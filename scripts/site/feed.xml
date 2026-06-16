@@ -6,38 +6,14 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 04:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 04:08:41 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning]]></title>
-      <link>https://arxiv.org/abs/2606.14697v1</link>
-      <description><![CDATA[Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucina...]]></description>
-      <pubDate>Fri, 12 Jun 2026 17:58:38 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2606.14693v1</link>
-      <description><![CDATA[Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across objectives but also across agents with different observations, roles, and contributions. We prop...]]></description>
-      <pubDate>Fri, 12 Jun 2026 17:55:28 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows]]></title>
-      <link>https://arxiv.org/abs/2606.14672v1</link>
-      <description><![CDATA[Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate can...]]></description>
-      <pubDate>Fri, 12 Jun 2026 17:39:29 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AudioDER: A Deduplication-Enhanced Reasoning Dataset for Post-Training Large Audio-Language Models]]></title>
-      <link>https://arxiv.org/abs/2606.14591v1</link>
-      <description><![CDATA[Large Audio-Language Models (LALMs) have shown strong performance on a wide range of audio understanding tasks, yet they still struggle with complex audio reasoning. A practical way to improve such capabilities is post-training, whose effectiveness critically depends on the quality and diversity ...]]></description>
-      <pubDate>Fri, 12 Jun 2026 16:09:49 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Salesforce acquires AI customer service platform Fin for $3.6B]]></title>
+      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
+      <description><![CDATA[Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.]]></description>
+      <pubDate>Mon, 15 Jun 2026 14:34:45 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +61,30 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
       <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
       <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Catch up on 12 major I/O 2026 moments]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
+      <description><![CDATA[Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.]]></description>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Catch up on the Dialogues stage at Google I/O 2026.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
+      <description><![CDATA[A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.]]></description>
+      <pubDate>Fri, 22 May 2026 18:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How AI Mode is changing the way people search in the U.S.]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
+      <description><![CDATA[One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.]]></description>
+      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
