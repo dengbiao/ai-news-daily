@@ -6,14 +6,38 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 04:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 04:09:29 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Salesforce acquires AI customer service platform Fin for $3.6B]]></title>
-      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-      <description><![CDATA[Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.]]></description>
-      <pubDate>Mon, 15 Jun 2026 14:34:45 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents]]></title>
+      <link>https://arxiv.org/abs/2606.18223v1</link>
+      <description><![CDATA[With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neurosymbolic approaches such as behavior trees with learning-enabled components (LECs) to learn, reas...]]></description>
+      <pubDate>Tue, 16 Jun 2026 17:50:41 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills]]></title>
+      <link>https://arxiv.org/abs/2606.18203v1</link>
+      <description><![CDATA[The LLM-empowered personal health agents with user health (sensor) metrics have offered a promising pathway to alleviate global disparities in healthcare access. However, large-scale clinical deployment remains constrained by an open-ended evaluation bottleneck: physician annotation is reliable b...]]></description>
+      <pubDate>Tue, 16 Jun 2026 17:34:53 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[All Smoke, No Alarm: Oracle Signals in Agent-Authored Test Code]]></title>
+      <link>https://arxiv.org/abs/2606.18168v1</link>
+      <description><![CDATA[Software practitioners increasingly use AI coding agents that generate test code alongside production code in open source pull requests (PRs). Recent studies report more than 932,000 agent-authored PRs across more than 116,000 repositories, yet whether their test files contain meaningful verifica...]]></description>
+      <pubDate>Tue, 16 Jun 2026 17:06:51 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act]]></title>
+      <link>https://arxiv.org/abs/2606.18158v1</link>
+      <description><![CDATA[Large language models now produce legal text of at least median quality, yet no existing benchmark can evaluate whether they perform doctrinal legal reasoning, which forms the interpretive core of legal work, rather than the ancillary, paralegal tasks that most current legal-AI evaluations measur...]]></description>
+      <pubDate>Tue, 16 Jun 2026 16:57:12 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
       <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
       <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Catch up on 12 major I/O 2026 moments]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
-      <description><![CDATA[Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.]]></description>
-      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Catch up on the Dialogues stage at Google I/O 2026.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/</link>
-      <description><![CDATA[A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.]]></description>
-      <pubDate>Fri, 22 May 2026 18:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How AI Mode is changing the way people search in the U.S.]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/</link>
-      <description><![CDATA[One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.]]></description>
-      <pubDate>Tue, 19 May 2026 17:45:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
