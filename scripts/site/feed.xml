@@ -6,38 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 04:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:00:20 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents]]></title>
-      <link>https://arxiv.org/abs/2606.18223v1</link>
-      <description><![CDATA[With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neurosymbolic approaches such as behavior trees with learning-enabled components (LECs) to learn, reas...]]></description>
-      <pubDate>Tue, 16 Jun 2026 17:50:41 GMT</pubDate>
+      <title><![CDATA[NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning]]></title>
+      <link>https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/</link>
+      <description><![CDATA[Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and...]]></description>
+      <pubDate>Wed, 17 Jun 2026 18:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents]]></title>
+      <link>https://arxiv.org/abs/2606.19319v1</link>
+      <description><![CDATA[Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present Data Intelligence Agents (DIA), a system of three agents (Data Interpreter, Schema Creator, and ...]]></description>
+      <pubDate>Wed, 17 Jun 2026 17:45:32 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills]]></title>
-      <link>https://arxiv.org/abs/2606.18203v1</link>
-      <description><![CDATA[The LLM-empowered personal health agents with user health (sensor) metrics have offered a promising pathway to alleviate global disparities in healthcare access. However, large-scale clinical deployment remains constrained by an open-ended evaluation bottleneck: physician annotation is reliable b...]]></description>
-      <pubDate>Tue, 16 Jun 2026 17:34:53 GMT</pubDate>
+      <title><![CDATA[A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2]]></title>
+      <link>https://arxiv.org/abs/2606.19259v1</link>
+      <description><![CDATA[Text-rich images often contain privacy-sensitive, transactional, or decision-relevant information. As recent multimodal image generation models become increasingly capable of synthesizing realistic textual content and structured visual designs, detecting AI-generated text-rich images has become a...]]></description>
+      <pubDate>Wed, 17 Jun 2026 16:37:16 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[All Smoke, No Alarm: Oracle Signals in Agent-Authored Test Code]]></title>
-      <link>https://arxiv.org/abs/2606.18168v1</link>
-      <description><![CDATA[Software practitioners increasingly use AI coding agents that generate test code alongside production code in open source pull requests (PRs). Recent studies report more than 932,000 agent-authored PRs across more than 116,000 repositories, yet whether their test files contain meaningful verifica...]]></description>
-      <pubDate>Tue, 16 Jun 2026 17:06:51 GMT</pubDate>
+      <title><![CDATA[TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology]]></title>
+      <link>https://arxiv.org/abs/2606.19245v1</link>
+      <description><![CDATA[Artificial intelligence (AI) agents promise to accelerate drug discovery by compressing interpretation and decision-making loops, but practical deployment requires trusted evaluation on realistic program decisions. We introduce TherapeuticsBench Preclinical Pharmacology (TxBench-PP), a verifiable...]]></description>
+      <pubDate>Wed, 17 Jun 2026 16:23:45 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act]]></title>
-      <link>https://arxiv.org/abs/2606.18158v1</link>
-      <description><![CDATA[Large language models now produce legal text of at least median quality, yet no existing benchmark can evaluate whether they perform doctrinal legal reasoning, which forms the interpretive core of legal work, rather than the ancillary, paralegal tasks that most current legal-AI evaluations measur...]]></description>
-      <pubDate>Tue, 16 Jun 2026 16:57:12 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[New research shows how AMIE, our medical AI, could help manage health conditions.]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
+      <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
       <description><![CDATA[Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.]]></description>
       <pubDate>Fri, 29 May 2026 17:30:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Check out real-life AI prototypes from the Futures Lab.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
-      <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
