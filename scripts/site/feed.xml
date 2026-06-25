@@ -6,37 +6,45 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 04:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 03:35:30 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents]]></title>
-      <link>https://arxiv.org/abs/2606.20529v1</link>
-      <description><![CDATA[Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifiers, constraints, and conditions observed through user interaction and tool calls. In standard age...]]></description>
-      <pubDate>Thu, 18 Jun 2026 17:41:56 GMT</pubDate>
+      <title><![CDATA[Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2606.26080v1</link>
+      <description><![CDATA[Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible a...]]></description>
+      <pubDate>Wed, 24 Jun 2026 17:54:08 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes]]></title>
-      <link>https://arxiv.org/abs/2606.20520v1</link>
-      <description><![CDATA[Autonomous agents are increasingly connected to cloud, deployment, and data-control workflows, but production mutation authority should not reside inside non-deterministic reasoning processes. Existing access-control mechanisms authorize identities, while assurance layers certify proposed actions...]]></description>
-      <pubDate>Thu, 18 Jun 2026 17:36:46 GMT</pubDate>
+      <title><![CDATA[The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems]]></title>
+      <link>https://arxiv.org/abs/2606.26057v1</link>
+      <description><![CDATA[AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries. Any control in the agent's address space is reachab...]]></description>
+      <pubDate>Wed, 24 Jun 2026 17:32:27 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Efficient and Sound Probabilistic Verification for AI Agents]]></title>
-      <link>https://arxiv.org/abs/2606.20510v1</link>
-      <description><![CDATA[Securing AI agents that operate in complex digital environments has become a critical need, and runtime monitoring approaches that formulate and enforce policies expressed in a formal language like Datalog offer a promising solution. However, existing approaches are restricted to deterministic po...]]></description>
-      <pubDate>Thu, 18 Jun 2026 17:27:59 GMT</pubDate>
+      <title><![CDATA[TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs]]></title>
+      <link>https://arxiv.org/abs/2606.26029v1</link>
+      <description><![CDATA[Multimodal Large Language Models (MLLMs) demonstrate strong performance on standard visual question answering benchmarks, yet their scalability under controlled structural complexity remains poorly understood. We introduce TriViewBench, a controlled three-view visual reasoning benchmark construct...]]></description>
+      <pubDate>Wed, 24 Jun 2026 17:00:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems]]></title>
-      <link>https://arxiv.org/abs/2606.20493v1</link>
-      <description><![CDATA[When large language models serve as evaluators in multi-agent systems, their systematic evaluation biases propagate through the agent network. We introduce Contagion Networks, a formal framework for measuring how evaluator biases spread across interacting LLM agents. In a controlled 3-agent exper...]]></description>
-      <pubDate>Thu, 18 Jun 2026 17:09:34 GMT</pubDate>
+      <title><![CDATA[Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem]]></title>
+      <link>https://arxiv.org/abs/2606.26028v1</link>
+      <description><![CDATA[As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge with the first permissionless trust layer for AI agent econo...]]></description>
+      <pubDate>Wed, 24 Jun 2026 16:57:49 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Autodata: An agentic data scientist to create high quality synthetic data]]></title>
+      <link>https://arxiv.org/abs/2606.25996v1</link>
+      <description><![CDATA[We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger data. We describe the overall formulation, and ...]]></description>
+      <pubDate>Wed, 24 Jun 2026 16:08:31 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
       <description><![CDATA[We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.]]></description>
       <pubDate>Fri, 29 May 2026 19:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[9 demos of Gemini Omni and Gemini 3.5 in action]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
-      <description><![CDATA[Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.]]></description>
-      <pubDate>Fri, 29 May 2026 17:30:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
