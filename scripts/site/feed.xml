@@ -6,45 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 03:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:28:19 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2606.26080v1</link>
-      <description><![CDATA[Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible a...]]></description>
-      <pubDate>Wed, 24 Jun 2026 17:54:08 GMT</pubDate>
+      <title><![CDATA[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning]]></title>
+      <link>https://arxiv.org/abs/2606.27330v1</link>
+      <description><![CDATA[Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer f...]]></description>
+      <pubDate>Thu, 25 Jun 2026 17:44:48 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems]]></title>
-      <link>https://arxiv.org/abs/2606.26057v1</link>
-      <description><![CDATA[AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries. Any control in the agent's address space is reachab...]]></description>
-      <pubDate>Wed, 24 Jun 2026 17:32:27 GMT</pubDate>
+      <title><![CDATA[When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models]]></title>
+      <link>https://arxiv.org/abs/2606.27288v1</link>
+      <description><![CDATA[Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta,...]]></description>
+      <pubDate>Thu, 25 Jun 2026 17:06:06 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs]]></title>
-      <link>https://arxiv.org/abs/2606.26029v1</link>
-      <description><![CDATA[Multimodal Large Language Models (MLLMs) demonstrate strong performance on standard visual question answering benchmarks, yet their scalability under controlled structural complexity remains poorly understood. We introduce TriViewBench, a controlled three-view visual reasoning benchmark construct...]]></description>
-      <pubDate>Wed, 24 Jun 2026 17:00:05 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem]]></title>
-      <link>https://arxiv.org/abs/2606.26028v1</link>
-      <description><![CDATA[As autonomous AI agents increasingly transact across organizational boundaries, a fundamental trust challenge emerges: how can an agent assess whether an unknown counterpart is trustworthy? The ERC-8004 protocol addresses this challenge with the first permissionless trust layer for AI agent econo...]]></description>
-      <pubDate>Wed, 24 Jun 2026 16:57:49 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Autodata: An agentic data scientist to create high quality synthetic data]]></title>
-      <link>https://arxiv.org/abs/2606.25996v1</link>
-      <description><![CDATA[We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist agent, so that it learns to create even stronger data. We describe the overall formulation, and ...]]></description>
-      <pubDate>Wed, 24 Jun 2026 16:08:31 GMT</pubDate>
+      <title><![CDATA[Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy]]></title>
+      <link>https://arxiv.org/abs/2606.27251v1</link>
+      <description><![CDATA[Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operat...]]></description>
+      <pubDate>Thu, 25 Jun 2026 16:36:35 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -85,6 +69,22 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
       <description><![CDATA[We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.]]></description>
       <pubDate>Fri, 29 May 2026 19:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[9 demos of Gemini Omni and Gemini 3.5 in action]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/</link>
+      <description><![CDATA[Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.]]></description>
+      <pubDate>Fri, 29 May 2026 17:30:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Check out real-life AI prototypes from the Futures Lab.]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
+      <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
