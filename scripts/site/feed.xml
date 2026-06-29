@@ -6,30 +6,22 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 03:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:57:10 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning]]></title>
-      <link>https://arxiv.org/abs/2606.27330v1</link>
-      <description><![CDATA[Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLLMs are cost efficient and privacy preserving compared with commercial large models, they suffer f...]]></description>
-      <pubDate>Thu, 25 Jun 2026 17:44:48 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm]]></title>
+      <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
+      <description><![CDATA[“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”]]></description>
+      <pubDate>Fri, 26 Jun 2026 18:32:14 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models]]></title>
-      <link>https://arxiv.org/abs/2606.27288v1</link>
-      <description><![CDATA[Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely reports. For any policy whose output is one member model answer, accuracy cannot exceed one minus beta,...]]></description>
-      <pubDate>Thu, 25 Jun 2026 17:06:06 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy]]></title>
-      <link>https://arxiv.org/abs/2606.27251v1</link>
-      <description><![CDATA[Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operat...]]></description>
-      <pubDate>Thu, 25 Jun 2026 16:36:35 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents]]></title>
+      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
+      <description><![CDATA[Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.]]></description>
+      <pubDate>Thu, 25 Jun 2026 20:19:25 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/</link>
       <description><![CDATA[University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.]]></description>
       <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Catch up on 12 major I/O 2026 moments]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/</link>
+      <description><![CDATA[Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.]]></description>
+      <pubDate>Thu, 28 May 2026 15:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
