@@ -6,54 +6,62 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 03:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:54:36 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents]]></title>
-      <link>https://arxiv.org/abs/2606.30306v1</link>
-      <description><![CDATA[Always-on agents are systems whose future behavior depends on durable state accumulated across earlier interactions. We treat them as persistent-state systems: the operative system includes retrievable memories, but also task ledgers, permissions, credentials, commitments, provenance and audit re...]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:47:42 GMT</pubDate>
+      <title><![CDATA[Anthropic launches Claude Sonnet 5 as a cheaper way to run agents]]></title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <description><![CDATA[Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.]]></description>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Acti puts AI agents directly into your smartphone keyboard]]></title>
+      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
+      <description><![CDATA[Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:52:46 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Amazon launches new $1 billion FDE org, following OpenAI and Anthropic]]></title>
+      <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
+      <description><![CDATA[Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.]]></description>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2606.32034v1</link>
+      <description><![CDATA[LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to sol...]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:58:23 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[ManimAgent: Self-Evolving Multimodal Agents for Visual Education]]></title>
-      <link>https://arxiv.org/abs/2606.30296v1</link>
-      <description><![CDATA[Multi-round reflection lets agents built on large language models recover from failures within a single task, but each task remains an isolated episode: lessons learned across many reflection rounds on one task are discarded before the next begins. We study this gap on a code-generation task: fro...]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:37:56 GMT</pubDate>
+      <title><![CDATA[TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning]]></title>
+      <link>https://arxiv.org/abs/2606.32017v1</link>
+      <description><![CDATA[Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verifier outcome as a uniform advantage over all action tokens. This outcome signal is useful but stru...]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:48:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Rehearsed Multi-Agent Live Product Demonstrations with Real-Time Voice Question Answering]]></title>
-      <link>https://arxiv.org/abs/2606.30294v1</link>
-      <description><![CDATA[Live product demonstrations are a recurring, high-cost activity in software organizations: a human presenter must select features, dispatch the corresponding interactions on a running application, narrate them coherently, and answer questions in real time. Existing automation addresses only fragm...]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:36:51 GMT</pubDate>
+      <title><![CDATA[AxDafny: Agentic Verified Code Generation in Dafny]]></title>
+      <link>https://arxiv.org/abs/2606.32007v1</link>
+      <description><![CDATA[We study agentic code generation in Dafny, where a model must generate both executable code and the proof artifacts for verification. We present AxDafny, a verifier-guided repair framework that iteratively generates implementations, invariants, assertions, and termination arguments. We also intro...]]></description>
+      <pubDate>Tue, 30 Jun 2026 17:39:43 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Towards Continual Motion-Language Agents: LoRA Variants for Incremental Motion Understanding and Generation]]></title>
-      <link>https://arxiv.org/abs/2606.30266v1</link>
-      <description><![CDATA[Motion-language agents must possess the bidirectional capability to both understand human movement (motion-to-text, M2T) and generate it from natural language (text-to-motion, T2M). While foundational models have achieved strong performance in static settings, autonomous agents operating in dynam...]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:14:57 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[EMPATH: A Multilingual Auditor-Judge Benchmark for Safety Evaluation of Emotional-Support Chatbots]]></title>
-      <link>https://arxiv.org/abs/2606.30256v1</link>
-      <description><![CDATA[Safety benchmarks often buy scalability by fixing the prompt, the language, and the turn structure. For emotional-support chatbots, that bargain hides precisely where safety failures emerge: across a multilingual, multi-turn crisis conversation. We present EMPATH, a benchmark for safety evaluatio...]]></description>
-      <pubDate>Mon, 29 Jun 2026 13:05:43 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Clarus: Coordinating Autonomous Research Agents toward Web-Scale Scientific Collaboration]]></title>
-      <link>https://arxiv.org/abs/2606.30246v1</link>
-      <description><![CDATA[Existing autonomous research agents can support parts of the research process, but most systems still treat research as either an isolated assistant task or a closed workflow. Therefore, autonomous science needs a collaboration infrastructure that coordinates projects, agents, and digital and phy...]]></description>
-      <pubDate>Mon, 29 Jun 2026 12:56:08 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers]]></title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</link>
+      <description><![CDATA[Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.]]></description>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
       <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
       <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
-      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
-      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
