@@ -6,54 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:36:41 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Anthropic launches Claude Sonnet 5 as a cheaper way to run agents]]></title>
-      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
-      <description><![CDATA[Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.]]></description>
-      <pubDate>Tue, 30 Jun 2026 18:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Acti puts AI agents directly into your smartphone keyboard]]></title>
-      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
-      <description><![CDATA[Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.]]></description>
-      <pubDate>Tue, 30 Jun 2026 17:52:46 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Amazon launches new $1 billion FDE org, following OpenAI and Anthropic]]></title>
-      <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
-      <description><![CDATA[Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.]]></description>
-      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2606.32034v1</link>
-      <description><![CDATA[LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to sol...]]></description>
-      <pubDate>Tue, 30 Jun 2026 17:58:23 GMT</pubDate>
+      <title><![CDATA[Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?]]></title>
+      <link>https://arxiv.org/abs/2607.01211v1</link>
+      <description><![CDATA[Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches. Their leaderboard scores are increasingly used as eviden...]]></description>
+      <pubDate>Wed, 01 Jul 2026 17:50:48 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2606.32017v1</link>
-      <description><![CDATA[Agentic reinforcement learning requires assigning credit to environment-facing actions such as searches, clicks, edits, navigation commands, and object interactions. Standard GRPO uses the final verifier outcome as a uniform advantage over all action tokens. This outcome signal is useful but stru...]]></description>
-      <pubDate>Tue, 30 Jun 2026 17:48:07 GMT</pubDate>
+      <title><![CDATA[Diffusion-GR2: Diffusion Generative Reasoning Re-ranker]]></title>
+      <link>https://arxiv.org/abs/2607.01170v1</link>
+      <description><![CDATA[Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass per reasoning token, and the reasoning trace far exceeds the...]]></description>
+      <pubDate>Wed, 01 Jul 2026 17:02:20 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AxDafny: Agentic Verified Code Generation in Dafny]]></title>
-      <link>https://arxiv.org/abs/2606.32007v1</link>
-      <description><![CDATA[We study agentic code generation in Dafny, where a model must generate both executable code and the proof artifacts for verification. We present AxDafny, a verifier-guided repair framework that iteratively generates implementations, invariants, assertions, and termination arguments. We also intro...]]></description>
-      <pubDate>Tue, 30 Jun 2026 17:39:43 GMT</pubDate>
+      <title><![CDATA[Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity]]></title>
+      <link>https://arxiv.org/abs/2607.01153v1</link>
+      <description><![CDATA[Safety evaluations for language models increasingly depend on judgments about ambiguous natural-language behaviour: whether a model has followed an instruction, refused appropriately, complied with a policy, resisted an embedded command, or misreported progress in an agentic task. Existing benchm...]]></description>
+      <pubDate>Wed, 01 Jul 2026 16:33:14 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The latest AI news we announced in June 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from June 2026.]]></description>
+      <pubDate>Wed, 01 Jul 2026 18:15:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.]]></title>
+      <link>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</link>
+      <description><![CDATA[Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.]]></description>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
       <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
       <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
+      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
+      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
