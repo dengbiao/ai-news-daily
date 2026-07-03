@@ -6,29 +6,61 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:59:00 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?]]></title>
-      <link>https://arxiv.org/abs/2607.01211v1</link>
-      <description><![CDATA[Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches. Their leaderboard scores are increasingly used as eviden...]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:50:48 GMT</pubDate>
+      <title><![CDATA[Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped]]></title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <description><![CDATA[At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.]]></description>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Cloudflare’s new policy pushes AI companies to pay for publishers’ content]]></title>
+      <link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link>
+      <description><![CDATA[Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.]]></description>
+      <pubDate>Wed, 01 Jul 2026 17:48:37 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Gemini Spark, Google’s agentic assistant, is now available on Mac]]></title>
+      <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
+      <description><![CDATA[Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.]]></description>
+      <pubDate>Wed, 01 Jul 2026 14:20:19 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models]]></title>
+      <link>https://arxiv.org/abs/2607.02269v1</link>
+      <description><![CDATA[Vision-Language Models (VLMs) have demonstrated immense promise in Spatio-Temporal Video Grounding (STVG). However, current evaluation protocols are largely confined to zero-shot assessments on general, daily-life benchmarks. This creates a critical disconnect from real-world applications in spec...]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:52:45 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Diffusion-GR2: Diffusion Generative Reasoning Re-ranker]]></title>
-      <link>https://arxiv.org/abs/2607.01170v1</link>
-      <description><![CDATA[Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass per reasoning token, and the reasoning trace far exceeds the...]]></description>
-      <pubDate>Wed, 01 Jul 2026 17:02:20 GMT</pubDate>
+      <title><![CDATA[AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2607.02255v1</link>
+      <description><![CDATA[Memory for a long-horizon LLM agent is a contract about what each future decision is allowed to see. The simplest contract appends past observations, tool calls, and reflections to every prompt, which makes prior context easy to access but also turns it into a jumbled mixture in which the effect ...]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:44:32 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity]]></title>
-      <link>https://arxiv.org/abs/2607.01153v1</link>
-      <description><![CDATA[Safety evaluations for language models increasingly depend on judgments about ambiguous natural-language behaviour: whether a model has followed an instruction, refused appropriately, complied with a policy, resisted an embedded command, or misreported progress in an agentic task. Existing benchm...]]></description>
-      <pubDate>Wed, 01 Jul 2026 16:33:14 GMT</pubDate>
+      <title><![CDATA[Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support]]></title>
+      <link>https://arxiv.org/abs/2607.02245v1</link>
+      <description><![CDATA[Mental health disorders affect nearly one billion people globally, yet 75% of individuals in low- and middle-income countries receive no treatment due to workforce shortages, cost barriers, and stigma. Current AI-powered wellness solutions predominantly rely on single-mode conversational interfac...]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:40:03 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Criticality-Based Guard Rail Validation for AI Agent Decisions in Autonomous Telecom Networks]]></title>
+      <link>https://arxiv.org/abs/2607.02210v1</link>
+      <description><![CDATA[The evolution toward fully autonomous telecommunications networks (Autonomous Network Levels 4-5) requires AI/ML agents to make real-time network decisions without human intervention. However, no standardized runtime mechanism exists to intercept and validate individual inference outputs before t...]]></description>
+      <pubDate>Thu, 02 Jul 2026 14:21:26 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -53,38 +85,6 @@
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</link>
       <description><![CDATA[Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.]]></description>
       <pubDate>Tue, 30 Jun 2026 06:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Ask an AI expert: What exactly is the full stack?]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
-      <description><![CDATA[A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.]]></description>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[New research shows how AMIE, our medical AI, could help manage health conditions.]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
-      <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The latest AI news we announced in May 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
-      <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
-      <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
-      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
-      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
