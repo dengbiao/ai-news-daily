@@ -6,8 +6,16 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 03:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 03:33:14 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped]]></title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <description><![CDATA[At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.]]></description>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning]]></title>
       <link>https://arxiv.org/abs/2607.02509v1</link>
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
       <description><![CDATA[A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.]]></description>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[New research shows how AMIE, our medical AI, could help manage health conditions.]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
-      <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
