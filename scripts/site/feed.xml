@@ -6,8 +6,40 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 03:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:48:40 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents]]></title>
+      <link>https://arxiv.org/abs/2607.09653v1</link>
+      <description><![CDATA[Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated prom...]]></description>
+      <pubDate>Fri, 10 Jul 2026 17:52:29 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026]]></title>
+      <link>https://arxiv.org/abs/2607.09623v1</link>
+      <description><![CDATA[We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating und...]]></description>
+      <pubDate>Fri, 10 Jul 2026 17:22:49 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation]]></title>
+      <link>https://arxiv.org/abs/2607.09600v1</link>
+      <description><![CDATA[Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overloo...]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:54:52 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems]]></title>
+      <link>https://arxiv.org/abs/2607.09586v1</link>
+      <description><![CDATA[The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that ca...]]></description>
+      <pubDate>Fri, 10 Jul 2026 16:36:44 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[Expanding Managed Agents in Gemini API: background tasks, remote MCP and more]]></title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</link>
@@ -53,38 +85,6 @@
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
       <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
       <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The latest AI news we announced in May 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
-      <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
-      <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
-      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
-      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How we used Gemini to build Google I/O 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/</link>
-      <description><![CDATA[Learn how Googlers used AI to produce Google I/O 2026.]]></description>
-      <pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Take our I/O 2026 quiz, vibe coded in Google AI Studio.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/</link>
-      <description><![CDATA[We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.]]></description>
-      <pubDate>Fri, 29 May 2026 19:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
