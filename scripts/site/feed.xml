@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 02:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:32:42 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents]]></title>
@@ -38,6 +38,14 @@
       <description><![CDATA[The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that ca...]]></description>
       <pubDate>Fri, 10 Jul 2026 16:36:44 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Hermes agent maker Nous Research in talks for new funding at $1.5B valuation]]></title>
+      <link>https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/</link>
+      <description><![CDATA[The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.]]></description>
+      <pubDate>Mon, 13 Jul 2026 23:31:18 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
       <description><![CDATA[A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.]]></description>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[New research shows how AMIE, our medical AI, could help manage health conditions.]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
-      <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
-      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
