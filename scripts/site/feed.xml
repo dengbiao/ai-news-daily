@@ -6,46 +6,30 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:32:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 02:30:32 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents]]></title>
-      <link>https://arxiv.org/abs/2607.09653v1</link>
-      <description><![CDATA[Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated prom...]]></description>
-      <pubDate>Fri, 10 Jul 2026 17:52:29 GMT</pubDate>
+      <title><![CDATA[A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study]]></title>
+      <link>https://arxiv.org/abs/2607.12886v1</link>
+      <description><![CDATA[Clinical notes contain many of the signs and symptoms that bring patients to care, yet this information rarely reaches structured fields. Existing extraction approaches either rely on context-insensitive rules that generate false positives or on supervised models that require substantial fine-tun...]]></description>
+      <pubDate>Tue, 14 Jul 2026 15:32:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026]]></title>
-      <link>https://arxiv.org/abs/2607.09623v1</link>
-      <description><![CDATA[We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating und...]]></description>
-      <pubDate>Fri, 10 Jul 2026 17:22:49 GMT</pubDate>
+      <title><![CDATA[Human-AI Agent Interaction as a Neuroplastic Training Environment]]></title>
+      <link>https://arxiv.org/abs/2607.12823v1</link>
+      <description><![CDATA[Interaction with AI agents has become one of the most frequent activities of everyday digital life. Whether conversing with an assistant, working with a coding copilot, or generating images, the interaction follows a common iterative loop: a request is issued, a result returned, appraised, and th...]]></description>
+      <pubDate>Tue, 14 Jul 2026 14:36:04 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation]]></title>
-      <link>https://arxiv.org/abs/2607.09600v1</link>
-      <description><![CDATA[Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overloo...]]></description>
-      <pubDate>Fri, 10 Jul 2026 16:54:52 GMT</pubDate>
+      <title><![CDATA[Visual Access Boundaries in Vision-Language Model Reasoning]]></title>
+      <link>https://arxiv.org/abs/2607.12815v1</link>
+      <description><![CDATA[Chain-of-Thought (CoT) prompting is widely used as a test-time scaling strategy for Vision-Language Models (VLMs), but it remains unclear what is extended when VLMs generate longer reasoning traces. We ask whether CoT requires continued access to image tokens, or whether it mainly operates over v...]]></description>
+      <pubDate>Tue, 14 Jul 2026 14:27:58 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems]]></title>
-      <link>https://arxiv.org/abs/2607.09586v1</link>
-      <description><![CDATA[The proliferation of agentic AI systems across enterprise and public-sector contexts has outpaced the capacity of general-purpose AI risk frameworks to classify and govern them. In this paper, we introduce the TrustX Agent Risk Classification Framework, a structured, repeatable instrument that ca...]]></description>
-      <pubDate>Fri, 10 Jul 2026 16:36:44 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Hermes agent maker Nous Research in talks for new funding at $1.5B valuation]]></title>
-      <link>https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/</link>
-      <description><![CDATA[The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.]]></description>
-      <pubDate>Mon, 13 Jul 2026 23:31:18 GMT</pubDate>
-      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +69,22 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
       <description><![CDATA[A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.]]></description>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[New research shows how AMIE, our medical AI, could help manage health conditions.]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/</link>
+      <description><![CDATA[Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.]]></description>
+      <pubDate>Wed, 17 Jun 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The latest AI news we announced in May 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
+      <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
