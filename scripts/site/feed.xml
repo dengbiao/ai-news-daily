@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 02:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:40:34 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models]]></title>
-      <link>https://arxiv.org/abs/2607.14049v1</link>
-      <description><![CDATA[The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, o...]]></description>
-      <pubDate>Wed, 15 Jul 2026 17:16:43 GMT</pubDate>
+      <title><![CDATA[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization]]></title>
+      <link>https://arxiv.org/abs/2607.15205v1</link>
+      <description><![CDATA[Real repository issues routinely include visual evidence such as screenshots, error dialogs, rendered UI states, and logs, yet repository-level issue localization is evaluated mostly as a text-only task. Existing multimodal SE benchmarks evaluate end-to-end repair, entangling localization with pa...]]></description>
+      <pubDate>Thu, 16 Jul 2026 17:02:25 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Early Adoption of Agentic Coding Tools by GitHub Projects]]></title>
-      <link>https://arxiv.org/abs/2607.14037v1</link>
-      <description><![CDATA[Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While prior studies have examined PR-level outcomes of agent-generated contributions, less is known abou...]]></description>
-      <pubDate>Wed, 15 Jul 2026 17:05:06 GMT</pubDate>
+      <title><![CDATA[Plover: Steering GUI Agents through Plan-Centric Interaction]]></title>
+      <link>https://arxiv.org/abs/2607.15193v1</link>
+      <description><![CDATA[Graphical user interface (GUI) automation remains challenging in real-world environments, where dynamic layouts, unexpected dialogs, and evolving interface states can cause autonomous agents to drift from user intent. Recent vision-based multimodal agents improve flexibility by operating directly...]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:48:39 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0]]></title>
-      <link>https://arxiv.org/abs/2607.14004v1</link>
-      <description><![CDATA[Most reported gains from agent-optimization methods are one-shot: an agent is optimized against a fixed benchmark and the resulting improvement is reported as if it were a stable property of the method. This does not test the setting that matters for deployed agents, where optimization is applied...]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:36:04 GMT</pubDate>
+      <title><![CDATA[Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy]]></title>
+      <link>https://arxiv.org/abs/2607.15176v1</link>
+      <description><![CDATA[Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy asse...]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:29:34 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce]]></title>
-      <link>https://arxiv.org/abs/2607.13998v1</link>
-      <description><![CDATA[The rapid proliferation of Agentic Artificial Intelligence fundamentally disrupts traditional customer loyalty paradigms. As AI evolves from passive recommendation algorithms to autonomous, goal-directed agents capable of executing purchasing decisions, the conventional understanding of consumer-...]]></description>
-      <pubDate>Wed, 15 Jul 2026 16:27:48 GMT</pubDate>
+      <title><![CDATA[MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection]]></title>
+      <link>https://arxiv.org/abs/2607.15166v1</link>
+      <description><![CDATA[Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a clinician-built synthetic benchmark and failure atlas that labels medical AI errors by severity (1--5) and safety gate type (missed urgen...]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:16:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[A Self-Evolving Agent for Longitudinal Personal Health Management]]></title>
-      <link>https://arxiv.org/abs/2607.13940v1</link>
-      <description><![CDATA[Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety r...]]></description>
-      <pubDate>Wed, 15 Jul 2026 15:22:11 GMT</pubDate>
+      <title><![CDATA[Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2607.15095v1</link>
+      <description><![CDATA[The formation of political coalitions is a complex negotiation driven by both concrete policy objectives and deep-seated ideological convictions. While Large Language Models (LLMs) open new avenues for computational political science, the neutrality and helpfulness biases instilled by Reinforceme...]]></description>
+      <pubDate>Thu, 16 Jul 2026 15:08:29 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The US is advancing AI safety through state and federal action]]></title>
-      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
-      <description><![CDATA[OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.]]></description>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Connect more of your apps to Search]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
+      <description><![CDATA[You’ll be able to securely link and interact with your go-to services directly in AI Mode.]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[GPT-Red: Unlocking Self-Improvement for Robustness]]></title>
-      <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
-      <description><![CDATA[Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.]]></description>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Create, edit and star in videos with two Google Vids updates]]></title>
+      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
+      <description><![CDATA[Gemini Omni and personal avatars in Google Vids make video creation easier than ever.]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How to manage AI investments in the agentic era]]></title>
-      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-      <description><![CDATA[Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.]]></description>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Expanding Managed Agents in Gemini API: background tasks, remote MCP and more]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</link>
+      <description><![CDATA[We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.]]></description>
+      <pubDate>Tue, 07 Jul 2026 08:54:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How sales teams use ChatGPT Work]]></title>
-      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
-      <description><![CDATA[See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.]]></description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[The latest AI news we announced in June 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from June 2026.]]></description>
+      <pubDate>Wed, 01 Jul 2026 18:15:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How data science teams use ChatGPT Work]]></title>
-      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
-      <description><![CDATA[See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.]]></description>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.]]></title>
+      <link>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</link>
+      <description><![CDATA[Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.]]></description>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
