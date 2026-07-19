@@ -6,45 +6,53 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 02:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 02:42:37 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs]]></title>
+      <link>https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/</link>
+      <description><![CDATA[From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.]]></description>
+      <pubDate>Fri, 17 Jul 2026 22:55:09 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Yes, you can now order DoorDash from the command line]]></title>
+      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
+      <description><![CDATA[DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.]]></description>
+      <pubDate>Thu, 16 Jul 2026 15:38:55 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents]]></title>
+      <link>https://arxiv.org/abs/2607.15263v1</link>
+      <description><![CDATA[Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, to...]]></description>
+      <pubDate>Thu, 16 Jul 2026 17:54:47 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration]]></title>
+      <link>https://arxiv.org/abs/2607.15257v1</link>
+      <description><![CDATA[Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi...]]></description>
+      <pubDate>Thu, 16 Jul 2026 17:51:23 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[AutoSynthesis: An agentic system for automated meta-analysis]]></title>
+      <link>https://arxiv.org/abs/2607.15247v1</link>
+      <description><![CDATA[Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated met...]]></description>
+      <pubDate>Thu, 16 Jul 2026 17:45:27 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization]]></title>
       <link>https://arxiv.org/abs/2607.15205v1</link>
       <description><![CDATA[Real repository issues routinely include visual evidence such as screenshots, error dialogs, rendered UI states, and logs, yet repository-level issue localization is evaluated mostly as a text-only task. Existing multimodal SE benchmarks evaluate end-to-end repair, entangling localization with pa...]]></description>
       <pubDate>Thu, 16 Jul 2026 17:02:25 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Plover: Steering GUI Agents through Plan-Centric Interaction]]></title>
-      <link>https://arxiv.org/abs/2607.15193v1</link>
-      <description><![CDATA[Graphical user interface (GUI) automation remains challenging in real-world environments, where dynamic layouts, unexpected dialogs, and evolving interface states can cause autonomous agents to drift from user intent. Recent vision-based multimodal agents improve flexibility by operating directly...]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:48:39 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy]]></title>
-      <link>https://arxiv.org/abs/2607.15176v1</link>
-      <description><![CDATA[Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet current evaluations remain largely chart-centric and provide limited evidence of understanding of scientific visualization (SciVis). We benchmark six MLLMs on the scientific visualization literacy asse...]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:29:34 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[MedFailBench: A Clinician-Built Open-Source Benchmark for Medical AI Safety Boundary Inspection]]></title>
-      <link>https://arxiv.org/abs/2607.15166v1</link>
-      <description><![CDATA[Most medical AI benchmarks measure whether a model knows the correct answer. MedFailBench asks a different question: which safety boundary failed? We present a clinician-built synthetic benchmark and failure atlas that labels medical AI errors by severity (1--5) and safety gate type (missed urgen...]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:16:07 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2607.15095v1</link>
-      <description><![CDATA[The formation of political coalitions is a complex negotiation driven by both concrete policy objectives and deep-seated ideological convictions. While Large Language Models (LLMs) open new avenues for computational political science, the neutrality and helpfulness biases instilled by Reinforceme...]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:08:29 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/</link>
       <description><![CDATA[Here are Google’s latest AI updates from June 2026.]]></description>
       <pubDate>Wed, 01 Jul 2026 18:15:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.]]></title>
-      <link>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</link>
-      <description><![CDATA[Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.]]></description>
-      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
