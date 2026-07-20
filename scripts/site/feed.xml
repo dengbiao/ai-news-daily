@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 02:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 02:56:55 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs]]></title>
@@ -17,42 +17,34 @@
     </item>
   
     <item>
-      <title><![CDATA[Yes, you can now order DoorDash from the command line]]></title>
-      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
-      <description><![CDATA[DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.]]></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:55 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents]]></title>
-      <link>https://arxiv.org/abs/2607.15263v1</link>
-      <description><![CDATA[Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, to...]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:54:47 GMT</pubDate>
+      <title><![CDATA[When Does Muon Help Agentic Reinforcement Learning?]]></title>
+      <link>https://arxiv.org/abs/2607.16169v1</link>
+      <description><![CDATA[Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Gro...]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:49:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration]]></title>
-      <link>https://arxiv.org/abs/2607.15257v1</link>
-      <description><![CDATA[Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi...]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:51:23 GMT</pubDate>
+      <title><![CDATA[When Do Multi-Agent Systems Help? An Information Bottleneck Perspective]]></title>
+      <link>https://arxiv.org/abs/2607.16133v1</link>
+      <description><![CDATA[LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across settings. Here, we provide an information bottleneck perspective on elucidating th...]]></description>
+      <pubDate>Fri, 17 Jul 2026 17:13:44 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AutoSynthesis: An agentic system for automated meta-analysis]]></title>
-      <link>https://arxiv.org/abs/2607.15247v1</link>
-      <description><![CDATA[Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated met...]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:45:27 GMT</pubDate>
+      <title><![CDATA[Understanding Reasoning from Pretraining to Post-Training]]></title>
+      <link>https://arxiv.org/abs/2607.16097v1</link>
+      <description><![CDATA[Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size...]]></description>
+      <pubDate>Fri, 17 Jul 2026 16:31:58 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization]]></title>
-      <link>https://arxiv.org/abs/2607.15205v1</link>
-      <description><![CDATA[Real repository issues routinely include visual evidence such as screenshots, error dialogs, rendered UI states, and logs, yet repository-level issue localization is evaluated mostly as a text-only task. Existing multimodal SE benchmarks evaluate end-to-end repair, entangling localization with pa...]]></description>
-      <pubDate>Thu, 16 Jul 2026 17:02:25 GMT</pubDate>
+      <title><![CDATA[LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization]]></title>
+      <link>https://arxiv.org/abs/2607.16066v1</link>
+      <description><![CDATA[Agentic Artificial Intelligence (AI), enabled by Large Language Models, marks a shift from rule-based automation toward autonomous, goal-driven control of Next-Generation Networks (NGNs). Existing surveys treat the two domains in isolation, leaving protocol integration, evaluation, and standardiz...]]></description>
+      <pubDate>Fri, 17 Jul 2026 15:47:23 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -85,6 +77,14 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/</link>
       <description><![CDATA[Here are Google’s latest AI updates from June 2026.]]></description>
       <pubDate>Wed, 01 Jul 2026 18:15:00 GMT</pubDate>
+      <source>Google AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.]]></title>
+      <link>https://blog.google/products-and-platforms/products/education/nyc-ai-summit/</link>
+      <description><![CDATA[Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.]]></description>
+      <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
