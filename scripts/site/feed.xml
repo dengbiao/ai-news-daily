@@ -6,8 +6,16 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 02:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:44:18 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[The Ethics of Autonomous AI Agents for Offensive Security]]></title>
+      <link>https://arxiv.org/abs/2607.20255v1</link>
+      <description><![CDATA[LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic security tools exhibit \textit{indeterminacy} along three independent dimensions. First, their actions ...]]></description>
+      <pubDate>Wed, 22 Jul 2026 15:13:15 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[Connect more of your apps to Search]]></title>
       <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
@@ -77,14 +85,6 @@
       <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/</link>
       <description><![CDATA[Here are Google’s latest AI updates from May 2026]]></description>
       <pubDate>Fri, 05 Jun 2026 14:45:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[5 ways Google Search can level up your thrift and vintage shopping]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/thrifting-tips/</link>
-      <description><![CDATA[Uncover second-hand scores with AI tools in Google Search and Shopping.]]></description>
-      <pubDate>Wed, 03 Jun 2026 13:00:00 GMT</pubDate>
       <source>Google AI</source>
     </item>
   
