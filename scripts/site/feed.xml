@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 02:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:24:51 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Scientific computing in the age of agentic AI]]></title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <description><![CDATA[A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.]]></description>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Mark Zuckerberg predicts that billions of people will have personal AI agents in five years]]></title>
+      <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
+      <description><![CDATA[As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.]]></description>
+      <pubDate>Wed, 29 Jul 2026 23:00:11 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How AI is expanding what people do at work]]></title>
-      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
-      <description><![CDATA[New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.]]></description>
-      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents]]></title>
+      <link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
+      <description><![CDATA[On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.]]></description>
+      <pubDate>Wed, 29 Jul 2026 22:23:12 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Launching Health in ChatGPT]]></title>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <description><![CDATA[Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.]]></description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026]]></title>
+      <link>https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/</link>
+      <description><![CDATA[At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.]]></description>
+      <pubDate>Wed, 29 Jul 2026 21:16:39 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Building AI infrastructure with the Effingham County community]]></title>
-      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-      <description><![CDATA[OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.]]></description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Encore AI raises $30M to build AI agents that learn from customer calls]]></title>
+      <link>https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/</link>
+      <description><![CDATA[The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.]]></description>
+      <pubDate>Wed, 29 Jul 2026 14:41:06 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How news organizations are using AI to advance their vital missions]]></title>
-      <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-      <description><![CDATA[News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.]]></description>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2607.27083v1</link>
+      <description><![CDATA[As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools leaves the task under-informed, while too many adds cost, context load, and privacy exposure. Rout...]]></description>
+      <pubDate>Wed, 29 Jul 2026 16:07:37 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Advancing the next era of national science]]></title>
-      <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-      <description><![CDATA[OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.]]></description>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair]]></title>
+      <link>https://arxiv.org/abs/2607.27080v1</link>
+      <description><![CDATA[Memory systems allow agents to retain and reuse information from past interactions, but they can also let malicious content persist. A malicious instruction crafted by an attacker may be stored in long-term memory, recalled much later, and quietly shape a real action. Recent benchmarks increasing...]]></description>
+      <pubDate>Wed, 29 Jul 2026 16:06:54 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Introducing OpenAI Presence]]></title>
-      <link>https://openai.com/index/introducing-openai-presence</link>
-      <description><![CDATA[Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.]]></description>
-      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Visual Credit Audit for Multimodal Spatial Reasoning]]></title>
+      <link>https://arxiv.org/abs/2607.27069v1</link>
+      <description><![CDATA[Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support tha...]]></description>
+      <pubDate>Wed, 29 Jul 2026 15:55:31 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[NTT DATA Group cuts incident analysis to 30 minutes with Codex]]></title>
-      <link>https://openai.com/index/ntt-data</link>
-      <description><![CDATA[NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.]]></description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data]]></title>
+      <link>https://arxiv.org/abs/2607.27056v1</link>
+      <description><![CDATA[Personalized agents are increasingly applied to assist users across a wide range of tasks. Effective personalized assistance requires not only retrieving explicit facts from past interactions stored in agent memory, but also inferring abstract personal characteristics. However, existing memory be...]]></description>
+      <pubDate>Wed, 29 Jul 2026 15:47:40 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Introducing the ChatGPT for small business program]]></title>
-      <link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-      <description><![CDATA[OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.]]></description>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Gemini API Managed Agents: 3.6 Flash, hooks, and more]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+      <description><![CDATA[We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.]]></description>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI and Hugging Face partner to address security incident during model evaluation]]></title>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
-      <description><![CDATA[OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.]]></description>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[5 ways AI Mode in Search helps you enjoy the real world]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
+      <description><![CDATA[It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…]]></description>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
