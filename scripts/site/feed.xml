@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 02:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:47:29 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Mark Zuckerberg predicts that billions of people will have personal AI agents in five years]]></title>
-      <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
-      <description><![CDATA[As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.]]></description>
-      <pubDate>Wed, 29 Jul 2026 23:00:11 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents]]></title>
-      <link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
-      <description><![CDATA[On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.]]></description>
-      <pubDate>Wed, 29 Jul 2026 22:23:12 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026]]></title>
-      <link>https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/</link>
-      <description><![CDATA[At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.]]></description>
-      <pubDate>Wed, 29 Jul 2026 21:16:39 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Encore AI raises $30M to build AI agents that learn from customer calls]]></title>
-      <link>https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/</link>
-      <description><![CDATA[The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.]]></description>
-      <pubDate>Wed, 29 Jul 2026 14:41:06 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2607.27083v1</link>
-      <description><![CDATA[As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools leaves the task under-informed, while too many adds cost, context load, and privacy exposure. Rout...]]></description>
-      <pubDate>Wed, 29 Jul 2026 16:07:37 GMT</pubDate>
+      <title><![CDATA[PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks]]></title>
+      <link>https://arxiv.org/abs/2607.28587v1</link>
+      <description><![CDATA[SWE-bench-like benchmarks are widely used for evaluating LLM's issue resolution capability. They typically follow a common construction pipeline: each PR (Pull Request) is paired with its linked issue by extracting issue references from the PR description; the issue description is used as the pro...]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:42:44 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair]]></title>
-      <link>https://arxiv.org/abs/2607.27080v1</link>
-      <description><![CDATA[Memory systems allow agents to retain and reuse information from past interactions, but they can also let malicious content persist. A malicious instruction crafted by an attacker may be stored in long-term memory, recalled much later, and quietly shape a real action. Recent benchmarks increasing...]]></description>
-      <pubDate>Wed, 29 Jul 2026 16:06:54 GMT</pubDate>
+      <title><![CDATA[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation]]></title>
+      <link>https://arxiv.org/abs/2607.28580v1</link>
+      <description><![CDATA[While Multimodal Retrieval-Augmented Generation (MM-RAG) has shown promising results, it still struggles with complex multi-hop reasoning tasks. Existing methods primarily focus on independent instance-level matching, which often fails to capture explicit relationships across modalities and docum...]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:40:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Visual Credit Audit for Multimodal Spatial Reasoning]]></title>
-      <link>https://arxiv.org/abs/2607.27069v1</link>
-      <description><![CDATA[Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support tha...]]></description>
-      <pubDate>Wed, 29 Jul 2026 15:55:31 GMT</pubDate>
+      <title><![CDATA[Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs]]></title>
+      <link>https://arxiv.org/abs/2607.28573v1</link>
+      <description><![CDATA[Deploying autonomous computer-use agents (CUAs) locally is increasingly important for privacy, cost efficiency, and practical usability, yet improving their performance under strict hardware constraints remains challenging. While recent studies show that inference-time scaling can improve frontie...]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:36:36 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data]]></title>
-      <link>https://arxiv.org/abs/2607.27056v1</link>
-      <description><![CDATA[Personalized agents are increasingly applied to assist users across a wide range of tasks. Effective personalized assistance requires not only retrieving explicit facts from past interactions stored in agent memory, but also inferring abstract personal characteristics. However, existing memory be...]]></description>
-      <pubDate>Wed, 29 Jul 2026 15:47:40 GMT</pubDate>
+      <title><![CDATA[ORCA-bench: How Ready Are Language Model Agents for Oncall?]]></title>
+      <link>https://arxiv.org/abs/2607.28545v1</link>
+      <description><![CDATA[Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a ben...]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:14:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Gemini API Managed Agents: 3.6 Flash, hooks, and more]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-      <description><![CDATA[We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.]]></description>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems]]></title>
+      <link>https://arxiv.org/abs/2607.28527v1</link>
+      <description><![CDATA[Large language model-based multi-agent systems improve complex problem solving through task decomposition, agent specialization, information exchange, and intermediate validation. However, existing systems typically treat communication topology as a fixed design choice or an offline optimization ...]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:01:27 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[5 ways AI Mode in Search helps you enjoy the real world]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
-      <description><![CDATA[It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…]]></description>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Advancing responsible AI across Europe]]></title>
+      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
+      <description><![CDATA[OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.]]></description>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Building abundant intelligence]]></title>
+      <link>https://openai.com/index/building-abundant-intelligence</link>
+      <description><![CDATA[A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.]]></description>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Univé builds an AI-ready workforce]]></title>
+      <link>https://openai.com/index/unive</link>
+      <description><![CDATA[See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.]]></description>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Disrupting a Criminal Scam Operation]]></title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
+      <description><![CDATA[OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.]]></description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Advancing the price-performance frontier with GPT-5.6]]></title>
+      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+      <description><![CDATA[Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.]]></description>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
   </channel>
