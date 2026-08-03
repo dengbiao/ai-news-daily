@@ -6,46 +6,22 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 02:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:47:19 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks]]></title>
-      <link>https://arxiv.org/abs/2607.28587v1</link>
-      <description><![CDATA[SWE-bench-like benchmarks are widely used for evaluating LLM's issue resolution capability. They typically follow a common construction pipeline: each PR (Pull Request) is paired with its linked issue by extracting issue references from the PR description; the issue description is used as the pro...]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:42:44 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps]]></title>
+      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+      <description><![CDATA[Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.]]></description>
+      <pubDate>Sat, 01 Aug 2026 20:26:04 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation]]></title>
-      <link>https://arxiv.org/abs/2607.28580v1</link>
-      <description><![CDATA[While Multimodal Retrieval-Augmented Generation (MM-RAG) has shown promising results, it still struggles with complex multi-hop reasoning tasks. Existing methods primarily focus on independent instance-level matching, which often fails to capture explicit relationships across modalities and docum...]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:40:05 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs]]></title>
-      <link>https://arxiv.org/abs/2607.28573v1</link>
-      <description><![CDATA[Deploying autonomous computer-use agents (CUAs) locally is increasingly important for privacy, cost efficiency, and practical usability, yet improving their performance under strict hardware constraints remains challenging. While recent studies show that inference-time scaling can improve frontie...]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:36:36 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ORCA-bench: How Ready Are Language Model Agents for Oncall?]]></title>
-      <link>https://arxiv.org/abs/2607.28545v1</link>
-      <description><![CDATA[Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source code, starting from ambiguous user-facing reports, often hours after the incident began. We introduce ORCA-bench, a ben...]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:14:07 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems]]></title>
-      <link>https://arxiv.org/abs/2607.28527v1</link>
-      <description><![CDATA[Large language model-based multi-agent systems improve complex problem solving through task decomposition, agent specialization, information exchange, and intermediate validation. However, existing systems typically treat communication topology as a fixed design choice or an offline optimization ...]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:01:27 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI reportedly finds evidence that more of its agents ran amok]]></title>
+      <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
+      <description><![CDATA[OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.]]></description>
+      <pubDate>Fri, 31 Jul 2026 22:47:26 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +61,30 @@
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
       <description><![CDATA[OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.]]></description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Advancing the price-performance frontier with GPT-5.6]]></title>
+      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+      <description><![CDATA[Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.]]></description>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How avatarin built a 24/7 retail agent with GPT-Realtime]]></title>
+      <link>https://openai.com/index/avatarin</link>
+      <description><![CDATA[avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.]]></description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]></title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <description><![CDATA[How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.]]></description>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
