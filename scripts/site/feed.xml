@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 02:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 02:41:00 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Third-party cyber evaluations involving OpenAI models]]></title>
-      <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
-      <description><![CDATA[OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.]]></description>
-      <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
+      <title><![CDATA[Google Maps adds agentic features, including food ordering and hotel bookings]]></title>
+      <link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
+      <description><![CDATA[The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.]]></description>
+      <pubDate>Thu, 06 Aug 2026 12:30:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Meta launches Muse Code, an AI agent for large code bases]]></title>
+      <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
+      <description><![CDATA[Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.]]></description>
+      <pubDate>Wed, 05 Aug 2026 21:21:28 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints]]></title>
+      <link>https://arxiv.org/abs/2608.06265v1</link>
+      <description><![CDATA[Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream...]]></description>
+      <pubDate>Thu, 06 Aug 2026 16:56:44 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models]]></title>
+      <link>https://arxiv.org/abs/2608.06243v1</link>
+      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by queryi...]]></description>
+      <pubDate>Thu, 06 Aug 2026 16:29:24 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks]]></title>
+      <link>https://arxiv.org/abs/2608.06227v1</link>
+      <description><![CDATA[Despite advances in artificial intelligence (AI) across multiple sectors, today's AI tools, including deep learning and generative AI, still fail when embedded into physical systems, such as robots and vehicles operating under real-world physical laws. This stems from their inability to maintain ...]]></description>
+      <pubDate>Thu, 06 Aug 2026 16:17:43 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)]]></title>
+      <link>https://arxiv.org/abs/2608.06202v1</link>
+      <description><![CDATA[Large language model (LLM) benchmark evaluations are routinely used to support claims about model safety, reliability, and deployment readiness. Yet most evaluations rely on a single access modality (model APIs), perform a single run per prompt, and report accuracy as the primary outcome metric, ...]]></description>
+      <pubDate>Thu, 06 Aug 2026 15:58:32 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning]]></title>
+      <link>https://arxiv.org/abs/2608.06197v1</link>
+      <description><![CDATA[Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are difficult to ground. We introduce EnvACE, an agentic reinforcement l...]]></description>
+      <pubDate>Thu, 06 Aug 2026 15:54:36 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Comparative Approaches to Agent Retrieval over Large Skill Libraries]]></title>
+      <link>https://arxiv.org/abs/2608.06196v1</link>
+      <description><![CDATA[Agents backed by large skill libraries must decide which skills to load and in what order. Loading the entire library into context is expensive and provides no structure for autonomous sequencing. We study two systems for this problem over a corpus of 690 skills: a hybrid ranker combining lexical...]]></description>
+      <pubDate>Thu, 06 Aug 2026 15:54:23 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users]]></title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <description><![CDATA[ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.]]></description>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[New ways to learn and teach with ChatGPT Work and Codex]]></title>
-      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-      <description><![CDATA[Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.]]></description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Apple is getting this wrong]]></title>
-      <link>https://openai.com/index/apple-is-getting-this-wrong</link>
-      <description><![CDATA[OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.]]></description>
-      <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How we built a realtime system for responsive voice AI in six months]]></title>
-      <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
-      <description><![CDATA[GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.]]></description>
-      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Circles powers telco personalization with OpenAI technology]]></title>
-      <link>https://openai.com/index/circles</link>
-      <description><![CDATA[Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.]]></description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
-      <link>https://openai.com/index/ten-advances-in-mathematics</link>
-      <description><![CDATA[OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.]]></description>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Advancing responsible AI across Europe]]></title>
-      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
-      <description><![CDATA[OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.]]></description>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Building abundant intelligence]]></title>
-      <link>https://openai.com/index/building-abundant-intelligence</link>
-      <description><![CDATA[A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.]]></description>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Univé builds an AI-ready workforce]]></title>
-      <link>https://openai.com/index/unive</link>
-      <description><![CDATA[See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.]]></description>
-      <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Disrupting a Criminal Scam Operation]]></title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
-      <description><![CDATA[OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.]]></description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Working with the American Psychological Association on youth mental health and AI]]></title>
+      <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+      <description><![CDATA[OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.]]></description>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
