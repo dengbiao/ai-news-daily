@@ -6,70 +6,62 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 02:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 01:31:43 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Google Maps adds agentic features, including food ordering and hotel bookings]]></title>
-      <link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
-      <description><![CDATA[The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.]]></description>
-      <pubDate>Thu, 06 Aug 2026 12:30:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Meta launches Muse Code, an AI agent for large code bases]]></title>
-      <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
-      <description><![CDATA[Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.]]></description>
-      <pubDate>Wed, 05 Aug 2026 21:21:28 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints]]></title>
-      <link>https://arxiv.org/abs/2608.06265v1</link>
-      <description><![CDATA[Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream...]]></description>
-      <pubDate>Thu, 06 Aug 2026 16:56:44 GMT</pubDate>
+      <title><![CDATA[AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games]]></title>
+      <link>https://arxiv.org/abs/2608.06362v1</link>
+      <description><![CDATA[Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can ...]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:57:11 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models]]></title>
-      <link>https://arxiv.org/abs/2608.06243v1</link>
-      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by queryi...]]></description>
-      <pubDate>Thu, 06 Aug 2026 16:29:24 GMT</pubDate>
+      <title><![CDATA[Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents]]></title>
+      <link>https://arxiv.org/abs/2608.06353v1</link>
+      <description><![CDATA[We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make authorization self enforcing via compute budgets. The mechanism ...]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:53:24 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks]]></title>
-      <link>https://arxiv.org/abs/2608.06227v1</link>
-      <description><![CDATA[Despite advances in artificial intelligence (AI) across multiple sectors, today's AI tools, including deep learning and generative AI, still fail when embedded into physical systems, such as robots and vehicles operating under real-world physical laws. This stems from their inability to maintain ...]]></description>
-      <pubDate>Thu, 06 Aug 2026 16:17:43 GMT</pubDate>
+      <title><![CDATA[TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories]]></title>
+      <link>https://arxiv.org/abs/2608.06346v1</link>
+      <description><![CDATA[LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a failed trajectory that is responsible for the final failure. However, progress f...]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:51:20 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)]]></title>
-      <link>https://arxiv.org/abs/2608.06202v1</link>
-      <description><![CDATA[Large language model (LLM) benchmark evaluations are routinely used to support claims about model safety, reliability, and deployment readiness. Yet most evaluations rely on a single access modality (model APIs), perform a single run per prompt, and report accuracy as the primary outcome metric, ...]]></description>
-      <pubDate>Thu, 06 Aug 2026 15:58:32 GMT</pubDate>
+      <title><![CDATA[Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents]]></title>
+      <link>https://arxiv.org/abs/2608.06329v1</link>
+      <description><![CDATA[Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplistic scenarios, or limited policy coverage, leading to unreliable evaluations. We introduce a refe...]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:39:21 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2608.06197v1</link>
-      <description><![CDATA[Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are difficult to ground. We introduce EnvACE, an agentic reinforcement l...]]></description>
-      <pubDate>Thu, 06 Aug 2026 15:54:36 GMT</pubDate>
+      <title><![CDATA[Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations]]></title>
+      <link>https://arxiv.org/abs/2608.06305v1</link>
+      <description><![CDATA[Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed the chunks, and surface the top-k nearest neighbours of the query. We argue that for an important class of documents -- financial statements, audit reports, regulatory returns -- this design is st...]]></description>
+      <pubDate>Thu, 06 Aug 2026 17:23:13 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Comparative Approaches to Agent Retrieval over Large Skill Libraries]]></title>
-      <link>https://arxiv.org/abs/2608.06196v1</link>
-      <description><![CDATA[Agents backed by large skill libraries must decide which skills to load and in what order. Loading the entire library into context is expensive and provides no structure for autonomous sequencing. We study two systems for this problem over a corpus of 690 skills: a hybrid ranker combining lexical...]]></description>
-      <pubDate>Thu, 06 Aug 2026 15:54:23 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Responding to the next frontier of critical cyber capabilities]]></title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+      <description><![CDATA[OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.]]></description>
+      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How HSP GRUPPE builds AI capabilities for tax advisory]]></title>
+      <link>https://openai.com/index/hsp-gruppe</link>
+      <description><![CDATA[Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.]]></description>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
       <description><![CDATA[OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.]]></description>
       <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[From asking to doing: How the world is putting ChatGPT to work]]></title>
+      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+      <description><![CDATA[New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.]]></description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
