@@ -6,54 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 01:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:13:49 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Kog is going deeper to squeeze more inference out of GPUs]]></title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <description><![CDATA[The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.]]></description>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed]]></title>
-      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
-      <description><![CDATA[OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.]]></description>
-      <pubDate>Thu, 13 Aug 2026 19:22:40 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Anthropic set AI agents loose on the same task. They started a turf war.]]></title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <description><![CDATA[Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.]]></description>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design]]></title>
-      <link>https://arxiv.org/abs/2608.13560v1</link>
-      <description><![CDATA[Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empi...]]></description>
-      <pubDate>Thu, 13 Aug 2026 17:59:57 GMT</pubDate>
+      <title><![CDATA[Generating Benchmark Health Data Using a Tabular Diffusion Transformer]]></title>
+      <link>https://arxiv.org/abs/2608.14496v1</link>
+      <description><![CDATA[Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data generation methods are largely restricted to single-input-table scenarios and struggle to effectively hand...]]></description>
+      <pubDate>Fri, 14 Aug 2026 17:10:44 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Vero: Can AI Agents Build Formally Verified Software Repositories?]]></title>
-      <link>https://arxiv.org/abs/2608.13522v1</link>
-      <description><![CDATA[AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-genera...]]></description>
-      <pubDate>Thu, 13 Aug 2026 17:41:27 GMT</pubDate>
+      <title><![CDATA[SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning]]></title>
+      <link>https://arxiv.org/abs/2608.14452v1</link>
+      <description><![CDATA[Spreadsheets are widely used to organize, analyze, and manipulate semi-structured data, yet automated spreadsheet reasoning remains challenging for large language models (LLMs). Real-world workbooks often contain implicit cross-table associations, fine-grained column dependencies, and complex spa...]]></description>
+      <pubDate>Fri, 14 Aug 2026 16:39:16 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination]]></title>
-      <link>https://arxiv.org/abs/2608.13476v1</link>
-      <description><![CDATA[We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, wit...]]></description>
-      <pubDate>Thu, 13 Aug 2026 17:00:08 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[The Defender’s Window]]></title>
+      <link>https://openai.com/index/the-defenders-window</link>
+      <description><![CDATA[AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.]]></description>
+      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI joins PORTS-Pike project]]></title>
+      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
+      <description><![CDATA[OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs]]></description>
+      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[New policy ideas for the Intelligence Age]]></title>
+      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
+      <description><![CDATA[OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.]]></description>
+      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
       <description><![CDATA[OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.]]></description>
       <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How RingCentral builds AI-native work from engineering to ops]]></title>
+      <link>https://openai.com/index/ringcentral</link>
+      <description><![CDATA[See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.]]></description>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
