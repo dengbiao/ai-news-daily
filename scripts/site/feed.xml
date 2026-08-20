@@ -6,8 +6,64 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:14:08 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification]]></title>
+      <link>https://arxiv.org/abs/2608.18066v1</link>
+      <description><![CDATA[Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduc...]]></description>
+      <pubDate>Tue, 18 Aug 2026 17:55:07 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating]]></title>
+      <link>https://arxiv.org/abs/2608.18058v1</link>
+      <description><![CDATA[Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We ...]]></description>
+      <pubDate>Tue, 18 Aug 2026 17:51:16 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents]]></title>
+      <link>https://arxiv.org/abs/2608.18050v1</link>
+      <description><![CDATA[AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer...]]></description>
+      <pubDate>Tue, 18 Aug 2026 17:44:18 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents]]></title>
+      <link>https://arxiv.org/abs/2608.18008v1</link>
+      <description><![CDATA[Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when ...]]></description>
+      <pubDate>Tue, 18 Aug 2026 16:55:46 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
+      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
+      <link>https://openai.com/index/replit</link>
+      <description><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></description>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[ChatGPT Ads expands across Europe]]></title>
+      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+      <description><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></description>
+      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
     <item>
       <title><![CDATA[Strengthening democratic oversight in national security]]></title>
       <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
@@ -29,62 +85,6 @@
       <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
       <description><![CDATA[OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.]]></description>
       <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Introducing ChatGPT for Teens: Built for learning, backed by protections]]></title>
-      <link>https://openai.com/index/chatgpt-for-teens</link>
-      <description><![CDATA[ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.]]></description>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How NVIDIA scales expertise with ChatGPT Work]]></title>
-      <link>https://openai.com/index/nvidia/chatgpt-work</link>
-      <description><![CDATA[NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.]]></description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Asana cleared 5 years of engineering work in 2 weeks with Codex]]></title>
-      <link>https://openai.com/index/asana</link>
-      <description><![CDATA[Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.]]></description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The Defender’s Window]]></title>
-      <link>https://openai.com/index/the-defenders-window</link>
-      <description><![CDATA[AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.]]></description>
-      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI joins PORTS-Pike project]]></title>
-      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
-      <description><![CDATA[OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs]]></description>
-      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[New policy ideas for the Intelligence Age]]></title>
-      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
-      <description><![CDATA[OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.]]></description>
-      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The builder’s guide to GPT‑5.6]]></title>
-      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-      <description><![CDATA[Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.]]></description>
-      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
