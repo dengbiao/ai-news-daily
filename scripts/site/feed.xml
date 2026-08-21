@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:17:51 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification]]></title>
-      <link>https://arxiv.org/abs/2608.18066v1</link>
-      <description><![CDATA[Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduc...]]></description>
-      <pubDate>Tue, 18 Aug 2026 17:55:07 GMT</pubDate>
+      <title><![CDATA[Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication]]></title>
+      <link>https://arxiv.org/abs/2608.19161v1</link>
+      <description><![CDATA[Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA), an activation-aware framework for monitoring and steering these private communi...]]></description>
+      <pubDate>Wed, 19 Aug 2026 17:43:22 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating]]></title>
-      <link>https://arxiv.org/abs/2608.18058v1</link>
-      <description><![CDATA[Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We ...]]></description>
-      <pubDate>Tue, 18 Aug 2026 17:51:16 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Get closer to the game with Gemini and Pixel]]></title>
+      <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
+      <description><![CDATA[Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.]]></description>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents]]></title>
-      <link>https://arxiv.org/abs/2608.18050v1</link>
-      <description><![CDATA[AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer...]]></description>
-      <pubDate>Tue, 18 Aug 2026 17:44:18 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.]]></title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
+      <description><![CDATA[Google introduces AMIE for real-time clinical video consultations in simulated settings.]]></description>
+      <pubDate>Tue, 11 Aug 2026 17:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents]]></title>
-      <link>https://arxiv.org/abs/2608.18008v1</link>
-      <description><![CDATA[Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when ...]]></description>
-      <pubDate>Tue, 18 Aug 2026 16:55:46 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Evolve your marketing with new AI tools]]></title>
+      <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
+      <description><![CDATA[Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.]]></description>
+      <pubDate>Mon, 10 Aug 2026 14:30:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
-      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[The latest AI news we announced in July 2026]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
+      <description><![CDATA[Here are Google’s latest AI updates from July 2026]]></description>
+      <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
-      <link>https://openai.com/index/replit</link>
-      <description><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Inside our 353,000-person vibe coding course]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</link>
+      <description><![CDATA[Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.]]></description>
+      <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[ChatGPT Ads expands across Europe]]></title>
-      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-      <description><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></description>
-      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Gemini API Managed Agents: 3.6 Flash, hooks, and more]]></title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+      <description><![CDATA[We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.]]></description>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Strengthening democratic oversight in national security]]></title>
-      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
-      <description><![CDATA[OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.]]></description>
-      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[5 ways AI Mode in Search helps you enjoy the real world]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
+      <description><![CDATA[It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…]]></description>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Partnering with CodeAI to prepare the first AI generation]]></title>
-      <link>https://openai.com/index/partnering-with-codeai</link>
-      <description><![CDATA[OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.]]></description>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[5 ways to host the ultimate dinner party with Google Search]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <description><![CDATA[These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.]]></description>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Pacing model development in an era of cyber-critical capabilities]]></title>
-      <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
-      <description><![CDATA[OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.]]></description>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
+      <title><![CDATA[Connect more of your apps to Search]]></title>
+      <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
+      <description><![CDATA[You’ll be able to securely link and interact with your go-to services directly in AI Mode.]]></description>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <source>Google AI</source>
     </item>
   
   </channel>
