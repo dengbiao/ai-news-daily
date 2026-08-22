@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:13:40 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication]]></title>
-      <link>https://arxiv.org/abs/2608.19161v1</link>
-      <description><![CDATA[Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA), an activation-aware framework for monitoring and steering these private communi...]]></description>
-      <pubDate>Wed, 19 Aug 2026 17:43:22 GMT</pubDate>
+      <title><![CDATA[Nvidia just showed that the harness, not the AI model, is now the real hero]]></title>
+      <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
+      <description><![CDATA[Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.]]></description>
+      <pubDate>Fri, 21 Aug 2026 19:43:39 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction]]></title>
+      <link>https://arxiv.org/abs/2608.20320v1</link>
+      <description><![CDATA[Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral predict...]]></description>
+      <pubDate>Thu, 20 Aug 2026 17:57:42 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Get closer to the game with Gemini and Pixel]]></title>
-      <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
-      <description><![CDATA[Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.]]></description>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement]]></title>
+      <link>https://arxiv.org/abs/2608.20318v1</link>
+      <description><![CDATA[Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\mbox{-}capability exchange rate for every s...]]></description>
+      <pubDate>Thu, 20 Aug 2026 17:56:59 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.]]></title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
-      <description><![CDATA[Google introduces AMIE for real-time clinical video consultations in simulated settings.]]></description>
-      <pubDate>Tue, 11 Aug 2026 17:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[MidTool: Mid-training Data Synthesis for Agentic Tool Use]]></title>
+      <link>https://arxiv.org/abs/2608.20314v1</link>
+      <description><![CDATA[Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineer...]]></description>
+      <pubDate>Thu, 20 Aug 2026 17:53:59 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Evolve your marketing with new AI tools]]></title>
-      <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
-      <description><![CDATA[Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.]]></description>
-      <pubDate>Mon, 10 Aug 2026 14:30:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2608.20274v1</link>
+      <description><![CDATA[Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains...]]></description>
+      <pubDate>Thu, 20 Aug 2026 17:12:08 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[The latest AI news we announced in July 2026]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
-      <description><![CDATA[Here are Google’s latest AI updates from July 2026]]></description>
-      <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Introducing AI Futures]]></title>
+      <link>https://openai.com/index/introducing-ai-futures</link>
+      <description><![CDATA[Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></description>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Inside our 353,000-person vibe coding course]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</link>
-      <description><![CDATA[Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.]]></description>
-      <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Stampli cuts launch hours by 68% using ChatGPT Work]]></title>
+      <link>https://openai.com/index/stampli</link>
+      <description><![CDATA[With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.]]></description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Gemini API Managed Agents: 3.6 Flash, hooks, and more]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-      <description><![CDATA[We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.]]></description>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
+      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[5 ways AI Mode in Search helps you enjoy the real world]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
-      <description><![CDATA[It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…]]></description>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
+      <link>https://openai.com/index/replit</link>
+      <description><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></description>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[5 ways to host the ultimate dinner party with Google Search]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
-      <description><![CDATA[These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.]]></description>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source>Google AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Connect more of your apps to Search]]></title>
-      <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
-      <description><![CDATA[You’ll be able to securely link and interact with your go-to services directly in AI Mode.]]></description>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <title><![CDATA[ChatGPT Ads expands across Europe]]></title>
+      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+      <description><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></description>
+      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
   </channel>
