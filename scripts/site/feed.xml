@@ -6,48 +6,8 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 01:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:19:50 GMT</lastBuildDate>
     
-    <item>
-      <title><![CDATA[Nvidia just showed that the harness, not the AI model, is now the real hero]]></title>
-      <link>https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/</link>
-      <description><![CDATA[Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.]]></description>
-      <pubDate>Fri, 21 Aug 2026 19:43:39 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction]]></title>
-      <link>https://arxiv.org/abs/2608.20320v1</link>
-      <description><![CDATA[Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data collection, structured data processing, and behavioral predict...]]></description>
-      <pubDate>Thu, 20 Aug 2026 17:57:42 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement]]></title>
-      <link>https://arxiv.org/abs/2608.20318v1</link>
-      <description><![CDATA[Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective or update rule improves the compute\mbox{-}capability exchange rate for every s...]]></description>
-      <pubDate>Thu, 20 Aug 2026 17:56:59 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[MidTool: Mid-training Data Synthesis for Agentic Tool Use]]></title>
-      <link>https://arxiv.org/abs/2608.20314v1</link>
-      <description><![CDATA[Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineer...]]></description>
-      <pubDate>Thu, 20 Aug 2026 17:53:59 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2608.20274v1</link>
-      <description><![CDATA[Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains...]]></description>
-      <pubDate>Thu, 20 Aug 2026 17:12:08 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
     <item>
       <title><![CDATA[Introducing AI Futures]]></title>
       <link>https://openai.com/index/introducing-ai-futures</link>
@@ -85,6 +45,46 @@
       <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
       <description><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></description>
       <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Strengthening democratic oversight in national security]]></title>
+      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
+      <description><![CDATA[OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.]]></description>
+      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Partnering with CodeAI to prepare the first AI generation]]></title>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <description><![CDATA[OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.]]></description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Pacing model development in an era of cyber-critical capabilities]]></title>
+      <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
+      <description><![CDATA[OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.]]></description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing ChatGPT for Teens: Built for learning, backed by protections]]></title>
+      <link>https://openai.com/index/chatgpt-for-teens</link>
+      <description><![CDATA[ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.]]></description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How NVIDIA scales expertise with ChatGPT Work]]></title>
+      <link>https://openai.com/index/nvidia/chatgpt-work</link>
+      <description><![CDATA[NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.]]></description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
