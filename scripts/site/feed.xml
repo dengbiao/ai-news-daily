@@ -6,30 +6,54 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:48:18 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development]]></title>
-      <link>https://arxiv.org/abs/2608.26086v1</link>
-      <description><![CDATA[Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcom...]]></description>
-      <pubDate>Wed, 26 Aug 2026 17:50:13 GMT</pubDate>
+      <title><![CDATA[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution]]></title>
+      <link>https://arxiv.org/abs/2608.27454v1</link>
+      <description><![CDATA[Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill develo...]]></description>
+      <pubDate>Thu, 27 Aug 2026 17:59:11 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[SwarmWorld: Stigmergic technological evolution in societies of language-model agents]]></title>
-      <link>https://arxiv.org/abs/2608.26081v1</link>
-      <description><![CDATA[Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this process, yet most multi-agent systems rely on direct conversation, predefined ro...]]></description>
-      <pubDate>Wed, 26 Aug 2026 17:45:34 GMT</pubDate>
+      <title><![CDATA[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution]]></title>
+      <link>https://arxiv.org/abs/2608.27439v1</link>
+      <description><![CDATA[LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent a...]]></description>
+      <pubDate>Thu, 27 Aug 2026 17:55:33 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems]]></title>
-      <link>https://arxiv.org/abs/2608.26036v1</link>
-      <description><![CDATA[Answer accuracy is an insufficient reliability signal for LLM data agents. In structured-data tasks, a benchmark-correct answer can be produced by an invalid trace. This paper introduces Trace Integrity, a deployment reliability criterion for evaluating whether the computation recorded behind an ...]]></description>
-      <pubDate>Wed, 26 Aug 2026 17:15:24 GMT</pubDate>
+      <title><![CDATA[Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit]]></title>
+      <link>https://arxiv.org/abs/2608.27427v1</link>
+      <description><![CDATA[Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): p...]]></description>
+      <pubDate>Thu, 27 Aug 2026 17:50:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Supporting Thailand’s next generation of AI startups]]></title>
+      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
+      <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training]]></title>
+      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
+      <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Expanding OpenAI’s presence in Brazil]]></title>
+      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
+      <description><![CDATA[OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.]]></description>
+      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/loveholidays</link>
       <description><![CDATA[Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.]]></description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The full stack behind abundant intelligence]]></title>
-      <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
-      <description><![CDATA[OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.]]></description>
-      <pubDate>Tue, 25 Aug 2026 07:05:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Jalapeño’s first results show industry-leading speed and efficiency in AI inference]]></title>
-      <link>https://openai.com/index/jalapeno-first-results</link>
-      <description><![CDATA[Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.]]></description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Disrupting a new covert influence campaign from Russia]]></title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-      <description><![CDATA[OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.]]></description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
