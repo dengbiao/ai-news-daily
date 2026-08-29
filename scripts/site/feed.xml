@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 05:51:45 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution]]></title>
@@ -30,6 +30,14 @@
       <description><![CDATA[Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): p...]]></description>
       <pubDate>Thu, 27 Aug 2026 17:50:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Our decision on Cursor following its acquisition by SpaceX]]></title>
+      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
+      <description><![CDATA[Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.]]></description>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -57,14 +65,6 @@
     </item>
   
     <item>
-      <title><![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]></title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <description><![CDATA[ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.]]></description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
       <title><![CDATA[Learning never stops: How AI makes learning continuous]]></title>
       <link>https://openai.com/index/learning-never-stops</link>
       <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
@@ -73,17 +73,17 @@
     </item>
   
     <item>
-      <title><![CDATA[The Hugging Face incident and the road ahead]]></title>
-      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
-      <description><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]></title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <description><![CDATA[ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.]]></description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[How loveholidays is making everyone a builder with Codex]]></title>
-      <link>https://openai.com/index/loveholidays</link>
-      <description><![CDATA[Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.]]></description>
+      <title><![CDATA[The Hugging Face incident and the road ahead]]></title>
+      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+      <description><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
