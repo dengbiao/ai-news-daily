@@ -6,29 +6,45 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:57:42 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution]]></title>
-      <link>https://arxiv.org/abs/2608.27454v1</link>
-      <description><![CDATA[Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill develo...]]></description>
-      <pubDate>Thu, 27 Aug 2026 17:59:11 GMT</pubDate>
+      <title><![CDATA[An Anthropic researcher just gave us a peek at self-improving AI]]></title>
+      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
+      <description><![CDATA[Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.]]></description>
+      <pubDate>Fri, 28 Aug 2026 19:30:38 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Google’s AI Mode can now track flight prices, help book hotels, and more]]></title>
+      <link>https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/</link>
+      <description><![CDATA[The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.]]></description>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Logos: An Agent Harness on a Cross-Process Bus]]></title>
+      <link>https://arxiv.org/abs/2608.28553v1</link>
+      <description><![CDATA[Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin fo...]]></description>
+      <pubDate>Fri, 28 Aug 2026 17:30:10 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution]]></title>
-      <link>https://arxiv.org/abs/2608.27439v1</link>
-      <description><![CDATA[LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent a...]]></description>
-      <pubDate>Thu, 27 Aug 2026 17:55:33 GMT</pubDate>
+      <title><![CDATA[On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces]]></title>
+      <link>https://arxiv.org/abs/2608.28497v1</link>
+      <description><![CDATA[AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolution dynamics of these emerging repositories remain empirically unexplored. Unlike traditional softwa...]]></description>
+      <pubDate>Fri, 28 Aug 2026 16:27:35 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit]]></title>
-      <link>https://arxiv.org/abs/2608.27427v1</link>
-      <description><![CDATA[Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): p...]]></description>
-      <pubDate>Thu, 27 Aug 2026 17:50:07 GMT</pubDate>
+      <title><![CDATA[LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment]]></title>
+      <link>https://arxiv.org/abs/2608.28490v1</link>
+      <description><![CDATA[Software and systems security workflows are typically procedural: analysts inspect heterogeneous artifacts, form hypotheses, invoke tools, interpret outputs, and revise plans. Large language model (LLM)-based agents, which can plan, use tools, retain state, and revise actions across multi-step wo...]]></description>
+      <pubDate>Fri, 28 Aug 2026 16:19:01 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/learning-never-stops</link>
       <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
       <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]></title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <description><![CDATA[ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.]]></description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The Hugging Face incident and the road ahead]]></title>
-      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
-      <description><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
