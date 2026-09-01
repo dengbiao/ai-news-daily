@@ -6,46 +6,70 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:57:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:49:40 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[An Anthropic researcher just gave us a peek at self-improving AI]]></title>
-      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
-      <description><![CDATA[Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.]]></description>
-      <pubDate>Fri, 28 Aug 2026 19:30:38 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Google’s AI Mode can now track flight prices, help book hotels, and more]]></title>
-      <link>https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/</link>
-      <description><![CDATA[The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.]]></description>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Logos: An Agent Harness on a Cross-Process Bus]]></title>
-      <link>https://arxiv.org/abs/2608.28553v1</link>
-      <description><![CDATA[Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capability is a component carrying a tracked inverse, and agents are assembled as plugins. This plugin fo...]]></description>
-      <pubDate>Fri, 28 Aug 2026 17:30:10 GMT</pubDate>
+      <title><![CDATA[Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data]]></title>
+      <link>https://arxiv.org/abs/2608.31082v1</link>
+      <description><![CDATA[Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this data to answer complex questions for every knowledge worker. Agents can do this today, but at prohib...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:53:45 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces]]></title>
-      <link>https://arxiv.org/abs/2608.28497v1</link>
-      <description><![CDATA[AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolution dynamics of these emerging repositories remain empirically unexplored. Unlike traditional softwa...]]></description>
-      <pubDate>Fri, 28 Aug 2026 16:27:35 GMT</pubDate>
+      <title><![CDATA[Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization]]></title>
+      <link>https://arxiv.org/abs/2608.31077v1</link>
+      <description><![CDATA[Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavi...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:51:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment]]></title>
-      <link>https://arxiv.org/abs/2608.28490v1</link>
-      <description><![CDATA[Software and systems security workflows are typically procedural: analysts inspect heterogeneous artifacts, form hypotheses, invoke tools, interpret outputs, and revise plans. Large language model (LLM)-based agents, which can plan, use tools, retain state, and revise actions across multi-step wo...]]></description>
-      <pubDate>Fri, 28 Aug 2026 16:19:01 GMT</pubDate>
+      <title><![CDATA[Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents]]></title>
+      <link>https://arxiv.org/abs/2608.31076v1</link>
+      <description><![CDATA[Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria requir...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:48:51 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence]]></title>
+      <link>https://arxiv.org/abs/2608.31075v1</link>
+      <description><![CDATA[Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending this progress to open-ended and agentic tasks remains difficul...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:48:48 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents]]></title>
+      <link>https://arxiv.org/abs/2608.31057v1</link>
+      <description><![CDATA[Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for ...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:34:51 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents]]></title>
+      <link>https://arxiv.org/abs/2608.31022v1</link>
+      <description><![CDATA[AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and cont...]]></description>
+      <pubDate>Mon, 31 Aug 2026 16:05:39 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Polimill builds Japan's next-generation public AI infrastructure]]></title>
+      <link>https://openai.com/index/polimill</link>
+      <description><![CDATA[Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.]]></description>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[A milestone in expanding access to AI]]></title>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <description><![CDATA[ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.]]></description>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
       <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
       <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training]]></title>
-      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-      <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Expanding OpenAI’s presence in Brazil]]></title>
-      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
-      <description><![CDATA[OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.]]></description>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Learning never stops: How AI makes learning continuous]]></title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
