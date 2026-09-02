@@ -6,54 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 03:49:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 03:08:11 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data]]></title>
-      <link>https://arxiv.org/abs/2608.31082v1</link>
-      <description><![CDATA[Valuable data remains embedded in unstructured sources: web pages, reports, contracts, filings, earnings calls, and PDFs. The big bet in enterprise AI is deploying LLM agents that reason over this data to answer complex questions for every knowledge worker. Agents can do this today, but at prohib...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:53:45 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <description><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></description>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization]]></title>
-      <link>https://arxiv.org/abs/2608.31077v1</link>
-      <description><![CDATA[Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavi...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:51:50 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Path to Astra: critical capabilities and frontier safeguards]]></title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <description><![CDATA[Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.]]></description>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents]]></title>
-      <link>https://arxiv.org/abs/2608.31076v1</link>
-      <description><![CDATA[Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria requir...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:48:51 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Healthcare organizations can now connect EHR and additional industry data to ChatGPT]]></title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <description><![CDATA[ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.]]></description>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence]]></title>
-      <link>https://arxiv.org/abs/2608.31075v1</link>
-      <description><![CDATA[Recent advances in large reasoning models (LRMs) have shown that reinforcement learning with verifiable rewards (RLVR) can substantially improve reasoning in mathematics and code, where outcomes can be checked automatically. Extending this progress to open-ended and agentic tasks remains difficul...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:48:48 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How law firm Gilbert + Tobin governs and scales AI with OpenAI]]></title>
+      <link>https://openai.com/index/gilbert-tobin</link>
+      <description><![CDATA[See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.]]></description>
+      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents]]></title>
-      <link>https://arxiv.org/abs/2608.31057v1</link>
-      <description><![CDATA[Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for ...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:34:51 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents]]></title>
-      <link>https://arxiv.org/abs/2608.31022v1</link>
-      <description><![CDATA[AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and cont...]]></description>
-      <pubDate>Mon, 31 Aug 2026 16:05:39 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI supports California’s bill to advance youth AI safety]]></title>
+      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+      <description><![CDATA[OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.]]></description>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
       <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
       <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training]]></title>
+      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
+      <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
