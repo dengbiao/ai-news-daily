@@ -6,8 +6,32 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 03:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:11:40 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[OpenAI’s new reasoning technique alarms AI safety experts]]></title>
+      <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
+      <description><![CDATA[OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.]]></description>
+      <pubDate>Wed, 02 Sep 2026 20:19:14 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[HiddenLayer nabs $100M as enterprises rush to secure their AI deployments]]></title>
+      <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
+      <description><![CDATA[Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.]]></description>
+      <pubDate>Wed, 02 Sep 2026 15:01:23 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]></title>
+      <link>https://openai.com/index/atv-big-air-tour</link>
+      <description><![CDATA[ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.]]></description>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
     <item>
       <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
       <description><![CDATA[ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.]]></description>
       <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Our decision on Cursor following its acquisition by SpaceX]]></title>
-      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-      <description><![CDATA[Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.]]></description>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Supporting Thailand’s next generation of AI startups]]></title>
-      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-      <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
-      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training]]></title>
-      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-      <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
