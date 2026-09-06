@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 03:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:13:23 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents]]></title>
@@ -30,6 +30,22 @@
       <description><![CDATA[As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feed...]]></description>
       <pubDate>Thu, 03 Sep 2026 17:41:05 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]></title>
+      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
+      <description><![CDATA[OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.]]></description>
+      <pubDate>Sat, 05 Sep 2026 18:05:27 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI’s rogue agents keep escaping, with no formal process to investigate them]]></title>
+      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
+      <description><![CDATA[OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.]]></description>
+      <pubDate>Fri, 04 Sep 2026 23:15:11 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
       <description><![CDATA[GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.]]></description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]></title>
-      <link>https://openai.com/index/atv-big-air-tour</link>
-      <description><![CDATA[ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.]]></description>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <description><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></description>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
