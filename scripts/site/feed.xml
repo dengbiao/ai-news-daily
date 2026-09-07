@@ -6,32 +6,8 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:09:04 GMT</lastBuildDate>
     
-    <item>
-      <title><![CDATA[SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents]]></title>
-      <link>https://arxiv.org/abs/2609.04167v1</link>
-      <description><![CDATA[Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived acceptance constraints (review constraints) that often influence whet...]]></description>
-      <pubDate>Thu, 03 Sep 2026 17:53:34 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center]]></title>
-      <link>https://arxiv.org/abs/2609.04159v1</link>
-      <description><![CDATA[Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a multi-thousand-host authentication graph, and free-form generation offers no guarantee that a recommended con...]]></description>
-      <pubDate>Thu, 03 Sep 2026 17:49:12 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments]]></title>
-      <link>https://arxiv.org/abs/2609.04148v1</link>
-      <description><![CDATA[As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feed...]]></description>
-      <pubDate>Thu, 03 Sep 2026 17:41:05 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
     <item>
       <title><![CDATA[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]></title>
       <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
@@ -49,6 +25,22 @@
     </item>
   
     <item>
+      <title><![CDATA[An Alien Mind]]></title>
+      <link>https://openai.com/index/an-alien-mind</link>
+      <description><![CDATA[Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.]]></description>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Research acceleration: The view inside OpenAI]]></title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+      <description><![CDATA[Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.]]></description>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
       <title><![CDATA[Daybreak for Frontline Defenders: $1B to protect essential services]]></title>
       <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
       <description><![CDATA[OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.]]></description>
@@ -57,17 +49,17 @@
     </item>
   
     <item>
-      <title><![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <description><![CDATA[Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.]]></description>
+      <title><![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <description><![CDATA[Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.]]></description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <description><![CDATA[Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.]]></description>
+      <title><![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <description><![CDATA[Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.]]></description>
       <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
       <description><![CDATA[GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.]]></description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]></title>
+      <link>https://openai.com/index/atv-big-air-tour</link>
+      <description><![CDATA[ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.]]></description>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
