@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 03:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:21:00 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Supporting independent journalism in Ukraine]]></title>
-      <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
-      <description><![CDATA[OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.]]></description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Meta debuts its Muse AI agent. Will consumers trust it?]]></title>
+      <link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
+      <description><![CDATA[Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.]]></description>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]></title>
+      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
+      <description><![CDATA[OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.]]></description>
+      <pubDate>Sat, 05 Sep 2026 18:05:27 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI’s rogue agents keep escaping, with no formal process to investigate them]]></title>
+      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
+      <description><![CDATA[OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.]]></description>
+      <pubDate>Fri, 04 Sep 2026 23:15:11 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How GPT-5.6 Sol helps run quantum computing experiments]]></title>
+      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
+      <description><![CDATA[See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.]]></description>
+      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[An Alien Mind]]></title>
-      <link>https://openai.com/index/an-alien-mind</link>
-      <description><![CDATA[Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.]]></description>
-      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <title><![CDATA[The Work Now Within Reach]]></title>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <description><![CDATA[Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.]]></description>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Research acceleration: The view inside OpenAI]]></title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-      <description><![CDATA[Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.]]></description>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
+      <title><![CDATA[Introducing ChatGPT Images 2.5]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+      <description><![CDATA[ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.]]></description>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Daybreak for Frontline Defenders: $1B to protect essential services]]></title>
-      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-      <description><![CDATA[OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.]]></description>
-      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
+      <title><![CDATA[On the Navier–Stokes Millennium Prize Problem]]></title>
+      <link>https://openai.com/index/navier-stokes-solution</link>
+      <description><![CDATA[We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.]]></description>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <description><![CDATA[Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.]]></description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[Funding grants for new research into AI and teen development]]></title>
+      <link>https://openai.com/index/teen-development-research-grants</link>
+      <description><![CDATA[Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.]]></description>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <description><![CDATA[Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.]]></description>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[OpenAI expands initiatives to support journalism from classrooms to newsrooms]]></title>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <description><![CDATA[OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.]]></description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[GPT-6 Astra: A new generation of intelligence]]></title>
-      <link>https://openai.com/index/gpt-6-astra</link>
-      <description><![CDATA[Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.]]></description>
-      <pubDate>Thu, 03 Sep 2026 11:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Safety overview: GPT-6 Astra]]></title>
-      <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
-      <description><![CDATA[GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.]]></description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT]]></title>
-      <link>https://openai.com/index/atv-big-air-tour</link>
-      <description><![CDATA[ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.]]></description>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <description><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></description>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <title><![CDATA[1Password increases engineering productivity 21% with Codex]]></title>
+      <link>https://openai.com/index/1password</link>
+      <description><![CDATA[Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.]]></description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
