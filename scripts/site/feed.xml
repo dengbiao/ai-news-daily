@@ -6,30 +6,54 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 03:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:22:13 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Meta debuts its Muse AI agent. Will consumers trust it?]]></title>
-      <link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
-      <description><![CDATA[Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.]]></description>
-      <pubDate>Tue, 08 Sep 2026 19:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Show-Harness: Just a VLM Agent Can Play Robots]]></title>
+      <link>https://arxiv.org/abs/2609.10522v1</link>
+      <description><![CDATA[Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to "play" robots through a compact semantic interface linking intent to act...]]></description>
+      <pubDate>Wed, 09 Sep 2026 17:53:38 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure]]></title>
-      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
-      <description><![CDATA[OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.]]></description>
-      <pubDate>Sat, 05 Sep 2026 18:05:27 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition]]></title>
+      <link>https://arxiv.org/abs/2609.10451v1</link>
+      <description><![CDATA[Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-d...]]></description>
+      <pubDate>Wed, 09 Sep 2026 16:59:59 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI’s rogue agents keep escaping, with no formal process to investigate them]]></title>
-      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
-      <description><![CDATA[OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.]]></description>
-      <pubDate>Fri, 04 Sep 2026 23:15:11 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning]]></title>
+      <link>https://arxiv.org/abs/2609.10335v1</link>
+      <description><![CDATA[Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Lan...]]></description>
+      <pubDate>Wed, 09 Sep 2026 15:33:25 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The AI policy window is open. We need to act.]]></title>
+      <link>https://openai.com/index/ai-policy-window</link>
+      <description><![CDATA[Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.]]></description>
+      <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[GPT-6 Astra: The next generation in intelligence for work]]></title>
+      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+      <description><![CDATA[Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.]]></description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Paul Christiano joins OpenAI Foundation Board]]></title>
+      <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
+      <description><![CDATA[Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.]]></description>
+      <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/navier-stokes-solution</link>
       <description><![CDATA[We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.]]></description>
       <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Funding grants for new research into AI and teen development]]></title>
-      <link>https://openai.com/index/teen-development-research-grants</link>
-      <description><![CDATA[Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.]]></description>
-      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI expands initiatives to support journalism from classrooms to newsrooms]]></title>
-      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
-      <description><![CDATA[OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.]]></description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[1Password increases engineering productivity 21% with Codex]]></title>
-      <link>https://openai.com/index/1password</link>
-      <description><![CDATA[Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.]]></description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
