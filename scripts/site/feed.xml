@@ -6,30 +6,62 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:15:35 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Show-Harness: Just a VLM Agent Can Play Robots]]></title>
-      <link>https://arxiv.org/abs/2609.10522v1</link>
-      <description><![CDATA[Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to "play" robots through a compact semantic interface linking intent to act...]]></description>
-      <pubDate>Wed, 09 Sep 2026 17:53:38 GMT</pubDate>
+      <title><![CDATA[Artificial Id: Drive and Persistent Alignment in Agentic AI]]></title>
+      <link>https://arxiv.org/abs/2609.11911v1</link>
+      <description><![CDATA[Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other beha...]]></description>
+      <pubDate>Thu, 10 Sep 2026 17:56:41 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition]]></title>
-      <link>https://arxiv.org/abs/2609.10451v1</link>
-      <description><![CDATA[Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-d...]]></description>
-      <pubDate>Wed, 09 Sep 2026 16:59:59 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]></title>
+      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+      <description><![CDATA[César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.]]></description>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning]]></title>
-      <link>https://arxiv.org/abs/2609.10335v1</link>
-      <description><![CDATA[Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Lan...]]></description>
-      <pubDate>Wed, 09 Sep 2026 15:33:25 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Now everyone can put data to work]]></title>
+      <link>https://openai.com/index/put-data-to-work</link>
+      <description><![CDATA[Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.]]></description>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing ChatGPT for Financial Services]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+      <description><![CDATA[Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.]]></description>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Expanding AI access and cyber defense for federal, state, local, and tribal governments]]></title>
+      <link>https://openai.com/index/expanding-ai-access-us-government</link>
+      <description><![CDATA[OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.]]></description>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing the Agents API]]></title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <description><![CDATA[Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.]]></description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Build more natural voice experiences with GPT‑Live‑1 in the API]]></title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description><![CDATA[GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.]]></description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -53,38 +85,6 @@
       <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
       <description><![CDATA[Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.]]></description>
       <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How GPT-5.6 Sol helps run quantum computing experiments]]></title>
-      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
-      <description><![CDATA[See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.]]></description>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The Work Now Within Reach]]></title>
-      <link>https://openai.com/index/the-work-now-within-reach</link>
-      <description><![CDATA[Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.]]></description>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Introducing ChatGPT Images 2.5]]></title>
-      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
-      <description><![CDATA[ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.]]></description>
-      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[On the Navier–Stokes Millennium Prize Problem]]></title>
-      <link>https://openai.com/index/navier-stokes-solution</link>
-      <description><![CDATA[We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.]]></description>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
