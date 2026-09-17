@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:42:49 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics]]></title>
-      <link>https://arxiv.org/abs/2609.17107v1</link>
-      <description><![CDATA[Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half of real-world database questions, and far fewer of the multi...]]></description>
-      <pubDate>Tue, 15 Sep 2026 12:38:43 GMT</pubDate>
+      <title><![CDATA[Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments]]></title>
+      <link>https://arxiv.org/abs/2609.19128v1</link>
+      <description><![CDATA[Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive...]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:50:42 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How Fyxer built an AI executive assistant people trust]]></title>
-      <link>https://openai.com/index/fyxer</link>
-      <description><![CDATA[Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.]]></description>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[Affora: A Design System for Agent-Friendly Interfaces]]></title>
+      <link>https://arxiv.org/abs/2609.19125v1</link>
+      <description><![CDATA[Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies ...]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:46:34 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Securing quantum error correction against misleading advice from AI agents]]></title>
+      <link>https://arxiv.org/abs/2609.19090v1</link>
+      <description><![CDATA[Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs recovery selection, then show how additional calibration measurements support certified recovery updates ...]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:26:54 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education]]></title>
+      <link>https://arxiv.org/abs/2609.19088v1</link>
+      <description><![CDATA[Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural c...]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:26:10 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Social Laws for Multi-agent Coordination in Stochastic Environments]]></title>
+      <link>https://arxiv.org/abs/2609.18929v1</link>
+      <description><![CDATA[In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has primarily focused on deterministic, goal-based settings. This paper extends the concept of social...]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:05:03 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Helping older adults use AI in everyday life]]></title>
+      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+      <description><![CDATA[OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.]]></description>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]></title>
-      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-      <description><![CDATA[Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.]]></description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Reimagining advertising with AI]]></title>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <description><![CDATA[Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.]]></description>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]></title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-      <description><![CDATA[Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.]]></description>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
+      <title><![CDATA[How to connect AI usage to business value]]></title>
+      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+      <description><![CDATA[Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.]]></description>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
-      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-      <description><![CDATA[GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.]]></description>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <title><![CDATA[Our framework for reporting model misalignment]]></title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+      <description><![CDATA[OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.]]></description>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]></title>
-      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-      <description><![CDATA[César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.]]></description>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Now everyone can put data to work]]></title>
-      <link>https://openai.com/index/put-data-to-work</link>
-      <description><![CDATA[Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.]]></description>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Introducing ChatGPT for Financial Services]]></title>
-      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
-      <description><![CDATA[Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.]]></description>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Expanding AI access and cyber defense for federal, state, local, and tribal governments]]></title>
-      <link>https://openai.com/index/expanding-ai-access-us-government</link>
-      <description><![CDATA[OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.]]></description>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Build more natural voice experiences with GPT‑Live‑1 in the API]]></title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <description><![CDATA[GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.]]></description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[How workers are unlocking new ways of working]]></title>
+      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
+      <description><![CDATA[New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.]]></description>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
