@@ -6,46 +6,70 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 03:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:24:47 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments]]></title>
-      <link>https://arxiv.org/abs/2609.19128v1</link>
-      <description><![CDATA[Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive...]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:50:42 GMT</pubDate>
+      <title><![CDATA[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation]]></title>
+      <link>https://arxiv.org/abs/2609.20822v1</link>
+      <description><![CDATA[Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:59:58 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Affora: A Design System for Agent-Friendly Interfaces]]></title>
-      <link>https://arxiv.org/abs/2609.19125v1</link>
-      <description><![CDATA[Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies ...]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:46:34 GMT</pubDate>
+      <title><![CDATA[Quantifying Overclaiming Propensity in Frontier LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2609.20812v1</link>
+      <description><![CDATA[Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \emph{overclaim} task completion, a misrepresentation that can mislead the user...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:59:04 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Securing quantum error correction against misleading advice from AI agents]]></title>
-      <link>https://arxiv.org/abs/2609.19090v1</link>
-      <description><![CDATA[Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs recovery selection, then show how additional calibration measurements support certified recovery updates ...]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:26:54 GMT</pubDate>
+      <title><![CDATA[An Empirical Study of Harness Design for Coding Agents]]></title>
+      <link>https://arxiv.org/abs/2609.20804v1</link>
+      <description><![CDATA[Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level compari...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:58:07 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education]]></title>
-      <link>https://arxiv.org/abs/2609.19088v1</link>
-      <description><![CDATA[Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural c...]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:26:10 GMT</pubDate>
+      <title><![CDATA[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning]]></title>
+      <link>https://arxiv.org/abs/2609.20784v1</link>
+      <description><![CDATA[Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This ...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:52:08 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Social Laws for Multi-agent Coordination in Stochastic Environments]]></title>
-      <link>https://arxiv.org/abs/2609.18929v1</link>
-      <description><![CDATA[In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has primarily focused on deterministic, goal-based settings. This paper extends the concept of social...]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:05:03 GMT</pubDate>
+      <title><![CDATA[Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights]]></title>
+      <link>https://arxiv.org/abs/2609.20768v1</link>
+      <description><![CDATA[Generative agents are increasingly used to select and narrate video highlights, but they typically operate over unstructured or frame-level representations. Their output is consequently difficult for a viewer to verify and steer toward individual preferences. We present the semantic action graph,...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:46:03 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents]]></title>
+      <link>https://arxiv.org/abs/2609.20754v1</link>
+      <description><![CDATA[Effective troubleshooting agents in enterprise customer support depend on retrieving actionable guidance from similar historical cases, yet existing retrieval-augmented generation (RAG) systems treat support cases as static documents and overlook their multi-stage, stateful nature. We introduce R...]]></description>
+      <pubDate>Thu, 17 Sep 2026 17:41:31 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How Cooley is accelerating IPO work with ChatGPT]]></title>
+      <link>https://openai.com/index/cooley-gopublic</link>
+      <description><![CDATA[Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.]]></description>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing Astra for Law]]></title>
+      <link>https://openai.com/index/astra-for-law</link>
+      <description><![CDATA[OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.]]></description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/reimagining-advertising-with-ai</link>
       <description><![CDATA[Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.]]></description>
       <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How to connect AI usage to business value]]></title>
-      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
-      <description><![CDATA[Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.]]></description>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Our framework for reporting model misalignment]]></title>
-      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
-      <description><![CDATA[OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How workers are unlocking new ways of working]]></title>
-      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
-      <description><![CDATA[New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.]]></description>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
