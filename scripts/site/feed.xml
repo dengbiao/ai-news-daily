@@ -6,54 +6,54 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 03:24:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:34:50 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation]]></title>
-      <link>https://arxiv.org/abs/2609.20822v1</link>
-      <description><![CDATA[Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:59:58 GMT</pubDate>
+      <title><![CDATA[Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design]]></title>
+      <link>https://arxiv.org/abs/2609.22086v1</link>
+      <description><![CDATA[Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional desi...]]></description>
+      <pubDate>Fri, 18 Sep 2026 17:59:56 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Quantifying Overclaiming Propensity in Frontier LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2609.20812v1</link>
-      <description><![CDATA[Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \emph{overclaim} task completion, a misrepresentation that can mislead the user...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:59:04 GMT</pubDate>
+      <title><![CDATA[CodeMidas: Scaling Agentic Coding RL Environments from Code Itself]]></title>
+      <link>https://arxiv.org/abs/2609.22068v1</link>
+      <description><![CDATA[Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can b...]]></description>
+      <pubDate>Fri, 18 Sep 2026 17:55:17 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[An Empirical Study of Harness Design for Coding Agents]]></title>
-      <link>https://arxiv.org/abs/2609.20804v1</link>
-      <description><![CDATA[Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level compari...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:58:07 GMT</pubDate>
+      <title><![CDATA[Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw]]></title>
+      <link>https://arxiv.org/abs/2609.22067v1</link>
+      <description><![CDATA[Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, age...]]></description>
+      <pubDate>Fri, 18 Sep 2026 17:55:09 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning]]></title>
-      <link>https://arxiv.org/abs/2609.20784v1</link>
-      <description><![CDATA[Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This ...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:52:08 GMT</pubDate>
+      <title><![CDATA[Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents]]></title>
+      <link>https://arxiv.org/abs/2609.21997v1</link>
+      <description><![CDATA[LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \emph...]]></description>
+      <pubDate>Fri, 18 Sep 2026 16:57:14 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights]]></title>
-      <link>https://arxiv.org/abs/2609.20768v1</link>
-      <description><![CDATA[Generative agents are increasingly used to select and narrate video highlights, but they typically operate over unstructured or frame-level representations. Their output is consequently difficult for a viewer to verify and steer toward individual preferences. We present the semantic action graph,...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:46:03 GMT</pubDate>
+      <title><![CDATA[Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition]]></title>
+      <link>https://arxiv.org/abs/2609.21879v1</link>
+      <description><![CDATA[Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face comparisons in forensic contexts, which require decisions to be transp...]]></description>
+      <pubDate>Fri, 18 Sep 2026 15:06:02 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents]]></title>
-      <link>https://arxiv.org/abs/2609.20754v1</link>
-      <description><![CDATA[Effective troubleshooting agents in enterprise customer support depend on retrieving actionable guidance from similar historical cases, yet existing retrieval-augmented generation (RAG) systems treat support cases as static documents and overlook their multi-stage, stateful nature. We introduce R...]]></description>
-      <pubDate>Thu, 17 Sep 2026 17:41:31 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Introducing the Australian Youth Safety Blueprint]]></title>
+      <link>https://openai.com/index/australian-youth-safety-blueprint</link>
+      <description><![CDATA[OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.]]></description>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
