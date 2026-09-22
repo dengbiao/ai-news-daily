@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 03:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:33:51 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design]]></title>
-      <link>https://arxiv.org/abs/2609.22086v1</link>
-      <description><![CDATA[Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional desi...]]></description>
-      <pubDate>Fri, 18 Sep 2026 17:59:56 GMT</pubDate>
+      <title><![CDATA[Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents]]></title>
+      <link>https://arxiv.org/abs/2609.24515v1</link>
+      <description><![CDATA[AI agents are being deployed rapidly, accompanied by a growing number of AI-specific attacks and corresponding incidents. As incident reporting becomes increasingly important for legal compliance, governance, accountability, and security; current frameworks must be adapted to the unique character...]]></description>
+      <pubDate>Mon, 21 Sep 2026 12:53:51 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[CodeMidas: Scaling Agentic Coding RL Environments from Code Itself]]></title>
-      <link>https://arxiv.org/abs/2609.22068v1</link>
-      <description><![CDATA[Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can b...]]></description>
-      <pubDate>Fri, 18 Sep 2026 17:55:17 GMT</pubDate>
+      <title><![CDATA[AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos]]></title>
+      <link>https://arxiv.org/abs/2609.24487v1</link>
+      <description><![CDATA[In this work, we present a method for shape reconstruction and tracking from video via agentic analysis-by-synthesis. Unlike prior methods which first estimate dense pixel correspondences and then recover object motion from them, our method infers a structured 3D object model, including its geome...]]></description>
+      <pubDate>Mon, 21 Sep 2026 12:26:13 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw]]></title>
-      <link>https://arxiv.org/abs/2609.22067v1</link>
-      <description><![CDATA[Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, age...]]></description>
-      <pubDate>Fri, 18 Sep 2026 17:55:09 GMT</pubDate>
+      <title><![CDATA[Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards]]></title>
+      <link>https://arxiv.org/abs/2609.24480v1</link>
+      <description><![CDATA[Deploying Large Language Models (LLMs) in healthcare requires robust performance across two complementary dimensions - diagnostic reasoning: the convergent, evidence-driven task of inferring a patient's condition from clinical data to produce a diagnosis, and clinical healthcare reasoning: the br...]]></description>
+      <pubDate>Mon, 21 Sep 2026 12:19:50 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents]]></title>
-      <link>https://arxiv.org/abs/2609.21997v1</link>
-      <description><![CDATA[LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \emph...]]></description>
-      <pubDate>Fri, 18 Sep 2026 16:57:14 GMT</pubDate>
+      <title><![CDATA[ActGov: Governing LLM Agent Actions via Policy-Constrained Validation]]></title>
+      <link>https://arxiv.org/abs/2609.24446v1</link>
+      <description><![CDATA[Large language model (LLM) agents increasingly execute long-horizon workflows through external tools, allowing untrusted outputs to influence subsequent actions and exceed user authorization. Existing defenses isolate injected content or constrain execution with predefined plans and static polici...]]></description>
+      <pubDate>Mon, 21 Sep 2026 11:47:09 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition]]></title>
-      <link>https://arxiv.org/abs/2609.21879v1</link>
-      <description><![CDATA[Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face comparisons in forensic contexts, which require decisions to be transp...]]></description>
-      <pubDate>Fri, 18 Sep 2026 15:06:02 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Meta’s Muse is outpacing ChatGPT’s early mobile launch]]></title>
+      <link>https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/</link>
+      <description><![CDATA[Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.]]></description>
+      <pubDate>Mon, 21 Sep 2026 19:19:21 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Introducing the Australian Youth Safety Blueprint]]></title>
-      <link>https://openai.com/index/australian-youth-safety-blueprint</link>
-      <description><![CDATA[OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.]]></description>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[Meta’s AI agent has been blocked from using Amazon.com]]></title>
+      <link>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</link>
+      <description><![CDATA[Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?]]></description>
+      <pubDate>Mon, 21 Sep 2026 17:55:18 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026]]></title>
+      <link>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/</link>
+      <description><![CDATA[Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.]]></description>
+      <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Advisory Group on Mathematics and Artificial Intelligence]]></title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <description><![CDATA[OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.]]></description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[How Cooley is accelerating IPO work with ChatGPT]]></title>
-      <link>https://openai.com/index/cooley-gopublic</link>
-      <description><![CDATA[Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.]]></description>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[Higgsfield AI ships new video features in a day with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
+      <description><![CDATA[With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.]]></description>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Introducing Astra for Law]]></title>
-      <link>https://openai.com/index/astra-for-law</link>
-      <description><![CDATA[OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.]]></description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Helping older adults use AI in everyday life]]></title>
-      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
-      <description><![CDATA[OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.]]></description>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Reimagining advertising with AI]]></title>
-      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
-      <description><![CDATA[Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.]]></description>
-      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <title><![CDATA[Building standards for the next phase of AI]]></title>
+      <link>https://openai.com/index/building-standards-next-phase-ai</link>
+      <description><![CDATA[OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.]]></description>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
