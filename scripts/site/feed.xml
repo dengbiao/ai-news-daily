@@ -6,30 +6,22 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:56:18 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[LLM Agents Can Easily Tamper With Their Own Traces]]></title>
-      <link>https://arxiv.org/abs/2609.30266v1</link>
-      <description><![CDATA[Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Cod...]]></description>
-      <pubDate>Thu, 24 Sep 2026 17:59:54 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge]]></title>
+      <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
+      <description><![CDATA[AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.]]></description>
+      <pubDate>Fri, 25 Sep 2026 22:20:47 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RAPID: Robot Agentic Programming from Demonstrations]]></title>
-      <link>https://arxiv.org/abs/2609.30249v1</link>
-      <description><![CDATA[Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single ...]]></description>
-      <pubDate>Thu, 24 Sep 2026 17:58:21 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Coding Agents for Generalized Task and Motion Planning Problems]]></title>
-      <link>https://arxiv.org/abs/2609.30233v1</link>
-      <description><![CDATA[Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem in...]]></description>
-      <pubDate>Thu, 24 Sep 2026 17:53:35 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic]]></title>
+      <link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
+      <description><![CDATA[When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the compan...]]></description>
+      <pubDate>Fri, 25 Sep 2026 18:22:47 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/ringg</link>
       <description><![CDATA[Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.]]></description>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing MentalHealthBench]]></title>
+      <link>https://openai.com/index/introducing-mentalhealthbench</link>
+      <description><![CDATA[MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.]]></description>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
