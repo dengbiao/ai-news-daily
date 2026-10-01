@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:26:13 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch]]></title>
-      <link>https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/</link>
-      <description><![CDATA[Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.]]></description>
-      <pubDate>Tue, 29 Sep 2026 22:20:59 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Disrupting a coordinated model-distillation campaign]]></title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <description><![CDATA[Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.]]></description>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI’s latest features take direct aim at the app store model]]></title>
-      <link>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/</link>
-      <description><![CDATA[OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.]]></description>
-      <pubDate>Tue, 29 Sep 2026 20:15:47 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Helping small businesses put AI to work]]></title>
+      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+      <description><![CDATA[OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.]]></description>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents]]></title>
-      <link>https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/</link>
-      <description><![CDATA[OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.]]></description>
-      <pubDate>Tue, 29 Sep 2026 18:35:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Introducing GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <description><![CDATA[Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.]]></description>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[AI-powered app maker Wabi pivots to a messaging experience]]></title>
-      <link>https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/</link>
-      <description><![CDATA[Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:20:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[DevDay 2026 Recap]]></title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <description><![CDATA[Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.]]></description>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[OpenAI launches Dots, its bubbly agentic avatar]]></title>
-      <link>https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/</link>
-      <description><![CDATA[Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:17:15 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Introducing dots]]></title>
+      <link>https://openai.com/index/introducing-dots</link>
+      <description><![CDATA[Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.]]></description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning]]></title>
-      <link>https://arxiv.org/abs/2609.38147v1</link>
-      <description><![CDATA[As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harn...]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:57:25 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI]]></title>
-      <link>https://arxiv.org/abs/2609.38143v1</link>
-      <description><![CDATA[Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights remain fixed. To make the Builder's experience reusable, we int...]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:55:56 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution]]></title>
-      <link>https://arxiv.org/abs/2609.38108v1</link>
-      <description><![CDATA[Large language models (LLMs) enable agents to solve long-horizon tasks by generating a plan and then executing it in an environment. However, successful planning requires two distinct capabilities: selecting an appropriate plan for the task and executing it faithfully. Existing planner--executor ...]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:47:18 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Character Training for Risk-Averse Agents]]></title>
-      <link>https://arxiv.org/abs/2609.38093v1</link>
-      <description><![CDATA[Risk aversion in resources could prevent misaligned AI agents from causing catastrophic harm. Misaligned but risk-averse agents would tend to favor safer strategies like making deals with humans over riskier strategies like rebelling. We train agents to be risk averse through character training, ...]]></description>
-      <pubDate>Tue, 29 Sep 2026 17:42:54 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Watch the winning trailer from the Future Vision XPRIZE, The Gifted.]]></title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
-      <description><![CDATA[Watch the winning trailer from the Future Vision XPRIZE, The Gifted.]]></description>
+      <title><![CDATA[How we will do better for Australia]]></title>
+      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+      <description><![CDATA[OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.]]></description>
       <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <source>Google AI</source>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Towards safety cases for frontier AI training]]></title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <description><![CDATA[Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents]]></description>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[The Lenfest Institute grows landmark program with expanded OpenAI support]]></title>
+      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+      <description><![CDATA[OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.]]></description>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Basis completes a tax workbook 2x faster with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <description><![CDATA[GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.]]></description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Proaction boosts sales 60% and saves 75+ hours with Codex]]></title>
+      <link>https://openai.com/index/proaction</link>
+      <description><![CDATA[With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.]]></description>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
   </channel>
