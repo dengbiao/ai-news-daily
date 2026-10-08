@@ -6,30 +6,62 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 04:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:45:41 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[The next hurdle for AI agents: getting websites to let them in]]></title>
-      <link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
-      <description><![CDATA[Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.]]></description>
-      <pubDate>Tue, 06 Oct 2026 19:56:50 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[SciExam for ENSO: Can AI Agents Build Climate Models?]]></title>
+      <link>https://arxiv.org/abs/2610.10513v1</link>
+      <description><![CDATA[Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern O...]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:52:52 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Instinct brings its AI agent to group chats, even for friends without an account]]></title>
-      <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
-      <description><![CDATA[Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.]]></description>
-      <pubDate>Mon, 05 Oct 2026 18:54:30 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models]]></title>
+      <link>https://arxiv.org/abs/2610.10478v1</link>
+      <description><![CDATA[How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-form...]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:37:19 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[TikTok rolls out an AI shopping assistant and one-click checkout]]></title>
-      <link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
-      <description><![CDATA[TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.]]></description>
-      <pubDate>Mon, 05 Oct 2026 18:29:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents]]></title>
+      <link>https://arxiv.org/abs/2610.10468v1</link>
+      <description><![CDATA[Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide on...]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:30:45 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs]]></title>
+      <link>https://arxiv.org/abs/2610.10455v1</link>
+      <description><![CDATA[Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics, leaving how models resolve halluci...]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:25:23 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Helping teens learn, plan, and shape the future of AI]]></title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <description><![CDATA[College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.]]></description>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Radisson Hotel Group brings hotel discovery into ChatGPT]]></title>
+      <link>https://openai.com/index/radisson</link>
+      <description><![CDATA[Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.]]></description>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[GPT-6 and Intelligent UI for everyone]]></title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <description><![CDATA[GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.]]></description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -53,38 +85,6 @@
       <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
       <description><![CDATA[Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.]]></description>
       <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]></title>
-      <link>https://openai.com/index/atlassian-partnership</link>
-      <description><![CDATA[Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.]]></description>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Our approach to EU text provenance rules]]></title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <description><![CDATA[How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.]]></description>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Building advertising for the way people use AI]]></title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <description><![CDATA[OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.]]></description>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[A model guide for the GPT-6 family]]></title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <description><![CDATA[Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.]]></description>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
