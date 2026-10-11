@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-11",
+  "articles": [
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "description": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production enviro...",
+      "link": "https://arxiv.org/abs/2610.12463v1",
+      "pubDate": "2026-10-08T17:59:49.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "score": 10
+    },
+    {
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and re...",
+      "link": "https://arxiv.org/abs/2610.12452v1",
+      "pubDate": "2026-10-08T17:58:56.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "description": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly dep...",
+      "link": "https://arxiv.org/abs/2610.12436v1",
+      "pubDate": "2026-10-08T17:57:32.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+      "description": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes,...",
+      "link": "https://arxiv.org/abs/2610.12409v1",
+      "pubDate": "2026-10-08T17:46:43.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "ARC: A Reasoning Recipe for Robot Foundation Models",
+      "description": "The prevailing approach to improving robot foundation models (RFMs) relies on larger models, more robot demonstrations, and costly training at scale. We show that there exists an effective and efficient complementary approach: the right reasoning recipe can substantially improve the zero-shot tas...",
+      "link": "https://arxiv.org/abs/2610.12386v1",
+      "pubDate": "2026-10-08T17:38:04.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Anthropic"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "pubDate": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "link": "https://openai.com/index/sophos",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    }
+  ]
+}
