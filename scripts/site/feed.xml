@@ -6,8 +6,24 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 04:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:44:21 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Meta releases its first frontier model, Muse Wonder]]></title>
+      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+      <description><![CDATA[Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.]]></description>
+      <pubDate>Mon, 12 Oct 2026 17:56:56 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Here are the top AI agents that can live in your text messages]]></title>
+      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <description><![CDATA[We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.]]></description>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]></title>
       <link>https://openai.com/index/sophos</link>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/radisson</link>
       <description><![CDATA[Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.]]></description>
       <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[GPT-6 and Intelligent UI for everyone]]></title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <description><![CDATA[GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.]]></description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How Jump Trading is scaling quant research with ChatGPT]]></title>
-      <link>https://openai.com/index/jump-trading</link>
-      <description><![CDATA[Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.]]></description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
