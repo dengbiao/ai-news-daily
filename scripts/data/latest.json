@@ -1,26 +1,56 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "articles": [
     {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
-      "entities": [
-        "Meta"
-      ],
+      "title": "Structural Chain-of-Thought: Reasoning with Executable Computational Graphs",
+      "description": "Chain-of-thought prompting enables reasoning in large language models but produces explanations that are difficult to verify, expensive to generate, and not always faithful. We introduce a Structural Chain-of-Thought framework where models generate executable computational graphs instead of free-...",
+      "link": "https://arxiv.org/abs/2610.15107v1",
+      "pubDate": "2026-10-10T18:29:30.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
       "score": 10
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
+      "title": "TurnCost: Turns, Not Observations: Cache-Aware Loop Engineering for Coding Agents",
+      "description": "AI coding agents operate in iterative loops: they modify code, run tools, inspect the results, and decide what to do next. We call the design of this process loop engineering, which includes context management, model selection, compaction, and termination. Existing efficiency work mainly compress...",
+      "link": "https://arxiv.org/abs/2610.15093v1",
+      "pubDate": "2026-10-10T18:03:24.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
       "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Self-Evolving Visual Agent via Margin Reward",
+      "description": "Visual agents that interleave reasoning with tool invocation have posed a promising direction for multimodal tasks. However, learning effective tool invocation usually relies on curated question-answer pairs or expert demonstrations at scale, which are expensive to acquire. In this study, we prop...",
+      "link": "https://arxiv.org/abs/2610.15084v1",
+      "pubDate": "2026-10-10T17:33:56.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Trace Evolution Bench: Measuring Whether Agents Improve from Their Own Environment Traces",
+      "description": "Self-evolving agents are usually scored by endpoint Gain: held-out success after an update minus success before. That difference can credit a frozen rescore as evolution. We introduce Trace Evolution Bench (TEB), a protocol that separates that rescore from a context or weight update, together wit...",
+      "link": "https://arxiv.org/abs/2610.15055v1",
+      "pubDate": "2026-10-10T16:45:52.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
       "score": 10
     },
     {
@@ -81,45 +111,6 @@
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "link": "https://openai.com/index/radisson",
-      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI",
-        "GPT",
-        "ChatGPT"
-      ],
       "score": 10
     }
   ]
