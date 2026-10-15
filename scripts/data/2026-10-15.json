@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Intel"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Euler: Towards Human-Centered Multi-Agent Mathematical Discovery",
+      "description": "Mathematical research drives scientific discovery, and recent advances in AI for mathematics have shown that language-model agents can solve challenging problems and develop substantial mathematical proofs. Yet much of today's AI-for-mathematics work centers on obtaining a final answer. This emph...",
+      "link": "https://arxiv.org/abs/2610.19864v1",
+      "pubDate": "2026-10-14T09:27:36.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding",
+      "description": "We propose DeltaStreamer, a novel agentic framework for streaming video understanding inspired by how humans observe, remember, and investigate. Streaming video understanding requires a system to retain evidence before knowing which details future queries will need. Existing approaches often obsc...",
+      "link": "https://arxiv.org/abs/2610.19849v1",
+      "pubDate": "2026-10-14T09:19:15.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "LAGO: Language Agents with Reusable Growing Options",
+      "description": "Long-horizon tasks expose a weakness of monolithic tool-use loops: one agent must decompose, execute, and verify a task within a single trajectory. We introduce LAGO, which treats specialized language agents as reusable temporally extended options. A meta-agent retrieves options from a persistent...",
+      "link": "https://arxiv.org/abs/2610.19843v1",
+      "pubDate": "2026-10-14T09:12:47.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents",
+      "description": "Frontier web agents using closed models have high inference and computational costs. Smaller open models can be an alternative, but to be performant, they require training supervision from a human or teacher model. Token-level teacher distillation is not an option for closed teachers as it needs ...",
+      "link": "https://arxiv.org/abs/2610.19834v1",
+      "pubDate": "2026-10-14T09:06:49.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "One Monitor Does Not Fit All: Formalism-Agnostic Runtime Verification for Agentic AI",
+      "description": "Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a runtime-verificat...",
+      "link": "https://arxiv.org/abs/2610.19818v1",
+      "pubDate": "2026-10-14T08:58:24.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "ReproBAIT: Can coding agents build their own biological AI tools?",
+      "description": "Large language models are increasingly competent at leveraging scientific knowledge and existing computational tools to execute complex workflows. At present, little information exists on their ability to reconstruct tools when given limited descriptions of such tools. We introduce an evaluation ...",
+      "link": "https://arxiv.org/abs/2610.19810v1",
+      "pubDate": "2026-10-14T08:50:11.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "StateCraft: Augmenting Video World Models with Abstract-State Reasoning",
+      "description": "Video world models aim to simulate complex environments with realistic appearance and dynamics. Maintaining consistency over long interactions requires tracking past actions and understanding how those actions affect the environment. Video world models can only generate partial observations of th...",
+      "link": "https://arxiv.org/abs/2610.19795v1",
+      "pubDate": "2026-10-14T08:39:41.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "One Agent per Zone: Decentralised Active Inference under Partial Observability for Multi-Zone HVAC Control on Edge Hardware",
+      "description": "Multi-zone HVAC control is a shared-resource problem: zones on a floor share one fan and cooling coil, so each zone's demand affects its neighbours and the building's peak power. One controller per zone scales well and isolates faults, but each controller then observes only its own zone, not the ...",
+      "link": "https://arxiv.org/abs/2610.19790v1",
+      "pubDate": "2026-10-14T08:36:32.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    }
+  ]
+}
