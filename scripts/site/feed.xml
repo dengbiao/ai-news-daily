@@ -6,86 +6,86 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 03:28:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:24:50 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Apate sends AI agents undercover to get scammed so they can gather fraud intelligence]]></title>
-      <link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
-      <description><![CDATA[Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.]]></description>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Bringing GPT-Rosalind to academic research labs]]></title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+      <description><![CDATA[Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.]]></description>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Floqer’s AI agents research sales prospects so teams don’t have to]]></title>
-      <link>https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/</link>
-      <description><![CDATA[The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.]]></description>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Teaching students to think and learn through questions]]></title>
+      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+      <description><![CDATA[Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.]]></description>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Euler: Towards Human-Centered Multi-Agent Mathematical Discovery]]></title>
-      <link>https://arxiv.org/abs/2610.19864v1</link>
-      <description><![CDATA[Mathematical research drives scientific discovery, and recent advances in AI for mathematics have shown that language-model agents can solve challenging problems and develop substantial mathematical proofs. Yet much of today's AI-for-mathematics work centers on obtaining a final answer. This emph...]]></description>
-      <pubDate>Wed, 14 Oct 2026 09:27:36 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Sullivan & Cromwell brings legal expertise into agreement review]]></title>
+      <link>https://openai.com/index/sullivan-cromwell</link>
+      <description><![CDATA[In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.]]></description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding]]></title>
-      <link>https://arxiv.org/abs/2610.19849v1</link>
-      <description><![CDATA[We propose DeltaStreamer, a novel agentic framework for streaming video understanding inspired by how humans observe, remember, and investigate. Streaming video understanding requires a system to retain evidence before knowing which details future queries will need. Existing approaches often obsc...]]></description>
-      <pubDate>Wed, 14 Oct 2026 09:19:15 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]></title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <description><![CDATA[See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.]]></description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[LAGO: Language Agents with Reusable Growing Options]]></title>
-      <link>https://arxiv.org/abs/2610.19843v1</link>
-      <description><![CDATA[Long-horizon tasks expose a weakness of monolithic tool-use loops: one agent must decompose, execute, and verify a task within a single trajectory. We introduce LAGO, which treats specialized language agents as reusable temporally extended options. A meta-agent retrieves options from a persistent...]]></description>
-      <pubDate>Wed, 14 Oct 2026 09:12:47 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[SentinelOne cuts malware analysis from weeks to hours]]></title>
+      <link>https://openai.com/index/sentinelone</link>
+      <description><![CDATA[With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.]]></description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents]]></title>
-      <link>https://arxiv.org/abs/2610.19834v1</link>
-      <description><![CDATA[Frontier web agents using closed models have high inference and computational costs. Smaller open models can be an alternative, but to be performant, they require training supervision from a human or teacher model. Token-level teacher distillation is not an option for closed teachers as it needs ...]]></description>
-      <pubDate>Wed, 14 Oct 2026 09:06:49 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How Third Moment Research runs 10,000 agents for 36+ hours]]></title>
+      <link>https://openai.com/index/third-moment-research</link>
+      <description><![CDATA[With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.]]></description>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[One Monitor Does Not Fit All: Formalism-Agnostic Runtime Verification for Agentic AI]]></title>
-      <link>https://arxiv.org/abs/2610.19818v1</link>
-      <description><![CDATA[Agentic AI systems combine model decisions, mutable state, tool calls, and delegation to external agents. Monitoring them requires observations from different execution boundaries, while prevention requires control before an operation produces its effect. We present AgenticRV, a runtime-verificat...]]></description>
-      <pubDate>Wed, 14 Oct 2026 08:58:24 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How Block is building AI-powered security with OpenAI technology]]></title>
+      <link>https://openai.com/index/block-ai-powered-security</link>
+      <description><![CDATA[Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.]]></description>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[ReproBAIT: Can coding agents build their own biological AI tools?]]></title>
-      <link>https://arxiv.org/abs/2610.19810v1</link>
-      <description><![CDATA[Large language models are increasingly competent at leveraging scientific knowledge and existing computational tools to execute complex workflows. At present, little information exists on their ability to reconstruct tools when given limited descriptions of such tools. We introduce an evaluation ...]]></description>
-      <pubDate>Wed, 14 Oct 2026 08:50:11 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[The EU’s next chapter in AI is agentic]]></title>
+      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+      <description><![CDATA[New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.]]></description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[StateCraft: Augmenting Video World Models with Abstract-State Reasoning]]></title>
-      <link>https://arxiv.org/abs/2610.19795v1</link>
-      <description><![CDATA[Video world models aim to simulate complex environments with realistic appearance and dynamics. Maintaining consistency over long interactions requires tracking past actions and understanding how those actions affect the environment. Video world models can only generate partial observations of th...]]></description>
-      <pubDate>Wed, 14 Oct 2026 08:39:41 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Higgsfield takes AI video from 1 minute to over 10]]></title>
+      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+      <description><![CDATA[Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.]]></description>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[One Agent per Zone: Decentralised Active Inference under Partial Observability for Multi-Zone HVAC Control on Edge Hardware]]></title>
-      <link>https://arxiv.org/abs/2610.19790v1</link>
-      <description><![CDATA[Multi-zone HVAC control is a shared-resource problem: zones on a floor share one fan and cooling coil, so each zone's demand affects its neighbours and the building's peak power. One controller per zone scales well and isolates faults, but each controller then observes only its own zone, not the ...]]></description>
-      <pubDate>Wed, 14 Oct 2026 08:36:32 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <description><![CDATA[Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.]]></description>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
   </channel>
