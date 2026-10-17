@@ -6,8 +6,64 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 03:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:12:48 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering]]></title>
+      <link>https://arxiv.org/abs/2610.22344v1</link>
+      <description><![CDATA[Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI). Workflow-driven machine learning engineering (MLE) systems provide a...]]></description>
+      <pubDate>Thu, 15 Oct 2026 17:56:32 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents]]></title>
+      <link>https://arxiv.org/abs/2610.22331v1</link>
+      <description><![CDATA[Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recen...]]></description>
+      <pubDate>Thu, 15 Oct 2026 17:52:33 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[India becomes the latest country to report rogue AI agent activity]]></title>
+      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
+      <description><![CDATA[The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.]]></description>
+      <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Elorian’s first AI model wants to reason with images, not just about them]]></title>
+      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+      <description><![CDATA[According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.]]></description>
+      <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Replit’s CEO says the future of work is the ‘self-driving company’]]></title>
+      <link>https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/</link>
+      <description><![CDATA[Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.]]></description>
+      <pubDate>Fri, 16 Oct 2026 12:55:09 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How Itaú is building generative AI for its entire customer base]]></title>
+      <link>https://openai.com/index/itau-generative-ai</link>
+      <description><![CDATA[With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.]]></description>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]></title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <description><![CDATA[Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.]]></description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
     <item>
       <title><![CDATA[Bringing GPT-Rosalind to academic research labs]]></title>
       <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
@@ -29,62 +85,6 @@
       <link>https://openai.com/index/sullivan-cromwell</link>
       <description><![CDATA[In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.]]></description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]></title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <description><![CDATA[See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.]]></description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[SentinelOne cuts malware analysis from weeks to hours]]></title>
-      <link>https://openai.com/index/sentinelone</link>
-      <description><![CDATA[With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.]]></description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How Third Moment Research runs 10,000 agents for 36+ hours]]></title>
-      <link>https://openai.com/index/third-moment-research</link>
-      <description><![CDATA[With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.]]></description>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How Block is building AI-powered security with OpenAI technology]]></title>
-      <link>https://openai.com/index/block-ai-powered-security</link>
-      <description><![CDATA[Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.]]></description>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The EU’s next chapter in AI is agentic]]></title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <description><![CDATA[New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.]]></description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Higgsfield takes AI video from 1 minute to over 10]]></title>
-      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-      <description><![CDATA[Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.]]></description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]></title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <description><![CDATA[Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.]]></description>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
