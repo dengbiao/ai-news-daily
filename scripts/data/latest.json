@@ -1,26 +1,6 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-19",
   "articles": [
-    {
-      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-      "description": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI). Workflow-driven machine learning engineering (MLE) systems provide a...",
-      "link": "https://arxiv.org/abs/2610.22344v1",
-      "pubDate": "2026-10-15T17:56:32.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
-      "description": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recen...",
-      "link": "https://arxiv.org/abs/2610.22331v1",
-      "pubDate": "2026-10-15T17:52:33.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
@@ -103,6 +83,32 @@
       "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "link": "https://openai.com/index/sullivan-cromwell",
       "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "link": "https://openai.com/index/sentinelone",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [

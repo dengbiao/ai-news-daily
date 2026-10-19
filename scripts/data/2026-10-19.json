@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-19",
+  "articles": [
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "link": "https://openai.com/index/sentinelone",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    }
+  ]
+}

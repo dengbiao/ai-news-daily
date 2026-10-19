@@ -6,24 +6,8 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:29:54 GMT</lastBuildDate>
     
-    <item>
-      <title><![CDATA[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering]]></title>
-      <link>https://arxiv.org/abs/2610.22344v1</link>
-      <description><![CDATA[Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI). Workflow-driven machine learning engineering (MLE) systems provide a...]]></description>
-      <pubDate>Thu, 15 Oct 2026 17:56:32 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents]]></title>
-      <link>https://arxiv.org/abs/2610.22331v1</link>
-      <description><![CDATA[Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recen...]]></description>
-      <pubDate>Thu, 15 Oct 2026 17:52:33 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
     <item>
       <title><![CDATA[India becomes the latest country to report rogue AI agent activity]]></title>
       <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
@@ -85,6 +69,22 @@
       <link>https://openai.com/index/sullivan-cromwell</link>
       <description><![CDATA[In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.]]></description>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]></title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <description><![CDATA[See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.]]></description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SentinelOne cuts malware analysis from weeks to hours]]></title>
+      <link>https://openai.com/index/sentinelone</link>
+      <description><![CDATA[With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.]]></description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
