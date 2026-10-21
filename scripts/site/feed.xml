@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:29:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:34:13 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[India becomes the latest country to report rogue AI agent activity]]></title>
-      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
-      <description><![CDATA[The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.]]></description>
-      <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery]]></title>
+      <link>https://arxiv.org/abs/2610.28629v1</link>
+      <description><![CDATA[Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the str...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:59:40 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Elorian’s first AI model wants to reason with images, not just about them]]></title>
-      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-      <description><![CDATA[According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.]]></description>
-      <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[MindView: Benchmarking Generative Multi-View Spatial Intelligence]]></title>
+      <link>https://arxiv.org/abs/2610.28622v1</link>
+      <description><![CDATA[Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view ...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:58:25 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Replit’s CEO says the future of work is the ‘self-driving company’]]></title>
-      <link>https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/</link>
-      <description><![CDATA[Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.]]></description>
-      <pubDate>Fri, 16 Oct 2026 12:55:09 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Evolving Agent Interfaces]]></title>
+      <link>https://arxiv.org/abs/2610.28601v1</link>
+      <description><![CDATA[Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:47:37 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[How Itaú is building generative AI for its entire customer base]]></title>
-      <link>https://openai.com/index/itau-generative-ai</link>
-      <description><![CDATA[With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.]]></description>
-      <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
+      <title><![CDATA[What Do RTL Repair Benchmarks Actually Measure?]]></title>
+      <link>https://arxiv.org/abs/2610.28595v1</link>
+      <description><![CDATA[RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with 374 syntactic and 85 behavioral mutations; and an evaluation harne...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:45:57 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation]]></title>
+      <link>https://arxiv.org/abs/2610.28586v1</link>
+      <description><![CDATA[Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories beyond the region where the teacher is reliable, so recent metho...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:40:08 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images]]></title>
+      <link>https://arxiv.org/abs/2610.28585v1</link>
+      <description><![CDATA[Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:39:42 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning]]></title>
+      <link>https://arxiv.org/abs/2610.28584v1</link>
+      <description><![CDATA[Autoregressive models (ARMs) face a "Sequentiality Bottleneck" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning Asymmetric Learning (CoRAL), a hybrid framework via an Asymmetric Pl...]]></description>
+      <pubDate>Tue, 20 Oct 2026 17:39:41 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Franchisee reconciles cash in 94% less time with ChatGPT Work]]></title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <description><![CDATA[An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.]]></description>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]></title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <description><![CDATA[Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.]]></description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Terminal X matches senior investor judgment 88.6% with GPT-6.1]]></title>
+      <link>https://openai.com/index/terminal-x</link>
+      <description><![CDATA[Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.]]></description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Bringing GPT-Rosalind to academic research labs]]></title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <description><![CDATA[Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.]]></description>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Teaching students to think and learn through questions]]></title>
-      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-      <description><![CDATA[Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.]]></description>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Sullivan & Cromwell brings legal expertise into agreement review]]></title>
-      <link>https://openai.com/index/sullivan-cromwell</link>
-      <description><![CDATA[In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.]]></description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Amp puts AI agents to work beyond code with OpenAI models]]></title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <description><![CDATA[See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.]]></description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[SentinelOne cuts malware analysis from weeks to hours]]></title>
-      <link>https://openai.com/index/sentinelone</link>
-      <description><![CDATA[With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.]]></description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[OpenAI acquires Orchestra Bio]]></title>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+      <description><![CDATA[OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.]]></description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

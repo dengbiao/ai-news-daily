@@ -1,53 +1,83 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-21",
   "articles": [
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "description": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the str...",
+      "link": "https://arxiv.org/abs/2610.28629v1",
+      "pubDate": "2026-10-20T17:59:40.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
       "entities": [],
       "score": 10
     },
     {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
+      "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+      "description": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view ...",
+      "link": "https://arxiv.org/abs/2610.28622v1",
+      "pubDate": "2026-10-20T17:58:25.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
       "entities": [
-        "GPT"
+        "Intel"
       ],
       "score": 10
     },
     {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
+      "title": "Evolving Agent Interfaces",
+      "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built...",
+      "link": "https://arxiv.org/abs/2610.28601v1",
+      "pubDate": "2026-10-20T17:47:37.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
       "entities": [],
       "score": 10
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
+      "title": "What Do RTL Repair Benchmarks Actually Measure?",
+      "description": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with 374 syntactic and 85 behavioral mutations; and an evaluation harne...",
+      "link": "https://arxiv.org/abs/2610.28595v1",
+      "pubDate": "2026-10-20T17:45:57.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
       "entities": [],
       "score": 10
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "description": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories beyond the region where the teacher is reliable, so recent metho...",
+      "link": "https://arxiv.org/abs/2610.28586v1",
+      "pubDate": "2026-10-20T17:40:08.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+      "description": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically...",
+      "link": "https://arxiv.org/abs/2610.28585v1",
+      "pubDate": "2026-10-20T17:39:42.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+      "description": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning Asymmetric Learning (CoRAL), a hybrid framework via an Asymmetric Pl...",
+      "link": "https://arxiv.org/abs/2610.28584v1",
+      "pubDate": "2026-10-20T17:39:41.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -57,10 +87,10 @@
       "score": 10
     },
     {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "link": "https://openai.com/index/terminal-x",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -69,46 +99,10 @@
       "score": 10
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "link": "https://openai.com/index/sullivan-cromwell",
-      "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI",
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "description": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "link": "https://openai.com/index/sentinelone",
-      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "title": "OpenAI acquires Orchestra Bio",
+      "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
