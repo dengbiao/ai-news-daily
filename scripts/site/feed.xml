@@ -6,62 +6,78 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:33:21 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery]]></title>
-      <link>https://arxiv.org/abs/2610.28629v1</link>
-      <description><![CDATA[Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the str...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:59:40 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How AT&T is rethinking in-house legal work with OpenAI]]></title>
+      <link>https://openai.com/index/att-legal</link>
+      <description><![CDATA[AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.]]></description>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[MindView: Benchmarking Generative Multi-View Spatial Intelligence]]></title>
-      <link>https://arxiv.org/abs/2610.28622v1</link>
-      <description><![CDATA[Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view ...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:58:25 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Broad access through consistent standards]]></title>
+      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
+      <description><![CDATA[How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.]]></description>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Evolving Agent Interfaces]]></title>
-      <link>https://arxiv.org/abs/2610.28601v1</link>
-      <description><![CDATA[Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:47:37 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI models are coming to Google Cloud]]></title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <description><![CDATA[OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.]]></description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[What Do RTL Repair Benchmarks Actually Measure?]]></title>
-      <link>https://arxiv.org/abs/2610.28595v1</link>
-      <description><![CDATA[RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with 374 syntactic and 85 behavioral mutations; and an evaluation harne...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:45:57 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Patch the Planet: global response coordination as agents uncover critical vulnerabilities]]></title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <description><![CDATA[Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.]]></description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation]]></title>
-      <link>https://arxiv.org/abs/2610.28586v1</link>
-      <description><![CDATA[Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories beyond the region where the teacher is reliable, so recent metho...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:40:08 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform]]></title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <description><![CDATA[From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.]]></description>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images]]></title>
-      <link>https://arxiv.org/abs/2610.28585v1</link>
-      <description><![CDATA[Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:39:42 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Using thousands of AI agents to uncover new leads in biological data]]></title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <description><![CDATA[See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.]]></description>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning]]></title>
-      <link>https://arxiv.org/abs/2610.28584v1</link>
-      <description><![CDATA[Autoregressive models (ARMs) face a "Sequentiality Bottleneck" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning Asymmetric Learning (CoRAL), a hybrid framework via an Asymmetric Pl...]]></description>
-      <pubDate>Tue, 20 Oct 2026 17:39:41 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Cloudflare links vulnerability discovery to defense with OpenAI]]></title>
+      <link>https://openai.com/index/cloudflare-cyber</link>
+      <description><![CDATA[Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.]]></description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How we built ChatGPT’s novel ad stack for user trust and relevance]]></title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <description><![CDATA[Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.]]></description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Democratic governance of frontier AI, part II: Empowering cyber defenders]]></title>
+      <link>https://openai.com/index/empowering-cyber-defenders</link>
+      <description><![CDATA[OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.]]></description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/ted-taylor-restaurant</link>
       <description><![CDATA[An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.]]></description>
       <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Terminal X matches senior investor judgment 88.6% with GPT-6.1]]></title>
-      <link>https://openai.com/index/terminal-x</link>
-      <description><![CDATA[Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.]]></description>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI acquires Orchestra Bio]]></title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <description><![CDATA[OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.]]></description>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

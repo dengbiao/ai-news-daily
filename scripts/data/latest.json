@@ -1,76 +1,115 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "articles": [
     {
-      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-      "description": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the str...",
-      "link": "https://arxiv.org/abs/2610.28629v1",
-      "pubDate": "2026-10-20T17:59:40.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
-      "description": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view ...",
-      "link": "https://arxiv.org/abs/2610.28622v1",
-      "pubDate": "2026-10-20T17:58:25.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "link": "https://openai.com/index/att-legal",
+      "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
       "entities": [
-        "Intel"
+        "OpenAI"
       ],
       "score": 10
     },
     {
-      "title": "Evolving Agent Interfaces",
-      "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built...",
-      "link": "https://arxiv.org/abs/2610.28601v1",
-      "pubDate": "2026-10-20T17:47:37.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
+      "title": "Broad access through consistent standards",
+      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "Google",
+        "Gemini"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
       "entities": [],
       "score": 10
     },
     {
-      "title": "What Do RTL Repair Benchmarks Actually Measure?",
-      "description": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out cases with 374 syntactic and 85 behavioral mutations; and an evaluation harne...",
-      "link": "https://arxiv.org/abs/2610.28595v1",
-      "pubDate": "2026-10-20T17:45:57.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
       "score": 10
     },
     {
-      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
-      "description": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories beyond the region where the teacher is reliable, so recent metho...",
-      "link": "https://arxiv.org/abs/2610.28586v1",
-      "pubDate": "2026-10-20T17:40:08.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
-      "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
-      "description": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically...",
-      "link": "https://arxiv.org/abs/2610.28585v1",
-      "pubDate": "2026-10-20T17:39:42.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
-      "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
-      "description": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative Reasoning Asymmetric Learning (CoRAL), a hybrid framework via an Asymmetric Pl...",
-      "link": "https://arxiv.org/abs/2610.28584v1",
-      "pubDate": "2026-10-20T17:39:41.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
@@ -83,30 +122,6 @@
       "entities": [
         "GPT",
         "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "link": "https://openai.com/index/terminal-x",
-      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
       ],
       "score": 10
     }

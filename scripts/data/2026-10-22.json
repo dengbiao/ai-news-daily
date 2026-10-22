@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-22",
+  "articles": [
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "link": "https://openai.com/index/att-legal",
+      "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "Google",
+        "Gemini"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    }
+  ]
+}
