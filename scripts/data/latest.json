@@ -1,96 +1,24 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-29",
   "articles": [
     {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "link": "https://openai.com/index/att-legal",
-      "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "description": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
       "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI",
         "Google",
         "Gemini"
       ],
       "score": 10
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "link": "https://openai.com/index/cloudflare-cyber",
-      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "link": "https://openai.com/index/building-chatgpt-ad-stack",
-      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -101,10 +29,86 @@
       "score": 10
     },
     {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "link": "https://openai.com/index/empowering-cyber-defenders",
-      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "title": "The future of the firm",
+      "description": "How AI might enter the org chart—beneath, beside, and between us.",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "link": "https://openai.com/index/legora",
+      "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "description": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "link": "https://openai.com/index/retell-ai",
+      "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "description": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "pubDate": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "Intel"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "pubDate": "Mon, 26 Oct 2026 14:30:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -113,15 +117,14 @@
       "score": 10
     },
     {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "pubDate": "Mon, 26 Oct 2026 13:45:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
-        "GPT",
-        "ChatGPT"
+        "GPT"
       ],
       "score": 10
     }
