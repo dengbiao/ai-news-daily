@@ -6,30 +6,30 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 04:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:19:32 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Learning Calibrated Confidence for Multi-Agent Collaboration]]></title>
-      <link>https://arxiv.org/abs/2610.39927v1</link>
-      <description><![CDATA[Complex information seeking on the Web often requires collecting evidence from multiple documents and reasoning across them, as in multi-hop question answering. Multi-agent systems address such tasks by dividing work among specialized agents, where upstream agents produce intermediate answers and...]]></description>
-      <pubDate>Thu, 29 Oct 2026 12:30:00 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Making it easier for websites to express AI training preferences]]></title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <description><![CDATA[OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.]]></description>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents]]></title>
-      <link>https://arxiv.org/abs/2610.39884v1</link>
-      <description><![CDATA[Industrial advertising agents must continually adapt their decision knowledge to changing product offerings, traffic patterns, and operating policies. We present KARMA (Knowledge-Atomic, Regression-Gated Modular Adaptation), a training-free framework that evolves six typed knowledge modules while...]]></description>
-      <pubDate>Thu, 29 Oct 2026 11:59:01 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Community safety report and new protections for teens]]></title>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <description><![CDATA[OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.]]></description>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round]]></title>
-      <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
-      <description><![CDATA[On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.]]></description>
-      <pubDate>Thu, 29 Oct 2026 14:35:26 GMT</pubDate>
-      <source>TechCrunch AI</source>
+      <title><![CDATA[Fair use benefits everyone]]></title>
+      <link>https://openai.com/index/fair-use-benefits-everyone</link>
+      <description><![CDATA[OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.]]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -57,6 +57,14 @@
     </item>
   
     <item>
+      <title><![CDATA[Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot]]></title>
+      <link>https://openai.com/index/credit-saison</link>
+      <description><![CDATA[Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.]]></description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
       <title><![CDATA[OpenAI and ServiceNow expand partnership across enterprise workflows]]></title>
       <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
       <description><![CDATA[OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.]]></description>
@@ -77,14 +85,6 @@
       <link>https://openai.com/index/legora</link>
       <description><![CDATA[See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.]]></description>
       <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Retell uses OpenAI models to help power 100M monthly calls]]></title>
-      <link>https://openai.com/index/retell-ai</link>
-      <description><![CDATA[GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

@@ -1,34 +1,42 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "articles": [
     {
-      "title": "Learning Calibrated Confidence for Multi-Agent Collaboration",
-      "description": "Complex information seeking on the Web often requires collecting evidence from multiple documents and reasoning across them, as in multi-hop question answering. Multi-agent systems address such tasks by dividing work among specialized agents, where upstream agents produce intermediate answers and...",
-      "link": "https://arxiv.org/abs/2610.39927v1",
-      "pubDate": "2026-10-29T12:30:00.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "Making it easier for websites to express AI training preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
-      "title": "KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents",
-      "description": "Industrial advertising agents must continually adapt their decision knowledge to changing product offerings, traffic patterns, and operating policies. We present KARMA (Knowledge-Atomic, Regression-Gated Modular Adaptation), a training-free framework that evolves six typed knowledge modules while...",
-      "link": "https://arxiv.org/abs/2610.39884v1",
-      "pubDate": "2026-10-29T11:59:01.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "Community safety report and new protections for teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
       "score": 10
     },
     {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
-      "entities": [],
+      "title": "Fair use benefits everyone",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
@@ -68,6 +76,19 @@
       "score": 10
     },
     {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "link": "https://openai.com/index/credit-saison",
+      "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -102,19 +123,6 @@
         "OpenAI",
         "GPT",
         "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "description": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "link": "https://openai.com/index/retell-ai",
-      "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI",
-        "GPT"
       ],
       "score": 10
     }
