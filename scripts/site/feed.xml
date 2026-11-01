@@ -6,8 +6,72 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 04:19:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:39:43 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[From extreme weather to agricultural consequences with agentic AI]]></title>
+      <link>https://arxiv.org/abs/2610.40641v1</link>
+      <description><![CDATA[Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agr...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:58:53 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Collaborative AI agents for autonomous experimental research with solid-state quantum spins]]></title>
+      <link>https://arxiv.org/abs/2610.40589v1</link>
+      <description><![CDATA[An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Her...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:47:50 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In]]></title>
+      <link>https://arxiv.org/abs/2610.40588v1</link>
+      <description><![CDATA[When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an agent is about to give in? We show that a linear probe on t...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:47:40 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[VeriCUA: Verification as Agentic Exploration for Computer-Using Agents]]></title>
+      <link>https://arxiv.org/abs/2610.40578v1</link>
+      <description><![CDATA[Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or gener...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:45:26 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Gym-Anything for Robotics: Scaling physical simulations with digital agents]]></title>
+      <link>https://arxiv.org/abs/2610.40565v1</link>
+      <description><![CDATA[Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and physical phenomena. The core bottleneck is that creating bett...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:42:32 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Advancing Clinical Genomic Analysis with a Skill-Centred Agent]]></title>
+      <link>https://arxiv.org/abs/2610.40556v1</link>
+      <description><![CDATA[Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decisio...]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:40:24 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Last-minute Halloween costumes for tech nerds]]></title>
+      <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
+      <description><![CDATA[No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.]]></description>
+      <pubDate>Fri, 30 Oct 2026 21:26:59 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Zest’s new AI agent finds restaurants and books reservations over text]]></title>
+      <link>https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</link>
+      <description><![CDATA[Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.]]></description>
+      <pubDate>Fri, 30 Oct 2026 17:47:12 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[Making it easier for websites to express AI training preferences]]></title>
       <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
@@ -21,70 +85,6 @@
       <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
       <description><![CDATA[OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.]]></description>
       <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Fair use benefits everyone]]></title>
-      <link>https://openai.com/index/fair-use-benefits-everyone</link>
-      <description><![CDATA[OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.]]></description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[An updated Model Spec for more capable and beneficial AI]]></title>
-      <link>https://openai.com/index/updated-model-spec</link>
-      <description><![CDATA[OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.]]></description>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How we detect frontier model misalignment]]></title>
-      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-      <description><![CDATA[OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.]]></description>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How Ropes & Gray is developing AI for transactional diligence]]></title>
-      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-      <description><![CDATA[Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.]]></description>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot]]></title>
-      <link>https://openai.com/index/credit-saison</link>
-      <description><![CDATA[Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.]]></description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI and ServiceNow expand partnership across enterprise workflows]]></title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <description><![CDATA[OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.]]></description>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[The future of the firm]]></title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <description><![CDATA[How AI might enter the org chart—beneath, beside, and between us.]]></description>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Legora is building the agentic operating system for legal work]]></title>
-      <link>https://openai.com/index/legora</link>
-      <description><![CDATA[See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.]]></description>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

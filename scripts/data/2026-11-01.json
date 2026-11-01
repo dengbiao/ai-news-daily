@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "title": "From extreme weather to agricultural consequences with agentic AI",
+      "description": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agr...",
+      "link": "https://arxiv.org/abs/2610.40641v1",
+      "pubDate": "2026-10-29T17:58:53.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+      "description": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Her...",
+      "link": "https://arxiv.org/abs/2610.40589v1",
+      "pubDate": "2026-10-29T17:47:50.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+      "description": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an agent is about to give in? We show that a linear probe on t...",
+      "link": "https://arxiv.org/abs/2610.40588v1",
+      "pubDate": "2026-10-29T17:47:40.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+      "description": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or gener...",
+      "link": "https://arxiv.org/abs/2610.40578v1",
+      "pubDate": "2026-10-29T17:45:26.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+      "description": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and physical phenomena. The core bottleneck is that creating bett...",
+      "link": "https://arxiv.org/abs/2610.40565v1",
+      "pubDate": "2026-10-29T17:42:32.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+      "description": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decisio...",
+      "link": "https://arxiv.org/abs/2610.40556v1",
+      "pubDate": "2026-10-29T17:40:24.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "pubDate": "Fri, 30 Oct 2026 21:26:59 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    }
+  ]
+}
