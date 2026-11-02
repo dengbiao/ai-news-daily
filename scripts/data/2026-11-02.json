@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
+      "description": "Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successful execution alone does not establish whether the specification preserves the intended problem ...",
+      "link": "https://arxiv.org/abs/2610.41267v1",
+      "pubDate": "2026-10-30T05:20:28.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
+      "description": "Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals, but they do not reliably predict future outcomes: in 8-68% of position pairs across eight strate...",
+      "link": "https://arxiv.org/abs/2610.41264v1",
+      "pubDate": "2026-10-30T05:13:31.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection",
+      "description": "As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains English-centric, with limited benchmarks for low-resource languages such as Hindi. To address this ga...",
+      "link": "https://arxiv.org/abs/2610.41232v1",
+      "pubDate": "2026-10-30T04:13:20.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
+      "description": "Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. Effective evaluation must therefore identify local failures and translate them into priorities for...",
+      "link": "https://arxiv.org/abs/2610.41210v1",
+      "pubDate": "2026-10-30T03:42:15.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+      "description": "Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% of BrowseComp-Plus and 91% on multi-hop FRAMES in our runs, without co...",
+      "link": "https://arxiv.org/abs/2610.41172v1",
+      "pubDate": "2026-10-30T02:48:37.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration",
+      "description": "Although large language models have shown strong capabilities in domain-specific code generation, their performance in robotics software development, especially for the Robot Operating System (ROS), remains largely unexplored. ROS code generation presents distinctive challenges, including complex...",
+      "link": "https://arxiv.org/abs/2610.41168v1",
+      "pubDate": "2026-10-30T02:44:28.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D",
+      "description": "To accelerate materials discovery, language models must be able to address problems at the research frontier. Yet textbook- and examination-derived benchmarks primarily assess established knowledge, leaving performance on frontier research problems largely untested. We introduce FrontierMat, a be...",
+      "link": "https://arxiv.org/abs/2610.41162v1",
+      "pubDate": "2026-10-30T02:37:21.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    }
+  ]
+}
