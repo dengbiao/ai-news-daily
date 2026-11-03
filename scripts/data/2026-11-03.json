@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "title": "Scaling Git at OpenAI",
+      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "LifeVal",
+      "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "link": "https://openai.com/index/lifeval",
+      "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "description": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    }
+  ]
+}

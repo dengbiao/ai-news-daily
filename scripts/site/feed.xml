@@ -6,62 +6,62 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 04:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:34:31 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?]]></title>
-      <link>https://arxiv.org/abs/2610.41267v1</link>
-      <description><![CDATA[Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successful execution alone does not establish whether the specification preserves the intended problem ...]]></description>
-      <pubDate>Fri, 30 Oct 2026 05:20:28 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Scaling Git at OpenAI]]></title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <description><![CDATA[How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.]]></description>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents]]></title>
-      <link>https://arxiv.org/abs/2610.41264v1</link>
-      <description><![CDATA[Training language-model agents to play long-horizon strategy games is hard because deterministic feedback is sparse and often arrives only at the end of a game. In-game scores can offer dense signals, but they do not reliably predict future outcomes: in 8-68% of position pairs across eight strate...]]></description>
-      <pubDate>Fri, 30 Oct 2026 05:13:31 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Introducing the Grid Protectors Program]]></title>
+      <link>https://openai.com/index/grid-protectors-program</link>
+      <description><![CDATA[OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.]]></description>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection]]></title>
-      <link>https://arxiv.org/abs/2610.41232v1</link>
-      <description><![CDATA[As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains English-centric, with limited benchmarks for low-resource languages such as Hindi. To address this ga...]]></description>
-      <pubDate>Fri, 30 Oct 2026 04:13:20 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Rewarding defenders with bigger bug bounties]]></title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <description><![CDATA[OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.]]></description>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models]]></title>
-      <link>https://arxiv.org/abs/2610.41210v1</link>
-      <description><![CDATA[Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. Effective evaluation must therefore identify local failures and translate them into priorities for...]]></description>
-      <pubDate>Fri, 30 Oct 2026 03:42:15 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Preparing our next security sprint to harden OpenAI]]></title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <description><![CDATA[OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.]]></description>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses]]></title>
-      <link>https://arxiv.org/abs/2610.41172v1</link>
-      <description><![CDATA[Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides when to stop. This largely solves accuracy: a harness with only BM25/grep and MiniMax M3 answers 85% of BrowseComp-Plus and 91% on multi-hop FRAMES in our runs, without co...]]></description>
-      <pubDate>Fri, 30 Oct 2026 02:48:37 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[LifeVal]]></title>
+      <link>https://openai.com/index/lifeval</link>
+      <description><![CDATA[Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.]]></description>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[ROSTrans: Empirically Benchmarking LLMs for ROS1-to-ROS2 Migration]]></title>
-      <link>https://arxiv.org/abs/2610.41168v1</link>
-      <description><![CDATA[Although large language models have shown strong capabilities in domain-specific code generation, their performance in robotics software development, especially for the Robot Operating System (ROS), remains largely unexplored. ROS code generation presents distinctive challenges, including complex...]]></description>
-      <pubDate>Fri, 30 Oct 2026 02:44:28 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Qodo builds context into AI code review with Codex]]></title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <description><![CDATA[Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.]]></description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[FrontierMat: Benchmarking Language Models at the Frontier of Materials R&D]]></title>
-      <link>https://arxiv.org/abs/2610.41162v1</link>
-      <description><![CDATA[To accelerate materials discovery, language models must be able to address problems at the research frontier. Yet textbook- and examination-derived benchmarks primarily assess established knowledge, leaving performance on frontier research problems largely untested. We introduce FrontierMat, a be...]]></description>
-      <pubDate>Fri, 30 Oct 2026 02:37:21 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization]]></title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <description><![CDATA[OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.]]></description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
