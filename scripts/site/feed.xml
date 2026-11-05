@@ -6,54 +6,54 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 05:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:28:06 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data]]></title>
-      <link>https://arxiv.org/abs/2611.05320v1</link>
-      <description><![CDATA[Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job. In our DataFarm, the agent receives a data request and one calibratio...]]></description>
-      <pubDate>Tue, 03 Nov 2026 18:25:14 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation]]></title>
-      <link>https://arxiv.org/abs/2611.05319v1</link>
-      <description><![CDATA[In LLM-based recommendation, memory acts as a user-level agent in a memory-augmented backbone. Yet users and items remain asymmetric: only the user is given a structured profile; it enters a bandwidth-limited reranker prompt; and it is frozen after warmup. We recast LLM-based recommendation as an...]]></description>
-      <pubDate>Tue, 03 Nov 2026 18:24:20 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks]]></title>
-      <link>https://arxiv.org/abs/2611.05263v1</link>
-      <description><![CDATA[Multimodal web agents have shown promising capabilities for interacting with websites through graphical user interfaces (GUIs), yet realistic web tasks often require long-horizon, multi-step planning that remains challenging for monolithic policies. Such agents must jointly infer high-level plans...]]></description>
-      <pubDate>Tue, 03 Nov 2026 17:49:14 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes]]></title>
-      <link>https://arxiv.org/abs/2611.05179v1</link>
-      <description><![CDATA[OperAItor, an open-source framework for developing and evaluating large language model agents for supervisory fault management in chemical processes. The framework is demonstrated on a dynamic reactor-distillation process representing isopropanol dehydrogenation, with physically based thermodynam...]]></description>
-      <pubDate>Tue, 03 Nov 2026 16:40:46 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion]]></title>
-      <link>https://arxiv.org/abs/2611.05171v1</link>
-      <description><![CDATA[Predictive models for laser powder bed fusion (LPBF) are rarely used on the shop floor because querying them requires programming and model-specific knowledge. We present AgentAM, a large language model (LLM) agent that gives process engineers natural-language access to CFD-trained surrogates of ...]]></description>
-      <pubDate>Tue, 03 Nov 2026 16:38:46 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens]]></title>
-      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
-      <description><![CDATA[Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.]]></description>
-      <pubDate>Tue, 03 Nov 2026 00:35:52 GMT</pubDate>
+      <title><![CDATA[Meta acquires AI coding startup Conductor]]></title>
+      <link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</link>
+      <description><![CDATA[The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.]]></description>
+      <pubDate>Wed, 04 Nov 2026 21:10:56 GMT</pubDate>
       <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[OpenAI to acquire Pierre Computer Company, Inc.]]></title>
+      <link>https://openai.com/index/openai-to-acquire-pierre</link>
+      <description><![CDATA[OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.]]></description>
+      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]></title>
+      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
+      <description><![CDATA[Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.]]></description>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[A thousand fewer paths to root]]></title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+      <description><![CDATA[OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.]]></description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing Images 2.6]]></title>
+      <link>https://openai.com/index/introducing-images-2-6</link>
+      <description><![CDATA[Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.]]></description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[DevRev delivers autonomous self-service with GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <description><![CDATA[DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.]]></description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>

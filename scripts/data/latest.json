@@ -1,64 +1,78 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "articles": [
     {
-      "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
-      "description": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job. In our DataFarm, the agent receives a data request and one calibratio...",
-      "link": "https://arxiv.org/abs/2611.05320v1",
-      "pubDate": "2026-11-03T18:25:14.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
-      "description": "In LLM-based recommendation, memory acts as a user-level agent in a memory-augmented backbone. Yet users and items remain asymmetric: only the user is given a structured profile; it enters a bandwidth-limited reranker prompt; and it is frozen after warmup. We recast LLM-based recommendation as an...",
-      "link": "https://arxiv.org/abs/2611.05319v1",
-      "pubDate": "2026-11-03T18:24:20.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
-      "description": "Multimodal web agents have shown promising capabilities for interacting with websites through graphical user interfaces (GUIs), yet realistic web tasks often require long-horizon, multi-step planning that remains challenging for monolithic policies. Such agents must jointly infer high-level plans...",
-      "link": "https://arxiv.org/abs/2611.05263v1",
-      "pubDate": "2026-11-03T17:49:14.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "OperAItor: An Agentic Framework for Fault-Tolerant Operation of Chemical Processes",
-      "description": "OperAItor, an open-source framework for developing and evaluating large language model agents for supervisory fault management in chemical processes. The framework is demonstrated on a dynamic reactor-distillation process representing isopropanol dehydrogenation, with physically based thermodynam...",
-      "link": "https://arxiv.org/abs/2611.05179v1",
-      "pubDate": "2026-11-03T16:40:46.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion",
-      "description": "Predictive models for laser powder bed fusion (LPBF) are rarely used on the shop floor because querying them requires programming and model-specific knowledge. We present AgentAM, a large language model (LLM) agent that gives process engineers natural-language access to CFD-trained surrogates of ...",
-      "link": "https://arxiv.org/abs/2611.05171v1",
-      "pubDate": "2026-11-03T16:38:46.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "title": "Meta acquires AI coding startup Conductor",
+      "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
       "source": "TechCrunch AI",
       "sourceCategory": "industry",
-      "entities": [],
+      "entities": [
+        "Meta"
+      ],
+      "score": 10
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "Amazon",
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
       "score": 10
     },
     {
