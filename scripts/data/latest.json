@@ -1,6 +1,40 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "articles": [
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Meta"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Meta"
+      ],
+      "score": 10
+    },
     {
       "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
       "description": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must ...",
@@ -19,6 +53,30 @@
       "source": "ArXiv Sanity - AI",
       "sourceCategory": "research",
       "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
       "score": 10
     },
     {
@@ -58,68 +116,6 @@
         "OpenAI",
         "GPT",
         "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "link": "https://openai.com/ads/customers/flipsnack",
-      "pubDate": "Thu, 05 Nov 2026 00:45:15 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "link": "https://openai.com/index/franklin-templeton",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "Amazon",
-        "GPT"
       ],
       "score": 10
     }

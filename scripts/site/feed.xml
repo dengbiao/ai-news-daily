@@ -6,8 +6,32 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:54:27 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[Meta introduces Spaces, a new way to collaborate with your Muse agent]]></title>
+      <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</link>
+      <description><![CDATA[Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.]]></description>
+      <pubDate>Fri, 06 Nov 2026 18:44:20 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Airbnb says it’s launching an AI travel agent in the first half of 2027]]></title>
+      <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+      <description><![CDATA[Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.]]></description>
+      <pubDate>Thu, 05 Nov 2026 22:40:55 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Meta says US users can now video chat with their Muse AI avatar]]></title>
+      <link>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/</link>
+      <description><![CDATA[Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.]]></description>
+      <pubDate>Thu, 05 Nov 2026 19:48:28 GMT</pubDate>
+      <source>TechCrunch AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization]]></title>
       <link>https://arxiv.org/abs/2611.08483v1</link>
@@ -22,6 +46,22 @@
       <description><![CDATA[ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is...]]></description>
       <pubDate>Thu, 05 Nov 2026 18:55:54 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Partnering with Hacktron to find vulnerabilities in OpenAI’s systems]]></title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <description><![CDATA[OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.]]></description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <description><![CDATA[OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.]]></description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -45,46 +85,6 @@
       <link>https://openai.com/index/merge-builds-with-openai</link>
       <description><![CDATA[Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.]]></description>
       <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
-      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
-      <description><![CDATA[OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.]]></description>
-      <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Flipsnack grows product signups with conversion optimization]]></title>
-      <link>https://openai.com/ads/customers/flipsnack</link>
-      <description><![CDATA[Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.]]></description>
-      <pubDate>Thu, 05 Nov 2026 00:45:15 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Franklin Templeton uses OpenAI to support investment research]]></title>
-      <link>https://openai.com/index/franklin-templeton</link>
-      <description><![CDATA[Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.]]></description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[OpenAI to acquire Pierre Computer Company, Inc.]]></title>
-      <link>https://openai.com/index/openai-to-acquire-pierre</link>
-      <description><![CDATA[OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.]]></description>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]></title>
-      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-      <description><![CDATA[Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.]]></description>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
