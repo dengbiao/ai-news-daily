@@ -6,21 +6,37 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 04:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:55:40 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization]]></title>
-      <link>https://arxiv.org/abs/2611.08483v1</link>
-      <description><![CDATA[LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must ...]]></description>
-      <pubDate>Thu, 05 Nov 2026 18:59:29 GMT</pubDate>
+      <title><![CDATA[ENGRAM: From Agent Experience to Weights through Verified Consolidation]]></title>
+      <link>https://arxiv.org/abs/2611.09472v1</link>
+      <description><![CDATA[Language-model agents use experience through external retrieval and parameter learning. Consolidating stored experience into model weights requires deciding both which experience to train on and when its external records can leave retrieval. Admission based solely on student mastery can exclude u...]]></description>
+      <pubDate>Fri, 06 Nov 2026 13:51:02 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[XStack: A Benchmark for ML Repo Migration]]></title>
-      <link>https://arxiv.org/abs/2611.08472v1</link>
-      <description><![CDATA[ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is...]]></description>
-      <pubDate>Thu, 05 Nov 2026 18:55:54 GMT</pubDate>
+      <title><![CDATA[Agentic AI for Healthcare Claim Denial Analysis: A Policy-Grounded Framework for Privacy Preservation]]></title>
+      <link>https://arxiv.org/abs/2611.09423v1</link>
+      <description><![CDATA[In the healthcare sector, claim denials impose significant financial and administrative burdens, emphasizing the need for automated and trustworthy decision-support systems. This paper proposes a modular Agentic Artificial Intelligence (AI) framework for healthcare claim denial analysis, integrat...]]></description>
+      <pubDate>Fri, 06 Nov 2026 12:51:18 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Typed-Centrality Grounding for Agentic GraphRAG: A Symbolic Approach for Agentic Reasoning]]></title>
+      <link>https://arxiv.org/abs/2611.09414v1</link>
+      <description><![CDATA[Knowledge Graphs (KGs) and Large Language Models (LLMs) represent two approaches for knowledge representation and reasoning over heterogeneous data. Recent research has explored their integration through Graph Retrieval-Augmented Generation (GraphRAG) systems, which use KGs to provide structured ...]]></description>
+      <pubDate>Fri, 06 Nov 2026 12:45:23 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization]]></title>
+      <link>https://arxiv.org/abs/2611.09413v1</link>
+      <description><![CDATA[Magnetic resonance imaging (MRI) pulse sequences organize radiofrequency excitation, gradient encoding, and signal acquisition, determining magnetization evolution and image formation. Sequence research requires translating imaging objectives into executable protocols meeting physical and acquisi...]]></description>
+      <pubDate>Fri, 06 Nov 2026 12:44:55 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
       <description><![CDATA[OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.]]></description>
       <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Flipsnack grows product signups with conversion optimization]]></title>
-      <link>https://openai.com/ads/customers/flipsnack</link>
-      <description><![CDATA[Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.]]></description>
-      <pubDate>Thu, 05 Nov 2026 00:45:15 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Franklin Templeton uses OpenAI to support investment research]]></title>
-      <link>https://openai.com/index/franklin-templeton</link>
-      <description><![CDATA[Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.]]></description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
