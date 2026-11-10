@@ -6,38 +6,54 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 04:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:09:53 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[ENGRAM: From Agent Experience to Weights through Verified Consolidation]]></title>
-      <link>https://arxiv.org/abs/2611.09472v1</link>
-      <description><![CDATA[Language-model agents use experience through external retrieval and parameter learning. Consolidating stored experience into model weights requires deciding both which experience to train on and when its external records can leave retrieval. Admission based solely on student mastery can exclude u...]]></description>
-      <pubDate>Fri, 06 Nov 2026 13:51:02 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Anthropic releases new Mythos and Fable models amid RSI concerns]]></title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+      <description><![CDATA[Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.]]></description>
+      <pubDate>Mon, 09 Nov 2026 19:24:51 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Agentic AI for Healthcare Claim Denial Analysis: A Policy-Grounded Framework for Privacy Preservation]]></title>
-      <link>https://arxiv.org/abs/2611.09423v1</link>
-      <description><![CDATA[In the healthcare sector, claim denials impose significant financial and administrative burdens, emphasizing the need for automated and trustworthy decision-support systems. This paper proposes a modular Agentic Artificial Intelligence (AI) framework for healthcare claim denial analysis, integrat...]]></description>
-      <pubDate>Fri, 06 Nov 2026 12:51:18 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Meta releases Muse Ember, a new lightweight model for agent execution]]></title>
+      <link>https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</link>
+      <description><![CDATA[At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.]]></description>
+      <pubDate>Mon, 09 Nov 2026 18:00:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Typed-Centrality Grounding for Agentic GraphRAG: A Symbolic Approach for Agentic Reasoning]]></title>
-      <link>https://arxiv.org/abs/2611.09414v1</link>
-      <description><![CDATA[Knowledge Graphs (KGs) and Large Language Models (LLMs) represent two approaches for knowledge representation and reasoning over heterogeneous data. Recent research has explored their integration through Graph Retrieval-Augmented Generation (GraphRAG) systems, which use KGs to provide structured ...]]></description>
-      <pubDate>Fri, 06 Nov 2026 12:45:23 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[ChatGPT Enterprise now available in AWS Marketplace]]></title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <description><![CDATA[ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.]]></description>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[SmartBloch-Agent: An Agentic Framework for Automated MRI Sequence Design and Optimization]]></title>
-      <link>https://arxiv.org/abs/2611.09413v1</link>
-      <description><![CDATA[Magnetic resonance imaging (MRI) pulse sequences organize radiofrequency excitation, gradient encoding, and signal acquisition, determining magnetization evolution and image formation. Sequence research requires translating imaging objectives into executable protocols meeting physical and acquisi...]]></description>
-      <pubDate>Fri, 06 Nov 2026 12:44:55 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Control Room: A central system to track and stop model workloads across our research infrastructure]]></title>
+      <link>https://openai.com/index/control-room</link>
+      <description><![CDATA[Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.]]></description>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[CodeRabbit scales agentic software development and ships 20x more]]></title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <description><![CDATA[CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Kuken Industries searches 70 years of drawings in minutes]]></title>
+      <link>https://openai.com/index/kuken</link>
+      <description><![CDATA[Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/introducing-gpt-6-cyber</link>
       <description><![CDATA[Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.]]></description>
       <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Merge builds product and business tools with OpenAI technology]]></title>
-      <link>https://openai.com/index/merge-builds-with-openai</link>
-      <description><![CDATA[Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.]]></description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
-      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
-      <description><![CDATA[OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.]]></description>
-      <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
