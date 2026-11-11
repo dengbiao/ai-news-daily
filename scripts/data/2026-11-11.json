@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Meta",
+        "Apple"
+      ],
+      "score": 10
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "source": "TechCrunch AI",
+      "sourceCategory": "industry",
+      "entities": [
+        "Google"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "pubDate": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "description": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "pubDate": "Tue, 10 Nov 2026 09:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "pubDate": "Tue, 10 Nov 2026 07:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "link": "https://openai.com/index/control-room",
+      "pubDate": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    }
+  ]
+}
