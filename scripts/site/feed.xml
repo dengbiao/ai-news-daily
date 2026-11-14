@@ -6,54 +6,46 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:15:06 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models]]></title>
-      <link>https://arxiv.org/abs/2611.15569v1</link>
-      <description><![CDATA[Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and growing reasoning traces. Low-rank KV compression has emerged as a promising paradigm that stores low-dimensional latents of KV states and can be combined with quantization. However...]]></description>
-      <pubDate>Wed, 11 Nov 2026 14:54:19 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[AI agent startup LangChain hits $3B valuation]]></title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <description><![CDATA[LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.]]></description>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[GHAgentCI: A Dataset of Coding-Agent Invocations in CI Workflow Histories]]></title>
-      <link>https://arxiv.org/abs/2611.15522v1</link>
-      <description><![CDATA[Coding agents are increasingly integrated into GitHub Actions to review pull requests, triage issues and modify code. Identifying these integrations is challenging because agentic workflows often resemble ordinary CI files, with evidence appearing in action references, shell commands and workflow...]]></description>
-      <pubDate>Wed, 11 Nov 2026 14:13:33 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[ChatGPT’s new Wallet lets AI agents shop and check out for you]]></title>
+      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
+      <description><![CDATA[ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.]]></description>
+      <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[DecArena: Evaluating Large-Scale Decentralized Multi-Agent Collaboration]]></title>
-      <link>https://arxiv.org/abs/2611.15521v1</link>
-      <description><![CDATA[Emerging personal AI agents raise fundamental scalability and privacy concerns for centralized multi-agent systems (MASs), which rely on a global orchestrator with broad access to agents, resources, and communication. In decentralized environments, global visibility is unavailable. Agents need to...]]></description>
-      <pubDate>Wed, 11 Nov 2026 14:13:26 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Nectar launches an AI agent to automate creator discovery and outreach for brands]]></title>
+      <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
+      <description><![CDATA[Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.]]></description>
+      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
+      <source>TechCrunch AI</source>
     </item>
   
     <item>
-      <title><![CDATA[Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents]]></title>
-      <link>https://arxiv.org/abs/2611.15515v1</link>
-      <description><![CDATA[Personal AI agents now persist: they hold accounts, mailboxes, long-term memory, and open-ended task streams, yet the dominant way to improve them remains capability-side: prompt engineering, larger models, longer thinking, and retrieval. We argue that long-lived agents are missing an incentive l...]]></description>
-      <pubDate>Wed, 11 Nov 2026 14:09:13 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Introducing ChatGPT Wallet]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <description><![CDATA[Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.]]></description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[SkillEarth: Teaching General-Purpose Agents to Act on Earth via Skill Evolution]]></title>
-      <link>https://arxiv.org/abs/2611.15481v1</link>
-      <description><![CDATA[Recently developed remote sensing (RS) agents execute real-world tasks with complex workflows through multi-step tool invocation. These agents, however, typically rely on predefined expertise or parameter updates. They thus require updating expert knowledge or retraining models whenever new tools...]]></description>
-      <pubDate>Wed, 11 Nov 2026 13:44:34 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Read and Ignore: What Self-Directed LLM Agents Do in Public Service Scenarios]]></title>
-      <link>https://arxiv.org/abs/2611.15460v1</link>
-      <description><![CDATA[Underspecified instructions leave LLM agents to decide what to do. In public services, staff write these instructions, but the agent's decisions affect residents, patients, and students. We build four expert-validated public-service scenarios with records and decision levers that can be checked i...]]></description>
-      <pubDate>Wed, 11 Nov 2026 13:31:32 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[Shield helps technicians hand off legacy portal work with OpenAI]]></title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <description><![CDATA[Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.]]></description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -85,6 +77,14 @@
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
       <description><![CDATA[A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.]]></description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[ChatGPT Plus for veterans and servicemembers]]></title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description><![CDATA[More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.]]></description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
