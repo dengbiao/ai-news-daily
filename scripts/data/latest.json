@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "articles": [
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -22,16 +22,6 @@
         "GPT",
         "ChatGPT"
       ],
-      "score": 10
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
-      "entities": [],
       "score": 10
     },
     {
@@ -117,6 +107,16 @@
         "GPT",
         "ChatGPT"
       ],
+      "score": 10
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
       "score": 10
     }
   ]
