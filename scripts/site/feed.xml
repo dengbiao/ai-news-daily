@@ -6,7 +6,7 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:05:33 GMT</lastBuildDate>
     
     <item>
       <title><![CDATA[AI agent startup LangChain hits $3B valuation]]></title>
@@ -22,6 +22,22 @@
       <description><![CDATA[ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.]]></description>
       <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
       <source>TechCrunch AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[A step toward defining the Standard Model on a lattice]]></title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <description><![CDATA[Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.]]></description>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Our new blog for science]]></title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <description><![CDATA[The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.]]></description>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
       <description><![CDATA[A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.]]></description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ChatGPT Plus for veterans and servicemembers]]></title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <description><![CDATA[More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.]]></description>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[JioStar’s chief architect on AI discovery at 500M-user scale]]></title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <description><![CDATA[JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.]]></description>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

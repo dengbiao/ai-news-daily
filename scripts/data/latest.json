@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "articles": [
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -21,6 +21,30 @@
       "entities": [
         "GPT",
         "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Our new blog for science",
+      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
       ],
       "score": 10
     },
@@ -91,29 +115,6 @@
       "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [],
