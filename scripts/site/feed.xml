@@ -6,85 +6,85 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:11:08 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[AI agent startup LangChain hits $3B valuation]]></title>
-      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
-      <description><![CDATA[LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.]]></description>
-      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[ChatGPT’s new Wallet lets AI agents shop and check out for you]]></title>
-      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
-      <description><![CDATA[ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.]]></description>
-      <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
-      <source>TechCrunch AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[A step toward defining the Standard Model on a lattice]]></title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <description><![CDATA[Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.]]></description>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <title><![CDATA[Introducing GPT-6.2 Astra and Sol]]></title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <description><![CDATA[Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.]]></description>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Our new blog for science]]></title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <description><![CDATA[The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.]]></description>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <title><![CDATA[Strengthening NATO and allied cyber defenses with AI]]></title>
+      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+      <description><![CDATA[How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Introducing ChatGPT Wallet]]></title>
-      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-      <description><![CDATA[Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.]]></description>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <title><![CDATA[Introducing ChatGPT for Sales]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+      <description><![CDATA[Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.]]></description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Shield helps technicians hand off legacy portal work with OpenAI]]></title>
-      <link>https://openai.com/business/customer-stories/shield</link>
-      <description><![CDATA[Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.]]></description>
-      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <title><![CDATA[Astra for Law leads in legal intelligence]]></title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <description><![CDATA[Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[How Amplitude ships product improvements in 1–2 days with OpenAI]]></title>
-      <link>https://openai.com/business/customer-stories/amplitude</link>
-      <description><![CDATA[Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.]]></description>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
+      <title><![CDATA[Introducing OpenAI for Chile]]></title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <description><![CDATA[OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Gondola doubles revenue as its team builds more with Codex]]></title>
-      <link>https://openai.com/business/customer-stories/gondola</link>
-      <description><![CDATA[Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.]]></description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <title><![CDATA[Broadening access to AI for scientists]]></title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <description><![CDATA[We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.]]></description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Supporting research on AI and children’s safety]]></title>
-      <link>https://openai.com/index/children-first-declaration</link>
-      <description><![CDATA[OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.]]></description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Strengthening the fight against online child sexual abuse with new tools and support]]></title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <description><![CDATA[New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.]]></description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
     <item>
-      <title><![CDATA[Gilbert + Tobin rethinks the business of law with AI]]></title>
-      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-      <description><![CDATA[A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.]]></description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Science at the Frontier: How scientists use ChatGPT]]></title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <description><![CDATA[Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.]]></description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[How Revolut raises ambition without lowering the bar]]></title>
+      <link>https://openai.com/business/customer-stories/revolut</link>
+      <description><![CDATA[Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.]]></description>
+      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[LVMH’s Media Division announces strategic partnership with OpenAI]]></title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <description><![CDATA[LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.]]></description>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   

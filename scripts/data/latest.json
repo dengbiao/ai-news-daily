@@ -1,58 +1,98 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-18",
   "articles": [
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "Intel",
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
       "entities": [],
       "score": 10
     },
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "source": "TechCrunch AI",
-      "sourceCategory": "industry",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Our new blog for science",
-      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -62,10 +102,10 @@
       "score": 10
     },
     {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "pubDate": "Mon, 16 Nov 2026 09:30:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
@@ -74,50 +114,17 @@
       "score": 10
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "pubDate": "Thu, 12 Nov 2026 20:00:00 GMT",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
+        "OpenAI",
         "GPT",
         "ChatGPT"
       ],
-      "score": 10
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "link": "https://openai.com/index/children-first-declaration",
-      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [],
       "score": 10
     }
   ]
