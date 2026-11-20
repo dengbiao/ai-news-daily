@@ -1,44 +1,18 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "articles": [
     {
-      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-      "description": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and bench...",
-      "link": "https://arxiv.org/abs/2611.24924v1",
-      "pubDate": "2026-11-18T18:52:13.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
-      "description": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specifica...",
-      "link": "https://arxiv.org/abs/2611.24880v1",
-      "pubDate": "2026-11-18T18:27:40.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
-      "description": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an ev...",
-      "link": "https://arxiv.org/abs/2611.24867v1",
-      "pubDate": "2026-11-18T18:20:12.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "Vibe-Trading: Towards Agent-Native Trading",
-      "description": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: pri...",
-      "link": "https://arxiv.org/abs/2611.24845v1",
-      "pubDate": "2026-11-18T18:07:57.000Z",
-      "source": "ArXiv Sanity - AI",
-      "sourceCategory": "research",
-      "entities": [],
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT",
+        "ChatGPT"
+      ],
       "score": 10
     },
     {
@@ -91,6 +65,19 @@
       "score": 10
     },
     {
+      "title": "Advancing chip design with OpenAI models",
+      "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "description": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
@@ -105,15 +92,40 @@
       "score": 10
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "description": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
       "source": "OpenAI Blog",
       "sourceCategory": "company",
       "entities": [
-        "OpenAI",
-        "GPT"
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
       ],
       "score": 10
     }

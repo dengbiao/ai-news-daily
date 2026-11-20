@@ -6,38 +6,14 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:57:56 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses]]></title>
-      <link>https://arxiv.org/abs/2611.24924v1</link>
-      <description><![CDATA[Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and bench...]]></description>
-      <pubDate>Wed, 18 Nov 2026 18:52:13 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs]]></title>
-      <link>https://arxiv.org/abs/2611.24880v1</link>
-      <description><![CDATA[Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specifica...]]></description>
-      <pubDate>Wed, 18 Nov 2026 18:27:40 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents]]></title>
-      <link>https://arxiv.org/abs/2611.24867v1</link>
-      <description><![CDATA[Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an ev...]]></description>
-      <pubDate>Wed, 18 Nov 2026 18:20:12 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Vibe-Trading: Towards Agent-Native Trading]]></title>
-      <link>https://arxiv.org/abs/2611.24845v1</link>
-      <description><![CDATA[Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state as the environment changes. Financial trading makes this limitation especially consequential: pri...]]></description>
-      <pubDate>Wed, 18 Nov 2026 18:07:57 GMT</pubDate>
-      <source>ArXiv Sanity - AI</source>
+      <title><![CDATA[How OpenAI’s Performance Factory keeps ChatGPT fast]]></title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <description><![CDATA[Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.]]></description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
     </item>
   
     <item>
@@ -73,6 +49,14 @@
     </item>
   
     <item>
+      <title><![CDATA[Advancing chip design with OpenAI models]]></title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <description><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
       <title><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT]]></title>
       <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
       <description><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.]]></description>
@@ -81,10 +65,26 @@
     </item>
   
     <item>
-      <title><![CDATA[Advancing chip design with OpenAI models]]></title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <description><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[Introducing GPT-6.2 Astra and Sol]]></title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <description><![CDATA[Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.]]></description>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Strengthening NATO and allied cyber defenses with AI]]></title>
+      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+      <description><![CDATA[How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.]]></description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Introducing ChatGPT for Sales]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+      <description><![CDATA[Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.]]></description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
