@@ -1,6 +1,40 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "articles": [
+    {
+      "title": "Combatting adversarial distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -28,18 +62,6 @@
       "score": 10
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "description": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "link": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -49,6 +71,18 @@
       "entities": [
         "GPT",
         "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
       ],
       "score": 10
     },
@@ -86,44 +120,6 @@
       "sourceCategory": "company",
       "entities": [
         "OpenAI",
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "description": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
         "GPT",
         "ChatGPT"
       ],
