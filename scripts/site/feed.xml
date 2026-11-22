@@ -6,8 +6,24 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:23:08 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[PlayCraft: Designing Engaging Games from Agent Play Experience]]></title>
+      <link>https://arxiv.org/abs/2611.26624v1</link>
+      <description><![CDATA[Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on ...]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:59:34 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)]]></title>
+      <link>https://arxiv.org/abs/2611.26553v1</link>
+      <description><![CDATA[Agents based on large language models (LLMs) can now delete files and send payments on behalf of their users. News media reports routinely describe failures of these agents (e.g., Replit's coding agent deleting a production database), but a report often only says what went wrong and rarely (in)va...]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:23:35 GMT</pubDate>
+      <source>ArXiv Sanity - AI</source>
+    </item>
+  
     <item>
       <title><![CDATA[Combatting adversarial distillation]]></title>
       <link>https://openai.com/index/combatting-adversarial-distillation</link>
@@ -69,22 +85,6 @@
       <link>https://openai.com/index/managing-frontier-ai-risk</link>
       <description><![CDATA[OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.]]></description>
       <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Advancing chip design with OpenAI models]]></title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <description><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT]]></title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <description><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.]]></description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
