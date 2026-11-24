@@ -6,8 +6,32 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:40:42 GMT</lastBuildDate>
     
+    <item>
+      <title><![CDATA[OpenAI and Cisco introduce Shirudo]]></title>
+      <link>https://openai.com/index/introducing-shirudo</link>
+      <description><![CDATA[OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.]]></description>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Connected intelligence for in-house legal]]></title>
+      <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+      <description><![CDATA[Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.]]></description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
+    <item>
+      <title><![CDATA[Richpanel helps companies automate 50% of support in 30 days]]></title>
+      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+      <description><![CDATA[Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.]]></description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <source>OpenAI Blog</source>
+    </item>
+  
     <item>
       <title><![CDATA[Perplexity and Intelligence]]></title>
       <link>https://openai.com/index/perplexity-and-intelligence</link>
@@ -61,30 +85,6 @@
       <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
       <description><![CDATA[OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.]]></description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise]]></title>
-      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-      <description><![CDATA[Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.]]></description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Managing frontier AI risk: From training to deployment]]></title>
-      <link>https://openai.com/index/managing-frontier-ai-risk</link>
-      <description><![CDATA[OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.]]></description>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
-      <source>OpenAI Blog</source>
-    </item>
-  
-    <item>
-      <title><![CDATA[Advancing chip design with OpenAI models]]></title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <description><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source>OpenAI Blog</source>
     </item>
   
