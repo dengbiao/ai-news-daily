@@ -1,6 +1,71 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "articles": [
+    {
+      "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+      "description": "Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the simple thesis that much of this cost can be removed by delegating easy subtasks to a small languag...",
+      "link": "https://arxiv.org/abs/2611.33098v1",
+      "pubDate": "2026-11-24T18:34:40.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+      "description": "A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such har...",
+      "link": "https://arxiv.org/abs/2611.33093v1",
+      "pubDate": "2026-11-24T18:28:41.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis",
+      "description": "Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised methods either focus on step localization or predict multiple attribution targets from shared trajectory representations. These methods do not use...",
+      "link": "https://arxiv.org/abs/2611.33022v1",
+      "pubDate": "2026-11-24T17:37:25.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "description": "",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
@@ -47,78 +112,6 @@
       "sourceCategory": "company",
       "entities": [
         "Intel"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "GPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [],
-      "score": 10
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI",
-        "GPT",
-        "ChatGPT"
-      ],
-      "score": 10
-    },
-    {
-      "title": "The Silent Consensus",
-      "description": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "pubDate": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "description": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "source": "OpenAI Blog",
-      "sourceCategory": "company",
-      "entities": [
-        "OpenAI"
       ],
       "score": 10
     }
