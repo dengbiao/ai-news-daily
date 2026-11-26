@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion ...",
+      "link": "https://arxiv.org/abs/2611.34920v1",
+      "pubDate": "2026-11-25T18:58:42.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+      "description": "Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the...",
+      "link": "https://arxiv.org/abs/2611.34875v1",
+      "pubDate": "2026-11-25T18:37:06.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+      "description": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how...",
+      "link": "https://arxiv.org/abs/2611.34852v1",
+      "pubDate": "2026-11-25T18:25:30.000Z",
+      "source": "ArXiv Sanity - AI",
+      "sourceCategory": "research",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "description": "",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [],
+      "score": 10
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT",
+        "ChatGPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "OpenAI",
+        "Intel"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "GPT"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "source": "OpenAI Blog",
+      "sourceCategory": "company",
+      "entities": [
+        "Intel"
+      ],
+      "score": 10
+    }
+  ]
+}

@@ -6,29 +6,29 @@
     <link>https://dengbiao.github.io/</link>
     <atom:link href="https://dengbiao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:05:15 GMT</lastBuildDate>
     
     <item>
-      <title><![CDATA[Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance]]></title>
-      <link>https://arxiv.org/abs/2611.33098v1</link>
-      <description><![CDATA[Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the simple thesis that much of this cost can be removed by delegating easy subtasks to a small languag...]]></description>
-      <pubDate>Tue, 24 Nov 2026 18:34:40 GMT</pubDate>
+      <title><![CDATA[$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents]]></title>
+      <link>https://arxiv.org/abs/2611.34920v1</link>
+      <description><![CDATA[Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion ...]]></description>
+      <pubDate>Wed, 25 Nov 2026 18:58:42 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design]]></title>
-      <link>https://arxiv.org/abs/2611.33093v1</link>
-      <description><![CDATA[A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such har...]]></description>
-      <pubDate>Tue, 24 Nov 2026 18:28:41 GMT</pubDate>
+      <title><![CDATA[How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches]]></title>
+      <link>https://arxiv.org/abs/2611.34875v1</link>
+      <description><![CDATA[Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the...]]></description>
+      <pubDate>Wed, 25 Nov 2026 18:37:06 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
     <item>
-      <title><![CDATA[RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis]]></title>
-      <link>https://arxiv.org/abs/2611.33022v1</link>
-      <description><![CDATA[Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised methods either focus on step localization or predict multiple attribution targets from shared trajectory representations. These methods do not use...]]></description>
-      <pubDate>Tue, 24 Nov 2026 17:37:25 GMT</pubDate>
+      <title><![CDATA[DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents]]></title>
+      <link>https://arxiv.org/abs/2611.34852v1</link>
+      <description><![CDATA[Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how...]]></description>
+      <pubDate>Wed, 25 Nov 2026 18:25:30 GMT</pubDate>
       <source>ArXiv Sanity - AI</source>
     </item>
   
